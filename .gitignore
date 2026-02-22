@@ -10,6 +10,7 @@ __pycache__/
 venv/
 env/
 graphrag_env/
+hermes_env/
 
 # Streamlit stuff
 .streamlit/
