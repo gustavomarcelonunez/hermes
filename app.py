@@ -29,6 +29,21 @@ if st.sidebar.button("Load Graph"):
     st.session_state["graph"] = load_graph(graph_choice)
     st.session_state["graph_name"] = graph_choice
 
+model_names = {
+    "openai_gpt4omini": "OpenAI – GPT-4o-mini",
+    "ministral-8b-2512": "Ministral 3 8B",
+    "mistral-small-2506": "Mistral Small 3.2"
+}
+
+selected_pretty = st.sidebar.selectbox(
+    "Choose a language model:",
+    list(model_names.values())
+)
+
+# reverse lookup from pretty to internal key
+selected_model = {v: k for k, v in model_names.items()}[selected_pretty]
+
+
 # --- Main content ---
 if "graph" in st.session_state:
 
@@ -81,7 +96,7 @@ if "graph" in st.session_state:
         subg = extract_subgraph(G, nodes_only, hops=1)
 
         # 4. LLM
-        answer = run_qa(question, subg)
+        answer = run_qa(question, subg, selected_model)
 
         st.markdown("### 🧠 Answer")
         st.write(answer)

@@ -1,19 +1,5 @@
-from openai import OpenAI
 import networkx as nx
-import os
-from dotenv import load_dotenv
-
-
-load_dotenv()
-
-def get_client():
-    api_key = os.getenv("OPENAI_API_KEY")
-    if api_key is None:
-        raise ValueError("OPENAI_API_KEY no está definida")
-    return OpenAI(api_key=api_key)
-
-MODEL = "gpt-4o-mini"
-
+from utils.models import run_llm
 
 def subgraph_to_text(G: nx.Graph):
     triples = []
@@ -25,8 +11,7 @@ def subgraph_to_text(G: nx.Graph):
     return "\n".join(triples[:100])  # limitar por seguridad
 
 
-def run_qa(question: str, subgraph: nx.Graph):
-    client = get_client()
+def run_qa(question: str, subgraph: nx.Graph, model_key: str):
     context_str = subgraph_to_text(subgraph)
 
     system_prompt = """
@@ -46,13 +31,4 @@ Here is the relevant part of the knowledge graph (node relations):
 Provide a concise answer using ONLY this information.
 """
 
-    response = client.chat.completions.create(
-        model=MODEL,
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt},
-        ],
-        temperature=0.1
-    )
-
-    return response.choices[0].message.content
+    return run_llm(model_key, system_prompt, user_prompt)
