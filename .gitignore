@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+*.env
+venv/
+env/
+graphrag_env/
+
+# Streamlit stuff
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# GraphRAG internal cache (if used later)
+output/
+cache/
+
+# Logs
+*.log
+logs/
+
+# Model checkpoints (future)
+checkpoints/
+models/
+
+# Avoid accidentally committing large files
+*.sqlite
+*.db
