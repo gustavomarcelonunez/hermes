@@ -1,0 +1,2364 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="LOBOS MARINOS">
+      <data key="d0">NONE</data>
+      <data key="d1"> Lobos Marinos are a species of marine mammals that are found in the coastal areas of the southern hemisphere, known for their large size and their ability to adapt to different environments. They are currently listed as a species of least concern by the International Union for Conservation of Nature (IUCN), but they are still threatened by habitat loss, hunting, and pollution. Lobos Marinos are found in the coastal areas of the southern hemisphere, where they live in colonies on rocky shores and in the open ocean. They are well adapted to their environment and can survive in a variety of different habitats. Lobos Marinos are the subject of ongoing research in fields such as biology, ecology, and conservation. Scientists are studying their behavior, habitat preferences, and population dynamics to better understand their role in the marine ecosystem. Lobos Marinos have a complex reproductive cycle that includes a gestation period of up to 12 months, followed by a birth weight of up to 1,000 pounds. They are known to give birth to one calf at a time and nurse their young for up to two years. Lobos Marinos have a complex social behavior that includes hunting, mating, and caring for their young. They are also known for their ability to communicate with each other through vocalizations and body language. Lobos Marinos have several biological characteristics that make them well adapted to their environment, including their large size, their ability to swim and dive, and their thick fur. Lobos marinos son especies de pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas de Argentina, conocidos por su adaptaci&#243;n a la vida en el agua y en tierra. Los lobos marinos son un grupo de mam&#237;feros marinos que incluye focas, leones marinos y morsas, conocidos por su adaptaci&#243;n a la vida en el agua y en tierra.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928,2a07d307a2839ae1f889f579a415bf9a,3e11752f9db0c9d6d3511bebdfdf06fa,c5aabd834197cee0008cbbe12580007f</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">e510e83166f5440883f68e021b3c7c7e</data>
+    </node>
+    <node id="PINN&#205;PEDOS">
+      <data key="d0">NONE</data>
+      <data key="d1">Los pinn&#237;pedos son un grupo de mam&#237;feros marinos que incluye focas, leones marinos y morsas, conocidos por su adaptaci&#243;n a la vida en el agua y en tierra.</data>
+      <data key="d2">4637827f6813c74937485d62b3f596b8,9d8e3504b4ee32dcb2cfe65980dddcaa</data>
+      <data key="d5">0</data>
+      <data key="d6">1</data>
+      <data key="d7">834afbb41f954abd95f6c8d3c3b89a36</data>
+    </node>
+    <node id="LOBOS MARINOS DE UNO Y DOS PELOS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1"> Los lobos marinos de uno y dos pelos son especies de pinn&#237;pedos that inhabit the coasts of our country, known for their social behavior and their habitat in colonies. They are also known for their distinctive pelage.</data>
+      <data key="d2">08e9f4bcb8bee78292601780a46936c6,4637827f6813c74937485d62b3f596b8,583f551deb29bf66f80bcf97f89e3c64,59a2e76fa5cfb51e15d733d19084f125,5a07380f5aada9c6c6ef41f242e1c536,773258f4983ae1adc2e995e6a7bd7aa6,8a0c5d2be39b9a9e02f97cbc7551030c,929b52dcc39f3e79e12fe7e15557dbaf,9d8e3504b4ee32dcb2cfe65980dddcaa,a7319504eeb762ae0cc5b15c4d6b5461,abfbf0cbd4646b7d6aff58787b3de0bd,acce0f2d52d35b868047d606555fc1e4,b58cdc05bb2d9dbcf563d7eaa562cf0f,c189d2e78df197f5464424712ff00b40,cd89fd819728e8bb01132a958eb61182,cf58f0416a8d27360f6d6e772471b831,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">2</data>
+      <data key="d7">872c3ad2d9ea444c98606ad246fa11a0</data>
+    </node>
+    <node id="OTARIA FLAVESCENS">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Otaria flavescens es una especie de lobo marino que habita en las costas de Am&#233;rica del Sur, caracterizada por su pelaje y su comportamiento social.</data>
+      <data key="d2">03319985b4a7a0e66f98389e459009f7,08e9f4bcb8bee78292601780a46936c6,103d13f2a7d5f4c20fac4a64966b8fde,144ccee104076cb699414480fca2f46b,2d041f866c2a7f149216961d43696c82,4637827f6813c74937485d62b3f596b8,583f551deb29bf66f80bcf97f89e3c64,59a2e76fa5cfb51e15d733d19084f125,5a07380f5aada9c6c6ef41f242e1c536,773258f4983ae1adc2e995e6a7bd7aa6,77e645beba0bf5256ed258f3fdd4a25e,8a0c5d2be39b9a9e02f97cbc7551030c,929b52dcc39f3e79e12fe7e15557dbaf,9d8e3504b4ee32dcb2cfe65980dddcaa,a7319504eeb762ae0cc5b15c4d6b5461,abfbf0cbd4646b7d6aff58787b3de0bd,acce0f2d52d35b868047d606555fc1e4,b58cdc05bb2d9dbcf563d7eaa562cf0f,bcde333e96de3a3e79ca9adcfa798014,c189d2e78df197f5464424712ff00b40,cd89fd819728e8bb01132a958eb61182,cf58f0416a8d27360f6d6e772471b831,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">7</data>
+      <data key="d6">3</data>
+      <data key="d7">e3879cef3c5e43018466395f0f5d726b</data>
+    </node>
+    <node id="ARCTOCEPHALUS AUSTRALIS">
+      <data key="d0">SPECIES</data>
+      <data key="d1"> Arctocephalus australis is a species of marine wolf found in the southern hemisphere, known for its ability to adapt to different marine habitats.</data>
+      <data key="d2">03319985b4a7a0e66f98389e459009f7,08e9f4bcb8bee78292601780a46936c6,103d13f2a7d5f4c20fac4a64966b8fde,144ccee104076cb699414480fca2f46b,2d041f866c2a7f149216961d43696c82,4637827f6813c74937485d62b3f596b8,583f551deb29bf66f80bcf97f89e3c64,59a2e76fa5cfb51e15d733d19084f125,5a07380f5aada9c6c6ef41f242e1c536,773258f4983ae1adc2e995e6a7bd7aa6,77e645beba0bf5256ed258f3fdd4a25e,8a0c5d2be39b9a9e02f97cbc7551030c,929b52dcc39f3e79e12fe7e15557dbaf,9d8e3504b4ee32dcb2cfe65980dddcaa,a7319504eeb762ae0cc5b15c4d6b5461,abfbf0cbd4646b7d6aff58787b3de0bd,acce0f2d52d35b868047d606555fc1e4,b58cdc05bb2d9dbcf563d7eaa562cf0f,bcde333e96de3a3e79ca9adcfa798014,c0e82041e872b7b6fe0dc4899137a71d,c189d2e78df197f5464424712ff00b40,cd89fd819728e8bb01132a958eb61182,cf58f0416a8d27360f6d6e772471b831,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">8</data>
+      <data key="d6">4</data>
+      <data key="d7">918d14e1fafb49a1a1e220775907acc9</data>
+    </node>
+    <node id="ELEFANTES MARINOS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1"> Los elefantes marinos son grandes pinn&#237;pedos que se caracterizan por su tama&#241;o y su comportamiento migratorio, encontr&#225;ndose en las costas del hemisferio sur. They are large marine mammals known for their size and migratory behavior, found along the coasts of the southern hemisphere.</data>
+      <data key="d2">03319985b4a7a0e66f98389e459009f7,08e9f4bcb8bee78292601780a46936c6,103d13f2a7d5f4c20fac4a64966b8fde,144ccee104076cb699414480fca2f46b,2d041f866c2a7f149216961d43696c82,3e11752f9db0c9d6d3511bebdfdf06fa,4637827f6813c74937485d62b3f596b8,583f551deb29bf66f80bcf97f89e3c64,59a2e76fa5cfb51e15d733d19084f125,5a07380f5aada9c6c6ef41f242e1c536,773258f4983ae1adc2e995e6a7bd7aa6,77e645beba0bf5256ed258f3fdd4a25e,8a0c5d2be39b9a9e02f97cbc7551030c,929b52dcc39f3e79e12fe7e15557dbaf,9d8e3504b4ee32dcb2cfe65980dddcaa,a7319504eeb762ae0cc5b15c4d6b5461,abfbf0cbd4646b7d6aff58787b3de0bd,acce0f2d52d35b868047d606555fc1e4,b58cdc05bb2d9dbcf563d7eaa562cf0f,bcde333e96de3a3e79ca9adcfa798014,c0e82041e872b7b6fe0dc4899137a71d,c189d2e78df197f5464424712ff00b40,c5aabd834197cee0008cbbe12580007f,cd89fd819728e8bb01132a958eb61182,cf58f0416a8d27360f6d6e772471b831,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">5</data>
+      <data key="d7">eb8604c726784291a2cc592954ff5c99</data>
+    </node>
+    <node id="MIROUNGA LEONINAS">
+      <data key="d0">SPECIES</data>
+      <data key="d1"> Mirounga leoninas is a species of elephant seal found in the southern hemisphere, known for its large size and habitat in cold waters.</data>
+      <data key="d2">03319985b4a7a0e66f98389e459009f7,08e9f4bcb8bee78292601780a46936c6,103d13f2a7d5f4c20fac4a64966b8fde,144ccee104076cb699414480fca2f46b,2d041f866c2a7f149216961d43696c82,4637827f6813c74937485d62b3f596b8,583f551deb29bf66f80bcf97f89e3c64,59a2e76fa5cfb51e15d733d19084f125,5a07380f5aada9c6c6ef41f242e1c536,773258f4983ae1adc2e995e6a7bd7aa6,77e645beba0bf5256ed258f3fdd4a25e,8a0c5d2be39b9a9e02f97cbc7551030c,929b52dcc39f3e79e12fe7e15557dbaf,9d8e3504b4ee32dcb2cfe65980dddcaa,a7319504eeb762ae0cc5b15c4d6b5461,abfbf0cbd4646b7d6aff58787b3de0bd,acce0f2d52d35b868047d606555fc1e4,b58cdc05bb2d9dbcf563d7eaa562cf0f,bcde333e96de3a3e79ca9adcfa798014,c0e82041e872b7b6fe0dc4899137a71d,c189d2e78df197f5464424712ff00b40,c5aabd834197cee0008cbbe12580007f,cd89fd819728e8bb01132a958eb61182,cf58f0416a8d27360f6d6e772471b831,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">6</data>
+      <data key="d7">c7afdfd98f6f49538f4be817b6ade3d2</data>
+    </node>
+    <node id="CONSIDERACIONES GENERALES">
+      <data key="d0">NONE</data>
+      <data key="d1"> Consideraciones generales sobre los pinn&#237;pedos en los ecosistemas marinos incluyen su biolog&#237;a, comportamiento y la importancia de su conservaci&#243;n.</data>
+      <data key="d2">03319985b4a7a0e66f98389e459009f7,08e9f4bcb8bee78292601780a46936c6,103d13f2a7d5f4c20fac4a64966b8fde,144ccee104076cb699414480fca2f46b,2d041f866c2a7f149216961d43696c82,4637827f6813c74937485d62b3f596b8,583f551deb29bf66f80bcf97f89e3c64,59a2e76fa5cfb51e15d733d19084f125,5a07380f5aada9c6c6ef41f242e1c536,773258f4983ae1adc2e995e6a7bd7aa6,77e645beba0bf5256ed258f3fdd4a25e,8a0c5d2be39b9a9e02f97cbc7551030c,929b52dcc39f3e79e12fe7e15557dbaf,9d8e3504b4ee32dcb2cfe65980dddcaa,a7319504eeb762ae0cc5b15c4d6b5461,abfbf0cbd4646b7d6aff58787b3de0bd,acce0f2d52d35b868047d606555fc1e4,b58cdc05bb2d9dbcf563d7eaa562cf0f,bcde333e96de3a3e79ca9adcfa798014,c0e82041e872b7b6fe0dc4899137a71d,c189d2e78df197f5464424712ff00b40,cd89fd819728e8bb01132a958eb61182,cf58f0416a8d27360f6d6e772471b831,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d5">0</data>
+      <data key="d6">7</data>
+      <data key="d7">911e46beb48346bf9642ee9350af0fad</data>
+    </node>
+    <node id="CARACTER&#205;STICAS Y DETERMINACIONES BIOL&#211;GICAS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1"> The characteristics and biological determinations of pinnipeds encompass aspects such as their reproduction, feeding, and adaptation to their environment.</data>
+      <data key="d2">03319985b4a7a0e66f98389e459009f7,08e9f4bcb8bee78292601780a46936c6,103d13f2a7d5f4c20fac4a64966b8fde,144ccee104076cb699414480fca2f46b,2d041f866c2a7f149216961d43696c82,4637827f6813c74937485d62b3f596b8,583f551deb29bf66f80bcf97f89e3c64,59a2e76fa5cfb51e15d733d19084f125,5a07380f5aada9c6c6ef41f242e1c536,773258f4983ae1adc2e995e6a7bd7aa6,77e645beba0bf5256ed258f3fdd4a25e,8a0c5d2be39b9a9e02f97cbc7551030c,929b52dcc39f3e79e12fe7e15557dbaf,9d8e3504b4ee32dcb2cfe65980dddcaa,a7319504eeb762ae0cc5b15c4d6b5461,abfbf0cbd4646b7d6aff58787b3de0bd,acce0f2d52d35b868047d606555fc1e4,b58cdc05bb2d9dbcf563d7eaa562cf0f,bcde333e96de3a3e79ca9adcfa798014,c0e82041e872b7b6fe0dc4899137a71d,c189d2e78df197f5464424712ff00b40,cd89fd819728e8bb01132a958eb61182,cf58f0416a8d27360f6d6e772471b831,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d5">0</data>
+      <data key="d6">8</data>
+      <data key="d7">7d87c031aa214fe88206cb18b9d81419</data>
+    </node>
+    <node id="LOBOS MARINOS DE UN PELO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los lobos marinos de uno y dos pelos son especies de pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas, conocidos por su comportamiento social y su h&#225;bitat en colonias.</data>
+      <data key="d2">03319985b4a7a0e66f98389e459009f7</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">9</data>
+      <data key="d7">5681f6e155c44a8a950fa60f76354347</data>
+    </node>
+    <node id="LUZON">
+      <data key="d0">NONE</data>
+      <data key="d1">Luzon is an island in the Philippines, located in the western Pacific Ocean. It is the largest island in the Philippines and is known for its diverse ecosystems, including rainforests, mangroves, and coral reefs.</data>
+      <data key="d2">18c940956aa73d7d33f5f00e41e092ec</data>
+      <data key="d5">5</data>
+      <data key="d6">10</data>
+      <data key="d7">9ed1bf24012444bbb01e01d75926023a</data>
+    </node>
+    <node id="PHILIPPINES">
+      <data key="d0">NONE</data>
+      <data key="d1">The Philippines is a country located in Southeast Asia. It is made up of more than 7,000 islands and is known for its diverse cultures, languages, and natural beauty.</data>
+      <data key="d2">18c940956aa73d7d33f5f00e41e092ec</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">ce9f715fa685415bb7ea3eb561811d8f</data>
+    </node>
+    <node id="PACIFIC OCEAN">
+      <data key="d0">NONE</data>
+      <data key="d1">The Pacific Ocean is the largest ocean in the world, covering more than 63 million square miles. It is known for its diverse marine life, including whales, dolphins, and fish.</data>
+      <data key="d2">18c940956aa73d7d33f5f00e41e092ec</data>
+      <data key="d5">1</data>
+      <data key="d6">12</data>
+      <data key="d7">95a6784910f243619e6a33f0387ad97a</data>
+    </node>
+    <node id="RAIN FORESTS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Rainforests are dense forests that are characterized by high rainfall and a diverse range of plant and animal life. They are found in tropical and subtropical regions around the world and are known for their importance in maintaining global biodiversity.</data>
+      <data key="d2">18c940956aa73d7d33f5f00e41e092ec</data>
+      <data key="d5">1</data>
+      <data key="d6">13</data>
+      <data key="d7">057b16ea9aeb4de69a36baeea8b37ba0</data>
+    </node>
+    <node id="MANGROVES">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Mangroves are coastal ecosystems that are characterized by the presence of mangrove trees. They are found in many parts of the world and are known for their ability to support a diverse range of plant and animal life, as well as their importance in protecting coastlines from erosion and storms.</data>
+      <data key="d2">18c940956aa73d7d33f5f00e41e092ec</data>
+      <data key="d5">1</data>
+      <data key="d6">14</data>
+      <data key="d7">66d7116cd63f4d0ca6818ade6bf29fcc</data>
+    </node>
+    <node id="CORAL REEFS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Coral reefs are underwater ecosystems that are characterized by the presence of coral and other marine organisms. They are found in many parts of the world and are known for their importance in supporting a diverse range of plant and animal life, as well as their economic and cultural significance.</data>
+      <data key="d2">18c940956aa73d7d33f5f00e41e092ec</data>
+      <data key="d5">1</data>
+      <data key="d6">15</data>
+      <data key="d7">f8477fc713c24cc1bbc3e101788a0cbd</data>
+    </node>
+    <node id="ALUMBRAMIENTOS GEMELARES">
+      <data key="d0">BEHAVIOR</data>
+      <data key="d1">Los alumbramientos gemelares son casos de nacimiento de dos cr&#237;as, que no se han comprobado en las hembras observadas.</data>
+      <data key="d2">5a07380f5aada9c6c6ef41f242e1c536,a7319504eeb762ae0cc5b15c4d6b5461</data>
+      <data key="d5">0</data>
+      <data key="d6">16</data>
+      <data key="d7">4d462136e6284fe1a075195306f3fb79</data>
+    </node>
+    <node id="CR&#205;A">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">La cr&#237;a es el reci&#233;n nacido que recibe atenci&#243;n constante de su madre inmediatamente despu&#233;s del nacimiento.</data>
+      <data key="d2">5a07380f5aada9c6c6ef41f242e1c536,a7319504eeb762ae0cc5b15c4d6b5461,acce0f2d52d35b868047d606555fc1e4</data>
+      <data key="d5">4</data>
+      <data key="d6">17</data>
+      <data key="d7">a32fdda10d1a4ca1a1c0c9955a6292fd</data>
+    </node>
+    <node id="MADRE">
+      <data key="d0">MAMMAL</data>
+      <data key="d1"> MADRE: La madre es la hembra que cuida de su cr&#237;a, permaneciendo a su lado y mostrando comportamientos protectores y de atenci&#243;n. Durante este tiempo, no se puede separar a la madre de su cr&#237;a, y en ning&#250;n caso ella se resigna a abandonarla.</data>
+      <data key="d2">5a07380f5aada9c6c6ef41f242e1c536,a7319504eeb762ae0cc5b15c4d6b5461,acce0f2d52d35b868047d606555fc1e4</data>
+      <data key="d5">4</data>
+      <data key="d6">18</data>
+      <data key="d7">6274a310418d49b8aec09b798f8de2ec</data>
+    </node>
+    <node id="NACIMIENTO">
+      <data key="d0">REPRODUCTION</data>
+      <data key="d1">El nacimiento es el proceso en el que la cr&#237;a llega al mundo, momento en el que comienza el cuidado materno.</data>
+      <data key="d2">5a07380f5aada9c6c6ef41f242e1c536,a7319504eeb762ae0cc5b15c4d6b5461,acce0f2d52d35b868047d606555fc1e4</data>
+      <data key="d5">2</data>
+      <data key="d6">19</data>
+      <data key="d7">c6392c9c57e44b9d83787ec2cc25f5d1</data>
+    </node>
+    <node id="ADOLESCENCIA">
+      <data key="d0">BEHAVIOR</data>
+      <data key="d1">La adolescencia es la etapa de desarrollo que sigue al nacimiento, donde la madre contin&#250;a cuidando de la cr&#237;a.</data>
+      <data key="d2">5a07380f5aada9c6c6ef41f242e1c536,a7319504eeb762ae0cc5b15c4d6b5461,acce0f2d52d35b868047d606555fc1e4</data>
+      <data key="d5">2</data>
+      <data key="d6">20</data>
+      <data key="d7">8990087a638c4c86b2ef2c9a252184fc</data>
+    </node>
+    <node id="LUBA">
+      <data key="d0">PINNIPED</data>
+      <data key="d1"> LUBA is a marine mammal species belonging to the family Otariidae, known for its social behavior and habitat in colonies. It is studied extensively for its life and habits, particularly in relation to the location of breeding grounds and the exploitation of these species for industrial and commercial purposes. LUBA is found in colonies along the Atlantic and Fuegian coasts of our country, and females give birth to two offspring, with the mother staying with them throughout the rearing period. LUBA is a social species that is characterized by its habitat in colonies and its behavior.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82,dae5099df9a7523100cc1cec0e5d43fa</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">21</data>
+      <data key="d7">adf12c5e2ede42e9bb69562b80142d04</data>
+    </node>
+    <node id="LAS PELEAS ENTRE MACHO">
+      <data key="d0">BEHAVIOR</data>
+      <data key="d1">Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuello y t&#243;rax. Cuando las heridas no interesan vasos sangu&#237;neos importantes, las curas son espont&#225;neas, pero en los casos que las lesiones han afectado aquellos, no es raro que la p&#233;rdida de sangre ocasione la muerte del sujeto. Esta afirmaci&#243;n est&#225; corroborada por los hallazgos realizados en las lober&#237;as durante el periodo del celo. Muchos cad&#225;veres de machos adultos son encontrados y muestran con evidencia, por las heridas y hemorragias que acusan, la causa del deceso. Las peleas entre machos y hembras son originadas con frecuencia por los intentos de fuga de las &#250;ltimas. La intensidad y consecuencia de estas peleas no son iguales. Algunas veces no pasan de provocaciones y escaramuzas, en tanto que en otras se llega hasta el agotamiento f&#237;sico de los contendores. En este &#250;ltimo caso, resultan los adversarios con innumerables heridas cortantes o desgarradas, algunas de ellas profundas y de magnitudes variables, sobre todo, en las regiones de la cabeza, cuelloll-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ("entity"</data>
+      <data key="d2">5d0b7d4c1666f60b16226f258041ff1e</data>
+      <data key="d5">0</data>
+      <data key="d6">22</data>
+      <data key="d7">500e56aa828a485b8ae2538dff5d3b68</data>
+    </node>
+    <node id="LUBAZOS">
+      <data key="d0">NONE</data>
+      <data key="d1">Los lobos marinos son un grupo de mam&#237;feros marinos que incluye focas, leones marinos y morsas, conocidos por su adaptaci&#243;n a la vida en el agua y en tierra.</data>
+      <data key="d2">bcde333e96de3a3e79ca9adcfa798014</data>
+      <data key="d5">0</data>
+      <data key="d6">23</data>
+      <data key="d7">ed2c8db1e6da4d6faca20af1ed2b9701</data>
+    </node>
+    <node id="LUBAZOS DE UNO Y DOS PELOS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los lobos marinos de uno y dos pelos son especies de pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas, conocidos por su comportamiento social y su h&#225;bitat en colonias.</data>
+      <data key="d2">bcde333e96de3a3e79ca9adcfa798014</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">24</data>
+      <data key="d7">b3a1aa3fff4843f0b9f9330c1291ac7b</data>
+    </node>
+    <node id="LOBERIAS">
+      <data key="d0">NONE</data>
+      <data key="d1"> Las lober&#237;as son colonias de pinn&#237;pedes que se encuentran en las costas del hemisphere sur, conocidas por su h&#225;bitat en aguas fr&#237;as y su adaptaci&#243;n a la vida en tierra. Las lober&#237;as son colonias de lobos marinos que se encuentran en las costas del hemisphere sur, conocidas por su gran tama&#241;o y su h&#225;bitat en aguas fr&#237;as. Las lober&#237;as son parajes, sitios o lugares de la costa, islas, islotes o rocas frecuentados por lobos marinos.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309,5db2579e04c3bb1cddd0129a0af35db2,77e645beba0bf5256ed258f3fdd4a25e,c5aabd834197cee0008cbbe12580007f,e2e07c1a5bead0187dec5149902c9499</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">25</data>
+      <data key="d7">46d4750353f146ecaa105ab802dc5422</data>
+    </node>
+    <node id="LOBERIA">
+      <data key="d0">MARINE ECOSYSTEM</data>
+      <data key="d1"> Loberias are important areas for the study of marine mammals, specifically pinnipeds. They are concentrations or colonies of these animals, and are crucial for understanding their conservation, reproduction, and their role in the marine ecosystem.</data>
+      <data key="d2">e2e07c1a5bead0187dec5149902c9499</data>
+      <data key="d5">2</data>
+      <data key="d6">26</data>
+      <data key="d7">320496db996447e98795a59d705abf7d</data>
+    </node>
+    <node id="LUBERIA">
+      <data key="d0">MARINE ECOSYSTEM</data>
+      <data key="d1"> Luberias are important areas for the study of the conservation of pinnipeds, their reproduction, and their overall ecology within the marine system.</data>
+      <data key="d2">e2e07c1a5bead0187dec5149902c9499</data>
+      <data key="d5">2</data>
+      <data key="d6">27</data>
+      <data key="d7">9b0bffaf3be64fb0bbfd88937fbcbbaf</data>
+    </node>
+    <node id="LOBERIAS TEMPORARIAS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Las lober&#237;as temporarias son colonias de lobos marinos que se encuentran en determinadas &#233;pocas del a&#241;o, especialmente durante el tiempo que precede a la temporada en que se cumplen las funciones de reproducci&#243;n y ocurren los alumbramientos (lapso de alrededor de los 5 meses).</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d5">0</data>
+      <data key="d6">28</data>
+      <data key="d7">d1ec40cd5f1b4c4ca068233acb03a3e3</data>
+    </node>
+    <node id="LOBERIAS PERMANENTES">
+      <data key="d0">PINNIPED</data>
+      <data key="d1"> Las lober&#237;as permanentes son colonias de lobos marinos que sufren escasas variaciones num&#233;ricas, y si hay cambios, son ocasionales. They are located on the coasts of the southern hemisphere.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d5">0</data>
+      <data key="d6">29</data>
+      <data key="d7">1f3e25cb4485409ca085fba731e11ca1</data>
+    </node>
+    <node id="LOBERIAS EXTRACONTINENTALES">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Las lober&#237;as extra-continentales son colonias de lobos marinos que se encuentran en islas, islotes o rocas pr&#243;ximas al continente. Est&#225;n ubicadas en el hemisphere sur.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d5">0</data>
+      <data key="d6">30</data>
+      <data key="d7">df961dc07b0047b991820f69057ce701</data>
+    </node>
+    <node id="LOBERIAS CONTINENTALES">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Las lober&#237;as continentales son colonias de lobos marinos que se encuentran en el hemisphere sur, en tierra firme. Est&#225;n ubicadas en el hemisphere sur.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d5">0</data>
+      <data key="d6">31</data>
+      <data key="d7">cf96bfdc60754470a9029aa2433f2706</data>
+    </node>
+    <node id="LOBERIAS MIXTAS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Las lober&#237;as mixtas son colonias de lobos marinos que se encuentran en el hemisphere sur, en tierra firme. Est&#225;n ubicadas en el hemisphere sur.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d5">0</data>
+      <data key="d6">32</data>
+      <data key="d7">29e3db4f32024010b4b96022fc720d1a</data>
+    </node>
+    <node id="LOBERIAS INTEGRAS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Las lober&#237;as integras son colonias de lobos marinos que se encuentran en el hemisphere sur, en tierra firme. Est&#225;n ubicadas en el hemisphere sur.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d5">0</data>
+      <data key="d6">33</data>
+      <data key="d7">013f5a68a2a44d608592449704e32c39</data>
+    </node>
+    <node id="PINNIPED">
+      <data key="d0" />
+      <data key="d1"> Pinnipeds are a group of marine mammals that include penguins, seals, sea lions, and walruses. They are known for their adaptation to life in the water and on land.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d,c5aabd834197cee0008cbbe12580007f</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">34</data>
+      <data key="d7">ca9b99a8257649fc9621ad5bc65af59c</data>
+    </node>
+    <node id="LOBO MARINO DE UNO Y DOS PELOS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1"> Los lobos marinos de uno y dos pelos son especies de pinn&#237;pedos that inhabit the coasts of our country, known for their social behavior and their habitat in colonies.</data>
+      <data key="d2">08e9f4bcb8bee78292601780a46936c6,77e645beba0bf5256ed258f3fdd4a25e</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">35</data>
+      <data key="d7">290c18f26d74403eb998b8219395bc20</data>
+    </node>
+    <node id="LOBERO">
+      <data key="d0">NONE</data>
+      <data key="d1">Los lobos marinos son un grupo de mam&#237;feros marinos que incluye focas, leones marinos y morsas, conocidos por su adaptaci&#243;n a la vida en el agua y en tierra.)("entity"</data>
+      <data key="d2">882fdf01528bf45b0f6d55ba9924f551</data>
+      <data key="d5">0</data>
+      <data key="d6">36</data>
+      <data key="d7">fece6adecaac498c9571f0fa024d9b0f</data>
+    </node>
+    <node id="NACIMENTO">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">acce0f2d52d35b868047d606555fc1e4</data>
+      <data key="d5">2</data>
+      <data key="d6">37</data>
+      <data key="d7">a03aaf818b6e46349382bb326e955b20</data>
+    </node>
+    <node id="PUNTA BERMEJA">
+      <data key="d0">LOBER&#205;A</data>
+      <data key="d1">PUNTA BERMEJA</data>
+      <data key="d2">a601887e8e26ca24bc383e59ed0bd947</data>
+      <data key="d5">0</data>
+      <data key="d6">38</data>
+      <data key="d7">14290e4ac21c4fcd9e23abf1b297ec7f</data>
+    </node>
+    <node id="LUBER&#205;AS &quot;PUNTA DELGADA&quot;">
+      <data key="d0">NONE</data>
+      <data key="d1">Lobos marinos de uno y dos pelos, elefantes marinos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de uno y dos pelos, lobos marinos de None&lt;</data>
+      <data key="d2">45abddc2bb9e83effafbcae15de72d03</data>
+      <data key="d5">0</data>
+      <data key="d6">39</data>
+      <data key="d7">c5700461fe7c4e40ac255c359e8f7f56</data>
+    </node>
+    <node id="LUBOS MARINOS DE UNO Y DOS PELOS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1"> Los lobos marinos de uno y dos pelos son especies de pinn&#237;pedos that inhabit the Atlantic and Fueguina coasts of our country, known for their social behavior and their habitat in colonies.</data>
+      <data key="d2">103d13f2a7d5f4c20fac4a64966b8fde,cf58f0416a8d27360f6d6e772471b831</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">40</data>
+      <data key="d7">db4ed69370a74ea4aa0bafe300d5e2c3</data>
+    </node>
+    <node id="ACTER&#205;STICAS">
+      <data key="d0">NONE</data>
+      <data key="d1">Las caracter&#237;sticas de los lobos marinos incluyen su permanencia, mixto parici&#243;n, y su inexplotaci&#243;n.</data>
+      <data key="d2">d12aea8b41f8654da913712b1182332f</data>
+      <data key="d5">1</data>
+      <data key="d6">41</data>
+      <data key="d7">fef9635b2abc4fe88ce24dbc2272f179</data>
+    </node>
+    <node id="POBLACI&#211;N">
+      <data key="d0">NONE</data>
+      <data key="d1"> The population of lobos marinos in the southwestern coast of the Bay of Thouctof is estimated to be approximately 55 adult lobos of both sexes. The population of lobos marinos along the southern coast of the Gulf of San Jorge is estimated to be 2940 lobos, with 2100 in the high tide zone, 240 in the mid tide zone, and 290 in the low tide zone. The lobos marinos are distributed across the islands of Blanca Este, Blanca Oeste, Moreno, and Vald&#233;s, with a total population of 10,000 lobos.</data>
+      <data key="d2">542231ad71887d5ea52f251bd5ce2e3e,b936698b8bf77875919870e3152faf6d,d12aea8b41f8654da913712b1182332f</data>
+      <data key="d5">3</data>
+      <data key="d6">42</data>
+      <data key="d7">334a1f900f3f42ef8e79b97c20151620</data>
+    </node>
+    <node id="ISLOTE SUR DE PUNTA LOBER&#205;A">
+      <data key="d0">POPULACI&#211;N DE PING&#220;INOS</data>
+      <data key="d1"> ISLOTE SUR DE PUNTA LOBERA is a marine ecosystem located in the southern part of Punta Lobera Island. The island is home to a population of lobos marinos, which are characterized by their size and strength. The lobos marinos on the island are also the subject of conservation efforts, which aim to protect their habitat and ensure their survival. The island's marine ecosystem is also home to a population of penguins, which are known for their distinctive black and white plumage and their ability to swim and fly. The population of penguins on the island is closely monitored by researchers, who study their behavior and ecology to better understand their role in the island's ecosystem. The lobos marinos and penguins on the island also reproduce, with the lobos marinos giving birth to their young in underwater caves and the penguins nesting on the island's rocky shores. The research on the lobos marinos and penguins on the island is ongoing, with scientists working to understand their interactions with each other and with their environment. The topography of the island is also an important factor in the marine ecosystem, with its rocky shores and underwater caves providing habitat for a variety of marine species. Overall, ISLOTE SUR DE PUNTA LOBERA is a unique and important marine ecosystem, home to a diverse range of marine species and providing valuable insights into the complex relationships between them.</data>
+      <data key="d2">d12aea8b41f8654da913712b1182332f</data>
+      <data key="d5">2</data>
+      <data key="d6">43</data>
+      <data key="d7">4155b76c66a24361b9811749c5d889fc</data>
+    </node>
+    <node id="LOBER&#205;A &#8220;ISLA CUMBRE&#8221;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d12aea8b41f8654da913712b1182332f</data>
+      <data key="d5">1</data>
+      <data key="d6">44</data>
+      <data key="d7">2a56f7d5a8b847288741aa4b6d556ff3</data>
+    </node>
+    <node id="ISLOTE SUR DE PUNTA LO (&quot;ENTITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d12aea8b41f8654da913712b1182332f</data>
+      <data key="d5">1</data>
+      <data key="d6">45</data>
+      <data key="d7">e99b16b0fc7d4b9ebe41efb13aab3658</data>
+    </node>
+    <node id="LAS ALUMBRAMIENTOS GEMELARES">
+      <data key="d0">BEHAVIOR</data>
+      <data key="d1">Las alumbramientos gemelares son casos de nacimiento de dos cr&#237;as, que no se han comprobado en las hembras observadas.&lt;/entity&gt;("entity"</data>
+      <data key="d2">6d318de28f93d9164e886cc7489e0e83</data>
+      <data key="d5">0</data>
+      <data key="d6">46</data>
+      <data key="d7">22ae06fa067b43d6bfcf3f5a5d7de107</data>
+    </node>
+    <node id="LAS ESPECIES DE LOBOS MARINOS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Las especies de lobos marinos son pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas de nuestro pa&#237;s, conocidos por su adaptaci&#243;n a la vida en el agua y en tierra.</data>
+      <data key="d2">59a2e76fa5cfb51e15d733d19084f125</data>
+      <data key="d5">0</data>
+      <data key="d6">47</data>
+      <data key="d7">701b94bb8e924d998ad62ce712ac61f0</data>
+    </node>
+    <node id="COSTA S. DEL GOLFO DE SAN JORGE">
+      <data key="d0">NONE</data>
+      <data key="d1">La costa sur del golfo de San Jorge es una regi&#243;n costera ubicada en Argentina, entre Punta Nava y Bah&#237;a Sanguineto, en la provincia de Santa Cruz.</data>
+      <data key="d2">b936698b8bf77875919870e3152faf6d</data>
+      <data key="d5">3</data>
+      <data key="d6">48</data>
+      <data key="d7">aa4b380fc4694fcd83638fe361347b3c</data>
+    </node>
+    <node id="TOPOGRAF&#205;A REGIONAL">
+      <data key="d0">NONE</data>
+      <data key="d1"> The topography of the regional area of S.W. de la Bah&#237;a Thouctof includes a small island with vegetation, a narrow rocky beach with a little sand, and a resting area. The coast is smooth and is cut by a canyon that extends from S.W. to N.E., and empties onto the coast over a 20-meter-long section. The coast also features high cliffs cut at a steep angle, with abundant rounded rocks and sand in their cavity. The coast of the Gulf of San Jorge includes a rocky beach with small hills that project resting areas, low cliffs with vegetation, and a clayey area with typical vegetation.</data>
+      <data key="d2">542231ad71887d5ea52f251bd5ce2e3e,b936698b8bf77875919870e3152faf6d,e411653fa84230bcd9ca8f9b38657cca</data>
+      <data key="d5">3</data>
+      <data key="d6">49</data>
+      <data key="d7">3dc518f5bc7647f4a84fdf10319b2f7b</data>
+    </node>
+    <node id="CARACTER&#205;STICAS">
+      <data key="d0">NONE</data>
+      <data key="d1"> The Car&#225;cter&#237;sticas de S.W. de la Bah&#237;a Thouctof are characterized by their temporariedad, mixedness, and population of lobos marinos. The costa sur del golfo de San Jorge is characterized by its permanency, mixed parition, and the fact that it is a displaced anchorage towards the west. The characteristics of pinn&#237;pedos include their reproduction, feeding, and adaptation to their environment.</data>
+      <data key="d2">542231ad71887d5ea52f251bd5ce2e3e,b936698b8bf77875919870e3152faf6d,e411653fa84230bcd9ca8f9b38657cca</data>
+      <data key="d5">3</data>
+      <data key="d6">50</data>
+      <data key="d7">0f9085900fb245f39056aebff0874007</data>
+    </node>
+    <node id="LOTES PUNTUDO">
+      <data key="d0">NONE</data>
+      <data key="d1">Los lobos marinos de uno y dos pelos se encuentran en el islote Puntudo, ubicado en la costa atl&#225;ntica de Argentina. Los lobos marinos de uno y dos pelos son especies de pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas de nuestro pa&#237;s, conocidos por su comportamiento social y su h&#225;bitat en colonias.</data>
+      <data key="d2">94f4298857de42f37006e6e3561c06ee</data>
+      <data key="d5">0</data>
+      <data key="d6">51</data>
+      <data key="d7">3f7889475e184f42a75500806c07bbcd</data>
+    </node>
+    <node id="ISLOTE CABO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1"> The islote Cabo is a location on the Atlantic coast of Argentina where two-peled sea wolves are found. These sea wolves are a species of pinnipeds that are known for their social behavior and their habitat in colonies.</data>
+      <data key="d2">94f4298857de42f37006e6e3561c06ee</data>
+      <data key="d5">0</data>
+      <data key="d6">52</data>
+      <data key="d7">a4f0cb3cd42247948cd2f46aac646ff5</data>
+    </node>
+    <node id="ISLOTE PUNTUDO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los lobos marinos de uno y dos pelos se encuentran en el islote Puntudo, ubicado en la costa atl&#225;ntica de Argentina. Los lobos marinos de uno y dos pelos son especies de pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas de nuestro pa&#237;s, conocidas por su comportamiento social y su h&#225;bitat en colonias.</data>
+      <data key="d2">94f4298857de42f37006e6e3561c06ee</data>
+      <data key="d5">0</data>
+      <data key="d6">53</data>
+      <data key="d7">6f4473bc605b4ee0a36c76c86964ad4d</data>
+    </node>
+    <node id="RODADO">
+      <data key="d0">NONE</data>
+      <data key="d1">Rodado es un lugar en la costa de la isla de Tierra del Fuego, ubicado a 15 metros de altura aproximadamente.&lt;/entity&gt;("entity"</data>
+      <data key="d2">a48ce0dd8016f44c624e3bc01162c4c5</data>
+      <data key="d5">0</data>
+      <data key="d6">54</data>
+      <data key="d7">fa15582df61348b3a1f2c6b21eb0305d</data>
+    </node>
+    <node id="LAGUNA">
+      <data key="d0">LAGUNA</data>
+      <data key="d1"> Laguna de San Antonio is a lagoon located on the northwest coast of Bah&#237;a San Antonio, between Cabo Colnett and Cabo San Diego. It is situated on the northwest coast of the bay, close to the homonymous cape. The distance from the tip of Cabo San Antonio to the southeast is approximately 400 meters. The latitude of the lagoon is 54&#176; 43&#8217; 30&#8221; S and the longitude is 64&#176; 32&#8217; 5&#8221; W.</data>
+      <data key="d2">12514c85e508ab1f8e976632806d74d6</data>
+      <data key="d5">0</data>
+      <data key="d6">55</data>
+      <data key="d7">5b1ee429922745c091127826c828a031</data>
+    </node>
+    <node id="CALETA CHICA">
+      <data key="d0">CALETA CHICA</data>
+      <data key="d1">Caleta Chica, ubicada entre Punta Este Sin Nombre de Bah&#237;a Thetis y Cabo San Diego. Topograf&#237;a rocosa, piedras de regular tama&#241;o, algo de canto rodado. Costas barrancas a pique de regular altura, 15 metros aproximadamente. Cubierta con vegetaci&#243;n t&#237;pica.&lt;/description&gt;</data>
+      <data key="d2">12514c85e508ab1f8e976632806d74d6</data>
+      <data key="d5">0</data>
+      <data key="d6">56</data>
+      <data key="d7">7cd7caad8d804fefb5504f0712f5d5e8</data>
+    </node>
+    <node id="CABO SAN DIEGO">
+      <data key="d0">CABO SAN DIEGO</data>
+      <data key="d1">Cabo San Diego, ubicado al S.E. de Caleta Ferrio, al N.W. de Cabo San Diego. Conocido tambi&#233;n con el nombre de Apostadero &#8220;del Cabo&#8221; o Loberia &#8220;Las Piedras&#8221;. Dista aproximadamente 9 kil&#243;metros desde el apostadero de &#8220;Cabo San Vicente&#8221;. Latitud: 54&#176; 39&#8217; 10&#8221; S. Longitud: 65&#176; 7&#8217; 30&#8221; w.&lt;/description&gt;</data>
+      <data key="d2">12514c85e508ab1f8e976632806d74d6</data>
+      <data key="d5">0</data>
+      <data key="d6">57</data>
+      <data key="d7">7ad75668faaa41428f870d7e5e4fc3ff</data>
+    </node>
+    <node id="LAS HEMBRAS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Las hembras que he observado en la &#233;poca de los alumbramientos, solo atienden a una cr&#237;a, nunca a dos.&lt;/entity&gt;("entity"</data>
+      <data key="d2">0b772cca872bd1596e837c48e534ed7a</data>
+      <data key="d5">0</data>
+      <data key="d6">58</data>
+      <data key="d7">cee2c7f4efba4ae6b4e53e01164e1e1c</data>
+    </node>
+    <node id="ACI&#211;N DE TIERRA DEL FUEGO">
+      <data key="d0">NONE</data>
+      <data key="d1">La acci&#243;n de tierra del fuego es una organizaci&#243;n que se encarga de la gesti&#243;n de las lobos marinos en las costas de tierra del fuego.</data>
+      <data key="d2">2f4d4de1f51823e41ae13d66576539cb</data>
+      <data key="d5">4</data>
+      <data key="d6">59</data>
+      <data key="d7">707468fe0eff420e82db46dda36889a7</data>
+    </node>
+    <node id="LOBER&#205;A &quot;CALETA SAN MAURICIO&quot;">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La lober&#237;a "Caleta San Mauricio" es una especie de pinn&#237;pedo que se encuentra en las costas de tierra del fuego.</data>
+      <data key="d2">2f4d4de1f51823e41ae13d66576539cb</data>
+      <data key="d5">1</data>
+      <data key="d6">60</data>
+      <data key="d7">3b1e2a9186154c5a9cc111b9a341c38a</data>
+    </node>
+    <node id="LOBER&#205;A &quot;BAH&#205;A BUEN SUCESO&quot;">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La lober&#237;a "Bah&#237;a Buen Suceso" es una especie de pinn&#237;pedo que se encuentra en las costas de tierra del fuego.</data>
+      <data key="d2">2f4d4de1f51823e41ae13d66576539cb</data>
+      <data key="d5">1</data>
+      <data key="d6">61</data>
+      <data key="d7">a1b8d13f2cbc4bb298f697c3c2bb07a8</data>
+    </node>
+    <node id="LOBER&#205;A &quot;ENSENADA PATAGONES&quot;">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La lober&#237;a "Ensenada Patagones" es una especie de pinn&#237;pedo que se encuentra en las costas de tierra del fuego.</data>
+      <data key="d2">2f4d4de1f51823e41ae13d66576539cb</data>
+      <data key="d5">1</data>
+      <data key="d6">62</data>
+      <data key="d7">19fc898656e34b24bbbdd1e2286f0455</data>
+    </node>
+    <node id="LOBER&#205;A &quot;CABO BUEN SUCESO&quot;">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La lober&#237;a "Cabo Buen Suceso" es una especie de pinn&#237;pedo que se encuentra en las costas de tierra del fuego.</data>
+      <data key="d2">2f4d4de1f51823e41ae13d66576539cb</data>
+      <data key="d5">1</data>
+      <data key="d6">63</data>
+      <data key="d7">27f5109b29b2450db152bc5b05875099</data>
+    </node>
+    <node id="PERMANENTE">
+      <data key="d0">NONE</data>
+      <data key="d1">Lobos marinos de uno y dos pelos</data>
+      <data key="d2">a4db5e0e4291abc5a30297f97a8ac533</data>
+      <data key="d5">0</data>
+      <data key="d6">64</data>
+      <data key="d7">eaebc4c55378459bb3677e8ad9a1dc71</data>
+    </node>
+    <node id="S.W. DE LA BAHIA THUCTOF">
+      <data key="d0">NONE</data>
+      <data key="d1">S.W. de la Bah&#237;a Thouctof es un islote en el Canal de Beagle, en las costas atl&#225;nticas y fueguinas de nuestro pa&#237;s, conocido por su vegetaci&#243;n y su playa estrecha y rocosa.</data>
+      <data key="d2">542231ad71887d5ea52f251bd5ce2e3e</data>
+      <data key="d5">3</data>
+      <data key="d6">65</data>
+      <data key="d7">86eba519c9eb4c14a6c017071320d42f</data>
+    </node>
+    <node id="LOBER&#205;AS">
+      <data key="d0">CONSEJOS MARITIMOS DE TIERRA DEL FUEGO</data>
+      <data key="d1"> Lobos marinos are marine mammals that are hunted for their meat and other byproducts in Argentina. The observations made on the different industrialization plants that have concessions for lobos marinos show that the total utilization of the animal is not achieved. Efforts to simultaneously utilize the organs, waste, bones, etc. of lobos marinos, which is successfully practiced in other countries, have not been successful in Argentina due to their anti-economic nature. Temporary tasks are carried out during the hunting season, within the established limits for each concession and within the regulated times. The direction of these tasks is usually under a common regime that is specialized for each stage of the work. The maximum authority is the concessionaire or the substitute in case of an accident. The capataz is the man who knows the work and is usually initiated in the activities as a simple "lobero". The concessionaire deposits his trust in him and is responsible for ordering, disposing, and executing any work that relates to any of the stages inherent to the exploitation. It is worth noting that the capataz is always a man of character and notable ascendancy over the rest of the "comparsa".</data>
+      <data key="d2">da6bf576b51c96c74aee885ecd44a5d3</data>
+      <data key="d5">1</data>
+      <data key="d6">66</data>
+      <data key="d7">b7b3e460ffca40dea9343a0cdca82d4e</data>
+    </node>
+    <node id="CONSEJOS MARITIMOS DE TIERRA DEL FUEGO">
+      <data key="d0">CONSEJOS MARITIMOS DE TIERRA DEL FUEGO</data>
+      <data key="d1"> The Consejos Mar&#237;timos de Tierra del Fuego are responsible for managing the fishing industry in the region. However, observations conducted on the different industrial plants that have concessions in the area suggest that the total utilization of the animal is not being achieved. Efforts to simultaneously utilize the organs, residual waste, bones, etc. of the sea lions, which is successfully practiced in other countries, have not been successful in Argentina due to their anti-economic nature.</data>
+      <data key="d2">da6bf576b51c96c74aee885ecd44a5d3</data>
+      <data key="d5">1</data>
+      <data key="d6">67</data>
+      <data key="d7">9b833774af98430484d083bc1e1a0e74</data>
+    </node>
+    <node id="LOBERAS">
+      <data key="d0">NONE</data>
+      <data key="d1">Loberas son &#225;reas donde se caza y explota a los lobos marinos, especie de mam&#237;feros marinos adaptados a la vida en el agua y en tierra.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">68</data>
+      <data key="d7">d618eeee17ec409fb722cefd9561fb4e</data>
+    </node>
+    <node id="ACEITE DE LOBO MARINO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1"> The aceite de lobo marino is a yellow-amber liquid with a distinctive smell of lobo, which solidifies below 0 degrees Celsius, has a variable density ranging from 0.913 to 0.927, and a saponification range of 178 to 196, with an average of 184 to 193. The iodine index is also variable, with an average of 140 to 155. The free acidity and density are low and variable depending on the type of aceite obtained. The extraction methods are diverse, resulting in different types of aceite of varying quality. The aceite de lobo marino is a product obtained from the carne of the lobos marinos, a species of pinn&#237;pedos found in the Atlantic and Fueguina coasts.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5,db8b432a978f4e34703f337510f8573d</data>
+      <data key="d5">3</data>
+      <data key="d6">69</data>
+      <data key="d7">2816f58abfe74b819c25a2ad0bb198b0</data>
+    </node>
+    <node id="CORTES">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los cortes son las partes de la carne de los lobos marinos que se separan de la piel y el hueso, y se utilizan para la elaboraci&#243;n del aceite de lobo marino.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">70</data>
+      <data key="d7">c63cfdae7f2247229919bad7c84f62d3</data>
+    </node>
+    <node id="ARREO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">El arreo es el proceso de separar a los lobos marinos de la piel y el hueso, y se utiliza para la elaboraci&#243;n del aceite de lobo marino.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">71</data>
+      <data key="d7">a66cb174a6e54ded8c09c93bf4577f91</data>
+    </node>
+    <node id="MATANZA">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La matanza es el proceso de asesinar a los lobos marinos, especie de pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">72</data>
+      <data key="d7">b5659df51fa945aea1812c2d0485ce6d</data>
+    </node>
+    <node id="PI&#209;ON">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">El pi&#241;&#243;n es el cuerpo de un lobo marino, especie de pinn&#237;pedo que se encuentran en las costas atl&#225;nticas y fueguinas.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">73</data>
+      <data key="d7">56107e1c4caa4d1b8c089582caca16e5</data>
+    </node>
+    <node id="CABEZA">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La cabeza es la parte superior del cuerpo de un lobo marino, especie de pinn&#237;pedo que se encuentran en las costas atl&#225;nticas y fueguinas.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">74</data>
+      <data key="d7">927251628e9243f7a3ad495762547f25</data>
+    </node>
+    <node id="REGI&#211;N PARIETAL">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La regi&#243;n parietal es una parte de la cabeza de un lobo marino, especie de pinn&#237;pedo que se encuentran en las costas atl&#225;nticas y fueguinas.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">75</data>
+      <data key="d7">9ea746db34264eb59b86c4bf5afc552f</data>
+    </node>
+    <node id="CR&#193;NEO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">El cr&#225;neo es la parte superior del cuerpo de un lobo marino, especie de pinn&#237;pedo que se encuentran en las costas atl&#225;nticas y fueguinas.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">76</data>
+      <data key="d7">5200aa2098d849e8930557c76b5fad47</data>
+    </node>
+    <node id="ORIFICIO DE ENTRADA">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">El orificio de entrada es una abertura en el cr&#225;neo de un lobo marino, especie de pinn&#237;pedo que se encuentran en las costas atl&#225;nticas y fueguinas.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">77</data>
+      <data key="d7">173a2ff8c68149b09a390e7ebe9d6628</data>
+    </node>
+    <node id="PICO DE ALBA&#209;IL">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">El pico de alba&#241;il es un instrumento utilizado para matar a los lobos marinos, especie de pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">78</data>
+      <data key="d7">2f5e03d8710342138099ddd71764bbf4</data>
+    </node>
+    <node id="PUNTA DE ALBA&#209;IL">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La punta de alba&#241;il es el extremo punzante del pico de alba&#241;il, utilizado para matar a los lobos marinos, especie de pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">79</data>
+      <data key="d7">77166abdc6034807ab2a9ec8314485ff</data>
+    </node>
+    <node id="ESCUERDO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">El escuero es una parte del cuerpo de un lobo marino, especie de pinn&#237;pedo que se encuentran en las costas atl&#225;nticas y fueguinas.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">80</data>
+      <data key="d7">481d61e7a44449b79b9576c5a38ecc5d</data>
+    </node>
+    <node id="PUNTA DE ESCUERDO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La punta de escuero es el extremo punzante del escuero, utilizado para matar a los lobos marinos, especie de pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">81</data>
+      <data key="d7">01c5374a516649658c3bcce7a4f0b716</data>
+    </node>
+    <node id="CABEZA DE ESCUERDO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La cabeza de escuero es la parte superior del escuero de un lobo marino, especie de pinn&#237;pedo que se encuentran en las costas atl&#225;nticas y fueguinas.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">82</data>
+      <data key="d7">6ad32615289f4487a9c9f2d2146084d9</data>
+    </node>
+    <node id="PUNTA DE CABEZA DE ESCUERDO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La punta de cabeza de escuero es el extremo punzante de la cabeza de escuero, utilizado para matar a los lobos marinos, especie de pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas.</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">83</data>
+      <data key="d7">c6d6878c2c3c4e048a3d93d3471592c9</data>
+    </node>
+    <node id="CABEZA DE CABEZA DE ESCUERDO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La cabeza de cabeza de escuero es la parte superior de la cabeza de escuero de un lobo marino, especie de pinn&#237;PED</data>
+      <data key="d2">5b0c9bb6d4825c2ef5d5962d8392aad5</data>
+      <data key="d5">0</data>
+      <data key="d6">84</data>
+      <data key="d7">5c09b6de714d43c1a9dd0d5200196b17</data>
+    </node>
+    <node id="CUERO">
+      <data key="d0">NONE</data>
+      <data key="d1">El cuero es el tejido que cubre el cr&#225;neo y protege los &#243;rganos internos de los animales, y se utiliza en la industria de la piel y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">85</data>
+      <data key="d7">aef3c610f1f34c3a8e0a6d4f8c2e044c</data>
+    </node>
+    <node id="CUERO FICHADO">
+      <data key="d0">CUERO</data>
+      <data key="d1">El cuero fichado es el cuero que ha sido separado del tejido graso y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">86</data>
+      <data key="d7">7dd79c01143d495a83b811fdd33dd5ac</data>
+    </node>
+    <node id="TEJIDO GRASO">
+      <data key="d0">CUERO</data>
+      <data key="d1">El tejido graso es el tejido adiposo que se encuentra debajo del cuero y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">87</data>
+      <data key="d7">76a9a6eb160c43a198e25e3393109825</data>
+    </node>
+    <node id="ACEITE">
+      <data key="d0">CUERO</data>
+      <data key="d1">El aceite es el l&#237;quido que se extrae del tejido graso y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">88</data>
+      <data key="d7">5ba842d618d9424081dcbd90613fbb96</data>
+    </node>
+    <node id="PESO DE LOS CUEROS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">89</data>
+      <data key="d7">9cfd908869e94fbc873a0b66b643a369</data>
+    </node>
+    <node id="PESO DE LOS CUEROS FICHADOS">
+      <data key="d0">CUERO FICHADO</data>
+      <data key="d1">El peso de los cueros fichados var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">90</data>
+      <data key="d7">1d2514cdb5254656af2aca0c3a968155</data>
+    </node>
+    <node id="PESO DE LOS CUEROS NO FICHADOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros no fichados var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">91</data>
+      <data key="d7">37fdc03917244a499051313add214ec2</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOBATOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de lobatos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">92</data>
+      <data key="d7">41af0f27665e4939bd7a1acfe2fc2d04</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">93</data>
+      <data key="d7">6e3756b5d08240379568403ae4d471e5</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS J&#211;VENES">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los j&#243;venes var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">94</data>
+      <data key="d7">9160cc52d65140bfb23ee69eb734cb69</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS ADULTOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los adultos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">95</data>
+      <data key="d7">b2c681f6755646ad90c04e1150f11cf3</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS VIEJOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los viejos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">96</data>
+      <data key="d7">4fbca7bbb83a4462a6525f2eeeae1a5a</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los machos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">97</data>
+      <data key="d7">97101951cc474c4e958030e31972055d</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LAS HEMBRAS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de las hembras var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">98</data>
+      <data key="d7">11d592cf3b1b4603b588849c561f069e</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS NACIDOS MACHOS">
+      <data key="d0">CUERO FICHADO</data>
+      <data key="d1">El peso de los cueros de los nacidos machos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">99</data>
+      <data key="d7">e15d96c4274e443a9187ddcb84325f5e</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS NACIDOS HEMBRAS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los nacidos hembras var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">100</data>
+      <data key="d7">5e7bbbc464fb4492b6256b1184f88031</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS J&#211;VENES MACHOS">
+      <data key="d0">CUERO FICHADO</data>
+      <data key="d1">El peso de los cueros de los j&#243;venes machos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">101</data>
+      <data key="d7">a8290b2fc54d41328c00081d822fd331</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS J&#211;VENES HEMBRAS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los j&#243;venes hembras var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">102</data>
+      <data key="d7">7fe2e806a9cc4b7f9f7da8c436aacde7</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS ADULTOS MACHOS">
+      <data key="d0">CUERO FICHADO</data>
+      <data key="d1">El peso de los cueros de los adultos machos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">103</data>
+      <data key="d7">317da33f95584c99a3fbccb6d9ad93d8</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS ADULTOS HEMBRAS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los adultos hembras var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">104</data>
+      <data key="d7">385b6ef830ef4a01a86c0f26f69b9c7e</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS VIEJOS MACHOS">
+      <data key="d0">CUERO FICHADO</data>
+      <data key="d1">El peso de los cueros de los viejos machos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">105</data>
+      <data key="d7">792d931fe69c49f3b29c777e03e2733a</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS VIEJOS HEMBRAS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los viejos hembras var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">106</data>
+      <data key="d7">726ca31ffd704373ad8c9f95acc7ee10</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los machos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">107</data>
+      <data key="d7">f046052f415e4d68b65f085043988b9e</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS HEMBRAS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de las hembras de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">108</data>
+      <data key="d7">02132094c7534731867b8ccce730bc1f</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS J&#211;VENES DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los j&#243;venes de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">109</data>
+      <data key="d7">a06c264f181e4a70b82ca1b8bd1097df</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS ADULTOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los adultos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">110</data>
+      <data key="d7">7007c3c8dc1b49ca92d65f6aa3cf9676</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS VIEJOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los viejos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">111</data>
+      <data key="d7">3353fba0af7145dfa50466bd3f4a6dc4</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS DE LOS J&#211;VENES">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los machos de los j&#243;venes var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">112</data>
+      <data key="d7">2cca60ca4e35493abb278b86d579f2bb</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS HEMBRAS DE LOS J&#211;VENES">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de las hembras de los j&#243;venes var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">113</data>
+      <data key="d7">219ff030554145a6a547635ddbf2f356</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS DE LOS ADULTOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los machos de los adultos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">114</data>
+      <data key="d7">f177262e59b741d6be27df07f4115795</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS HEMBRAS DE LOS ADULTOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de las hembras de los adultos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">115</data>
+      <data key="d7">6ba79bfa1c4746ecb7478744d15d3160</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS DE LOS VIEJOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los machos de los viejos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">116</data>
+      <data key="d7">4b527f5e5c0643a29a0cebc1ec4cd17f</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS HEMBRAS DE LOS VIEJOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de las hembras de los viejos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">117</data>
+      <data key="d7">c710f41c9c444904a76bb741cb374897</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los machos de los nacidos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">118</data>
+      <data key="d7">85af171635e640c9801b13fa348c3b3a</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS HEMBRAS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de las hembras de los nacidos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">119</data>
+      <data key="d7">f9f5123642d94dd391bf09d45ce07928</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS J&#211;VENES DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los j&#243;venes de los nacidos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">120</data>
+      <data key="d7">a949138b2fa0419bb6c274145a16b1e2</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS ADULTOS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los adultos de los nacidos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">121</data>
+      <data key="d7">1e92055e902141f2964cf8a8d37c8969</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS VIEJOS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los viejos de los nacidos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">122</data>
+      <data key="d7">e730e6b5552145f1ae844b8f866cdc9a</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS DE LOS J&#211;VENES DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los machos de los j&#243;venes de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">123</data>
+      <data key="d7">21bc5864f74e470c98025b7fcb95bdfe</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS HEMBRAS DE LOS J&#211;VENES DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de las hembras de los j&#243;venes de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">124</data>
+      <data key="d7">0fba0ad0055141dfb3ddefe683cca5a5</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS DE LOS ADULTOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los machos de los adultos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">125</data>
+      <data key="d7">8539f56f7805442d9c8d183ebff57aea</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS HEMBRAS DE LOS ADULTOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de las hembras de los adultos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">126</data>
+      <data key="d7">4ed0c20ed33b45fc8e3f8a27ede01d1f</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS DE LOS VIEJOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los machos de los viejos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">127</data>
+      <data key="d7">249e936e09ff4bf7ae7bfd81498998a7</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS HEMBRAS DE LOS VIEJOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de las hembras de los viejos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">128</data>
+      <data key="d7">567ee31bedc541f3a0cfcf7b4836c5e8</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS DE LOS NACIDOS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los machos de los nacidos de los nacidos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">129</data>
+      <data key="d7">4378cd557ead4c669441f83f7cc7a306</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS HEMBRAS DE LOS NACIDOS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1"> The weight of the skins of the females of the offspring of the offspring of the offspring varies depending on the age and sex of the animal, and is used in the leather and oil industries.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">130</data>
+      <data key="d7">ed1da82ae0d547b096eda8babad7914f</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS DE LOS J&#211;VENES DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1"> The weight of the skin of the males of the young of the offspring of the offspring of the offspring varies depending on the age and sex of the animal, and is used in the leather and oil industries.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">131</data>
+      <data key="d7">9bd5bf81f5654ff48facbdd5153414a3</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS HEMBRAS DE LOS J&#211;VENES DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1"> The weight of the skin of the females of the young of the offspring of the offspring of the offspring varies depending on the age and sex of the animal, and is used in the leather and oil industries.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">132</data>
+      <data key="d7">042ce45d468b4ab1bc82c1c2e1c49028</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS DE LOS ADULTOS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1"> The weight of the skin of adult male calves of newborn calves varies depending on the age and sex of the animal, and is used in the leather and oil industries.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">133</data>
+      <data key="d7">ccc791b00f5d46519553fcc1588db497</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS HEMBRAS DE LOS ADULTOS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1"> The weight of the skin of the females of the adult offspring of the offspring of the offspring varies depending on the age and sex of the animal, and is used in the leather and oil industries.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">134</data>
+      <data key="d7">08605b949260441baac4091273025563</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS MACHOS DE LOS VIEJOS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1"> The "PESO DE LOS CUEROS DE LOS MACHOS DE LOS VIEJOS DE LOS NACIDOS DE LOS NACIDOS" refers to the weight of the skin of male calves from older cows, which is used in the leather and oil industries. The weight of the skin varies depending on the age and sex of the animal.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">135</data>
+      <data key="d7">3f874137d57746bda7d5eeae04d10007</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS HEMBRAS DE LOS VIEJOS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1"> The weight of the skin of the females of the old offspring of the offspring of the offspring varies depending on the age and sex of the animal, and is used in the leather and oil industries.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">136</data>
+      <data key="d7">417490d10c7d4770a11a6ee85a3c4e5c</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS J&#211;VENES DE LOS NACIDOS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los j&#243;venes de los nacidos de los nacidos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">137</data>
+      <data key="d7">93a10898566e475d83d14df948f851d7</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS ADULTOS DE LOS NACIDOS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los adultos de los nacidos de los nacidos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">138</data>
+      <data key="d7">101b2aa611354de4b37879f28fc1aaed</data>
+    </node>
+    <node id="PESO DE LOS CUEROS DE LOS VIEJOS DE LOS NACIDOS DE LOS NACIDOS DE LOS NACIDOS">
+      <data key="d0">CUERO</data>
+      <data key="d1">El peso de los cueros de los viejos de los nacidos de los nacidos de los nacidos var&#237;a seg&#250;n la edad y el sexo del animal, y se utiliza en la industria de la pelleter&#237;a y el aceite.</data>
+      <data key="d2">249c41297ac140d235ac5afb097528b7</data>
+      <data key="d5">0</data>
+      <data key="d6">139</data>
+      <data key="d7">463794cf81214df6a163602310c345f7</data>
+    </node>
+    <node id="LAPSO DE SALAZON">
+      <data key="d0">NONE</data>
+      <data key="d1">El lapso de 25 horas mencionado es el aconsejable y el adoptado, aunque la mayor permanencia de los cueros en la salmuera (hasta 48 horas) no los perjudica, sobre todo cuando la concentraci&#243;n del l&#237;quido salino, luego de una o 2 veces utilizada la salmuera, desciende.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">140</data>
+      <data key="d7">ba7351bfd3b04e989c38df5340e66db7</data>
+    </node>
+    <node id="RETRAIMIENTO EN POST SALAZON">
+      <data key="d0">NONE</data>
+      <data key="d1">El retraimiento en la post salazon es constante y varia en intensidad. En animales reci&#233;n nacidos, de ambos sexos, hasta el 5&#176; dia de vida, se obtuvieron los siguientes t&#233;rminos medios.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">141</data>
+      <data key="d7">e86015519134411295c4a4e93dfe1b2f</data>
+    </node>
+    <node id="PESO DE LOS CUEROS EN POST SALAZON">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Peso de los cueros en post salazon: 1100 kilogramos.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">142</data>
+      <data key="d7">cbd73045aa134200bd5aa019b1898474</data>
+    </node>
+    <node id="LONGITUD DE LOS CUEROS EN POST SALAZON">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Longitud de los cueros en post salazon: 0.705 metros.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">143</data>
+      <data key="d7">43a20e0698084eff80a61a56bf1c304c</data>
+    </node>
+    <node id="RETRAIMIENTO DE LOS CUEROS EN POST SALAZON">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Retraimiento de los cueros luego de la salazon (24 horas en salmuera concentrada): Maximo: 0.19 metros. Minimo: 0.06 metros. T&#233;rmino medio: 0.10 metros.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">144</data>
+      <data key="d7">72618fcb9d634576a37d59010aeb59af</data>
+    </node>
+    <node id="SALADO SECO Y ESTIBADO">
+      <data key="d0">NONE</data>
+      <data key="d1">El "salado seco" de los cueros se realiza simultaneamente con el estibado. En todos los casos, debe utilizarse sal de grano mediano, preferentemente sal de cloruro de sodio, que es la que mejor se adapta para obtener una mejor y m&#225;s segura conservacion de los cueros.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">145</data>
+      <data key="d7">a5d01865215f43ad89750955f3a37ac4</data>
+    </node>
+    <node id="EXCESO DE SULFATOS, CALCIO Y MAGNESIO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El exceso de sulfatos, calcio y magnesio puede perjudicar el proceso y comprometer la conservacion de las piezas tratadas. Los accidentes durante la salazon, originados por el uso incorrecto de cloruro de sodio o elementos quimicos no adecuados, pueden resultar en un da&#241;o irreversible.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">146</data>
+      <data key="d7">2469e1a5cc5e4212992fa49b683dbfcc</data>
+    </node>
+    <node id="SALADO">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">El salado se realiza alternando los cueros debidamente extendidos, sin dobleces, con capas de sal, permitiendo as&#237; que el elemento conservador actue sobre toda la superficie, con un espesor uniforme y lo m&#225;s regularmente posible.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">147</data>
+      <data key="d7">bcfe050542c24211a182c22d67ac4c39</data>
+    </node>
+    <node id="DISPOSICION DE LOS CUEROS">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">La disposicion que se adopta con respecto a los cueros es la siguiente. Se extiende uno sobre otro, alternandolas con capas de sal. La superficie exterior, de los pelos, hacia abajo, de manera que la parte superior (interior del cuero) se halla en contacto directo con la sal. Con esa disposicion alternativa, se forman las estibas sin dimensiones preestablecidas.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">148</data>
+      <data key="d7">388135b0050a4fa2b334a308dc9f4fae</data>
+    </node>
+    <node id="BORDES DE LOS CUEROS EN EL PERIMETRO DE LA ESTIBA">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">Los bordes de los cueros en el per&#237;metro de la estiba deben ser plegados hacia adelante para evitar que queden expuestos al aire y fuera del contacto directo con la sal.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">149</data>
+      <data key="d7">d5a563dff64f4084aa809efa1215c87e</data>
+    </node>
+    <node id="TAREAS DE SALAZON, ESTIBADO Y CONSERVACION POR SAL">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">Las tareas de salazon, estibado y conservacion por sal estan a cargo de un "salador", quien utiliza guantes protectores para preservar sus manos de los efectos corrosivos de la sal.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">150</data>
+      <data key="d7">ff5d9155985047698c59dbe2a01a86e6</data>
+    </node>
+    <node id="PESO PROMEDIO DE SAL">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">Una vez salados y estibados, los cueros permanecen en este estado hasta ser transportados, generalmente a la Capital Federal, para su posterior curtido. El medio m&#225;s utilizado para el transporte es el mar&#237;timo, debido a su menor costo y proximidad a los lugares donde se encuentran las estibas.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">151</data>
+      <data key="d7">97347d390912454889314b68a7964435</data>
+    </node>
+    <node id="REMISI&#211;N, CURTIDO Y UTILIZACI&#211;N">
+      <data key="d0">RESEARCH</data>
+      <data key="d1"> REMISI\u00d3N and CURTIDO Y UTILIZACI\u00d3N are entities that are related to the process of preparing and utilizing salted hides. The salted hides are obtained by removing the skin from animals and placing it in "l&#237;os" of 2 and 4 units. The first "l&#237;os" are from large adult animals, while the second "l&#237;os" are from lobatos. To prevent the "l&#237;os" from spilling during transportation, loading, or unloading, they are tied together with sisal thread.</data>
+      <data key="d2">f8c808023073060b786c4366da9733ff</data>
+      <data key="d5">0</data>
+      <data key="d6">152</data>
+      <data key="d7">ae72c77f90644907adfeef9982a53894</data>
+    </node>
+    <node id="LOBEROS MARINOS">
+      <data key="d0">NONE</data>
+      <data key="d1">Los lobos marinos son un grupo de mam&#237;feros marinos que incluye focas, leones marinos y morsas, conocidos por su adaptaci&#243;n a la vida en el agua y en tierra.</data>
+      <data key="d2">583f551deb29bf66f80bcf97f89e3c64</data>
+      <data key="d5">0</data>
+      <data key="d6">153</data>
+      <data key="d7">2647db5efa5e46b09ac00aed794f58a9</data>
+    </node>
+    <node id="LOBEROS MARINOS DE UNO Y DOS PELOS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los lobos marinos de uno y dos pelos son especies de pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas, conocidas por su comportamiento social y su h&#225;bitat en colonias.</data>
+      <data key="d2">583f551deb29bf66f80bcf97f89e3c64</data>
+      <data key="d5">0</data>
+      <data key="d6">154</data>
+      <data key="d7">a4dca4fc83424a708abe4a89015dab85</data>
+    </node>
+    <node id="LUBOS MARINOS">
+      <data key="d0">MARINE ECOSYSTEM</data>
+      <data key="d1">Los lobos marinos son un grupo de mam&#237;feros marinos que incluye focas, leones marinos y morsas, conocidos por su adaptaci&#243;n a la vida en el agua y en tierra.</data>
+      <data key="d2">103d13f2a7d5f4c20fac4a64966b8fde</data>
+      <data key="d5">0</data>
+      <data key="d6">155</data>
+      <data key="d7">bf0db5c0f74b4dcf92f301c13414ec5c</data>
+    </node>
+    <node id="LUBRICANTE">
+      <data key="d0">LUBRICANTE</data>
+      <data key="d1"> The lubricante is a high-quality oil obtained through the direct steam distillation process, which cannot be compared to the oil produced through the direct fire process, known as the tacho type jabonero. Additionally, the lubricant is also obtained through the extraction of oil from marine lobsters, and is used as a lubricant in machines and in the petroleum industry.</data>
+      <data key="d2">c5a1c4c74e983a59cf199b4e8dbe6265</data>
+      <data key="d5">0</data>
+      <data key="d6">156</data>
+      <data key="d7">753add2d976f4bfbb0335a7f3fbb84fb</data>
+    </node>
+    <node id="ACEITE REFINADO">
+      <data key="d0">ACEITE DE LOBO MARINO</data>
+      <data key="d1">El aceite refinado se obtiene a partir del aceite natural, y se somete a diversas substancias qu&#237;micas con el objetivo de extraerle la mayor cantidad posible de estearina que contiene. El aceite refinado es de un l&#237;quido l&#237;mpido, transparente, de olor no muy pronunciado y de color algo parecido al aceite de oliva com&#250;n.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d5">1</data>
+      <data key="d6">157</data>
+      <data key="d7">8a0801fef4254560b0a04e61578ab164</data>
+    </node>
+    <node id="ACEITE SULFONADO">
+      <data key="d0">ACEITE REFINADO</data>
+      <data key="d1">El aceite sulfonado se obtiene a partir del aceite refinado, y se somete a un proceso especial que lo hace m&#225;s denso y turbio. El aceite sulfonado es de color rojizo, m&#225;s denso que el anterior, y de aspecto algo m&#225;s turbio.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d5">1</data>
+      <data key="d6">158</data>
+      <data key="d7">0d2916d948a94ac39bd29747c0cdd082</data>
+    </node>
+    <node id="ACEITE OXIDADO">
+      <data key="d0">ACEITE SULFONADO</data>
+      <data key="d1">El aceite oxidado se obtiene a partir del aceite sulfonado, y se somete a un proceso especial que lo hace m&#225;s viscoso y espeso. El aceite oxidado es de color amarillo canela, marr&#243;n amostazado, de olor fuerte caracter&#237;stico a &#8220;aceite o grasa de lobo reconocido&#8221; y de densidad variable.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d5">1</data>
+      <data key="d6">159</data>
+      <data key="d7">6abc425802c044c9bd1c55c0e98db0db</data>
+    </node>
+    <node id="LOBO MARINO">
+      <data key="d0">MAMMAL</data>
+      <data key="d1"> Los lobos marinos son un grupo de mam&#237;feros marinos que se encuentran en las costas del hemisphere sur, conocidos por su adaptaci&#243;n a la vida en el agua y en tierra.</data>
+      <data key="d2">08e9f4bcb8bee78292601780a46936c6,fee8446145e958ff9402203e372df57d</data>
+      <data key="d3">4</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">160</data>
+      <data key="d7">1690bc66de54457d9bf0017c734e1015</data>
+    </node>
+    <node id="LAS CANTIDADES CONSIGNADAS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Las cantidades consignadas corresponden exclusivamente a animales faenados en regiones alejadas del Territorio, Islas Georgias del Sur, a cargo exclusivo de la C&#237;a. Argentina de Pesca S.A. en virtud de la autorizaci&#243;n conferida por Decreto N.&#186; 1154 del a&#241;o 1949.&lt;/|&gt;("entity"</data>
+      <data key="d2">79d9c36d47673af84dba65217ceaddec</data>
+      <data key="d5">0</data>
+      <data key="d6">161</data>
+      <data key="d7">0792a95afbcc4dc7a93fe57be1666929</data>
+    </node>
+    <node id="PINNIPEDS">
+      <data key="d0">NONE</data>
+      <data key="d1"> Pinnipeds are a group of marine mammals that include seals, sea lions, and walruses. They are known for their adaptation to life in the water and on land.</data>
+      <data key="d2">8a0c5d2be39b9a9e02f97cbc7551030c,929b52dcc39f3e79e12fe7e15557dbaf,abfbf0cbd4646b7d6aff58787b3de0bd,c189d2e78df197f5464424712ff00b40,cd89fd819728e8bb01132a958eb61182,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d5">0</data>
+      <data key="d6">162</data>
+      <data key="d7">b06b05783a934d20920e8cdae8a2ed53</data>
+    </node>
+    <node id="PING&#220;INO MAGALL&#193;NICO">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Spheniscus magellanicus&lt;/species&gt;),("entity"</data>
+      <data key="d2">53e3cb3a2e7aaa1f7ea056e37de6187e</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">6</data>
+      <data key="d6">163</data>
+      <data key="d7">37b86728b8574cadad49da3b13d0680a</data>
+    </node>
+    <node id="NIDIFICACION">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">53e3cb3a2e7aaa1f7ea056e37de6187e</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">164</data>
+      <data key="d7">97483fe448a445f6a87ef590085dcb15</data>
+    </node>
+    <node id="REPRODUCTION">
+      <data key="d0" />
+      <data key="d1"> The reproduction period of Magellanic penguins extends from November to March.</data>
+      <data key="d2">53e3cb3a2e7aaa1f7ea056e37de6187e,f29db5af5c9f3faa40c06d0ba4f0261e</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">165</data>
+      <data key="d7">60c0431b27ec4d4286ff0467485d17e3</data>
+    </node>
+    <node id="RESEARCH">
+      <data key="d0" />
+      <data key="d1"> The research in question refers to observations made in the 1947 preliminary report, which identified certain findings in areas with higher concentrations of marine life, such as the Banco Cormor&#225;n colony on Isla Leones and the Cabo Guardi&#225;n colony located south of Puerto Deseado.</data>
+      <data key="d2">53e3cb3a2e7aaa1f7ea056e37de6187e,f29db5af5c9f3faa40c06d0ba4f0261e,fee8446145e958ff9402203e372df57d</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">166</data>
+      <data key="d7">e8665fabd48d4676a97fd5981c9dda7c</data>
+    </node>
+    <node id="MARINE ECOSYSTEM">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">53e3cb3a2e7aaa1f7ea056e37de6187e</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">167</data>
+      <data key="d7">7759983be77b4e229a27d0b8bcf20c84</data>
+    </node>
+    <node id="BEHAVIOR">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">53e3cb3a2e7aaa1f7ea056e37de6187e</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">168</data>
+      <data key="d7">181edd6db385484c9ab54640ad6eab5b</data>
+    </node>
+    <node id="HABITAT">
+      <data key="d0" />
+      <data key="d1"> The habitat in question is a group of three areas: Los bancos Cormor&#225;n, Justicia e Isla Leones. Each of these areas has approximately 40,000 subjects. The penguins that inhabit these areas often share their habitats with other marine birds, such as gaviotas (Larus glaucodes) and cormoranes, without any apparent concern. In fact, penguins often form communities in the same areas, occupying the same surfaces for nesting.</data>
+      <data key="d2">53e3cb3a2e7aaa1f7ea056e37de6187e,f29db5af5c9f3faa40c06d0ba4f0261e</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">169</data>
+      <data key="d7">e03026778ac24f92a9f71864f6cece0d</data>
+    </node>
+    <node id="PINGUINOS">
+      <data key="d0">NONE</data>
+      <data key="d1"> Ping&#252;inos are a group of marine birds that are found in the southern hemisphere. They are known for their adaptation to life in both water and on land. The ping&#252;in species commonly found in this region include the ping&#252;in common or ping&#252;in of Magallanes.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d,efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d5">0</data>
+      <data key="d6">170</data>
+      <data key="d7">dfb951f01d5a4f2d9803ff3edf6ae1e9</data>
+    </node>
+    <node id="PALMIP&#201;DES">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los palm&#237;pedes son un grupo de aves marinas que incluye ping&#252;inos, conocidas por su adaptaci&#243;n a la vida en el agua y en tierra.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d5">0</data>
+      <data key="d6">171</data>
+      <data key="d7">01bfe97ab6b142b4ab67f07370505f22</data>
+    </node>
+    <node id="FECUNDACI&#211;N">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">La fecundaci&#243;n de los palm&#237;pedes se produce "in situ" y el porcentaje de no f&#233;rtiles es elevado.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d5">0</data>
+      <data key="d6">172</data>
+      <data key="d7">dfcca6ed58dd47d796bcb2ee41ab8e91</data>
+    </node>
+    <node id="INCUBACI&#211;N ARTIFICIAL">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">Se intentaron dos incubaciones artificiales con huevos recogidos de Cabo Guardi&#225;n y de la Isla Leones, pero ambos intentos fracasaron.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d5">0</data>
+      <data key="d6">173</data>
+      <data key="d7">40073e55ac3d44b085cf8eaa866a0023</data>
+    </node>
+    <node id="CRIANZA">
+      <data key="d0">BEHAVIOR</data>
+      <data key="d1">Desde su nacimiento hasta los 45 d&#237;as aproximadamente, los pichones son alimentados por sus progenitores.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d5">0</data>
+      <data key="d6">174</data>
+      <data key="d7">22053cbddd214e16a36bd3aba79c2211</data>
+    </node>
+    <node id="R&#201;GIMEN ALIMENTICIO">
+      <data key="d0">HABITAT</data>
+      <data key="d1">La alimentaci&#243;n de los palm&#237;pedes se compone principalmente de peque&#241;os peces y mariscos.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d5">0</data>
+      <data key="d6">175</data>
+      <data key="d7">3f6fca117f6a46e79027478b8bb81b1c</data>
+    </node>
+    <node id="MORTALIDAD">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1">En todas las temporadas de procreaci&#243;n, se observan muertes de pichones, especialmente de aquellos de aproximadamente un mes de edad.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d5">0</data>
+      <data key="d6">176</data>
+      <data key="d7">fe06fe2689e54bf48a91a9fad158b1bd</data>
+    </node>
+    <node id="PARASITOS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">La presencia de par&#225;sitos con caracteres particulares semejantes al que albergan las aves dom&#233;sticas y que en las gallinas se conoce con el nombre de &#8220;piojillo&#8221; se encontr&#243; en casi el 95% de los animales observados.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d5">0</data>
+      <data key="d6">177</data>
+      <data key="d7">d420d268b7664a589d387c123e48f60e</data>
+    </node>
+    <node id="TENIAS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1"> Tenias is a parasite that can grow up to 40 centimeters in length and has an approximate width of 5 millimeters.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d5">0</data>
+      <data key="d6">178</data>
+      <data key="d7">f2032764b2254767b15534dab5b8958f</data>
+    </node>
+    <node id="PING&#220;INOS MAGALL&#193;NICOS">
+      <data key="d0">NONE</data>
+      <data key="d1">Los ping&#252;inos magall&#225;nicos son una especie de ave marina que se encuentra en las costas del litoral patag&#243;nico de Argentina.</data>
+      <data key="d2">f29db5af5c9f3faa40c06d0ba4f0261e</data>
+      <data key="d5">0</data>
+      <data key="d6">179</data>
+      <data key="d7">2a0d917ebf654214814f338fcb79265c</data>
+    </node>
+    <node id="ENEMIGOS NATURALES">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los ping&#252;inos magall&#225;nicos tienen varios enemigos naturales, principalmente entre las especies de aves marinas, como otras especies de ping&#252;inos y ballenas. Estos depredadores representan una amenaza constante para las colonias de ping&#252;inos.</data>
+      <data key="d2">f29db5af5c9f3faa40c06d0ba4f0261e</data>
+      <data key="d5">0</data>
+      <data key="d6">180</data>
+      <data key="d7">af0054d5e6214f289980d22e5fb0b0aa</data>
+    </node>
+    <node id="EMIGRACI&#211;N">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">La permanencia de estas aves en las costas del litoral patag&#243;nico se extiende hasta mediados de marzo. Sin embargo, es extra&#241;o encontrar colonias de ping&#252;inos fuera de este per&#237;odo, especialmente a principios de abril. En la mayor&#237;a de los casos, las colonias est&#225;n compuestas por individuos j&#243;venes.</data>
+      <data key="d2">f29db5af5c9f3faa40c06d0ba4f0261e</data>
+      <data key="d5">0</data>
+      <data key="d6">181</data>
+      <data key="d7">762861e8f1bd4a8a8412f1ce7dc0c97f</data>
+    </node>
+    <node id="CONSERVATION STATUS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Desde estos puntos geogr&#225;ficos determinados, los trechos donde se los halla es en direcci&#243;n sur, abarcan extensiones que, como ya se dijo, oscilan de 60 a 80 kil&#243;metros de los lugares referidos.</data>
+      <data key="d2">f29db5af5c9f3faa40c06d0ba4f0261e</data>
+      <data key="d5">0</data>
+      <data key="d6">182</data>
+      <data key="d7">91164002efc243358b9b6c129b6bc7fb</data>
+    </node>
+    <node id="POPULATION">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">En cifras globales, la poblaci&#243;n de ping&#252;inos magall&#225;nicos en la regi&#243;n se estima en alrededor de 320000 a 350000 individuos.</data>
+      <data key="d2">f29db5af5c9f3faa40c06d0ba4f0261e</data>
+      <data key="d5">0</data>
+      <data key="d6">183</data>
+      <data key="d7">b267d344b9fe4a33aa48cb44797f8888</data>
+    </node>
+    <node id="POPULATION TREND">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Sin embargo, los datos disponibles indican una disminuci&#243;n constante de esta poblaci&#243;n a lo largo de los a&#241;os.</data>
+      <data key="d2">f29db5af5c9f3faa40c06d0ba4f0261e</data>
+      <data key="d5">0</data>
+      <data key="d6">184</data>
+      <data key="d7">a37db65f150d48d192a82067e54daadc</data>
+    </node>
+    <node id="CONCESSIONS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1"> In the current state, there is only one concession granted for the industrial exploitation of these seabirds, which covers the area from the southern bank of the R&#237;o Deseado to Cabo Guardi&#225;n, located south of Puerto Deseado.</data>
+      <data key="d2">f29db5af5c9f3faa40c06d0ba4f0261e</data>
+      <data key="d5">0</data>
+      <data key="d6">185</data>
+      <data key="d7">849b2ef7d268421cb18a937e4f5b9194</data>
+    </node>
+    <node id="PINGUINOS COMUNES">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los ping&#252;inos comunes o ping&#252;inos de Magallanes son especies de ping&#252;inos que se encuentran en las costas atl&#225;nticas y fueguinas, conocidos por su comportamiento social y su h&#225;bitat en colonias.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">186</data>
+      <data key="d7">2fe87fa4a2284953b703f6f11e12a76f</data>
+    </node>
+    <node id="GUANO DE AVES MARINAS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1"> Guanos de aves marinas are species of pinnipeds found in the Atlantic and Fueguina coasts of Argentina, known for their adaptation to life in water and on land. The industry of guano de aves marinas is a research-based industry that focuses on the study of aves marinas and their guano, with the aim of improving production and quality. Guanos de aves marinas are a product of the guano de aves marinas industry, which is obtained from aves marinas found in the coasts of Argentina and Chile. The yacimientos de guano de aves marinas are deposits of guano produced by aves marinas in coasts and islands.</data>
+      <data key="d2">3b8a637af69ae3ba996edaf49f1ed1f0,3e11752f9db0c9d6d3511bebdfdf06fa,fee8446145e958ff9402203e372df57d</data>
+      <data key="d3">4</data>
+      <data key="d4">1</data>
+      <data key="d5">6</data>
+      <data key="d6">187</data>
+      <data key="d7">8b5bfef24b684bebb14b39e8202b10b3</data>
+    </node>
+    <node id="AVE PRODUCTORA">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Las aves productoras de guano son aves marinas que producen guano en costas y islas.</data>
+      <data key="d2">3b8a637af69ae3ba996edaf49f1ed1f0</data>
+      <data key="d5">0</data>
+      <data key="d6">188</data>
+      <data key="d7">64b892feadc9475db9fae69bb37cb82e</data>
+    </node>
+    <node id="CAPITULO 3">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">El cap&#237;tulo 3 de la obra "Guano de aves marinas" describe los yacimientos de guano de aves marinas y su aprovechamiento industrial.</data>
+      <data key="d2">3b8a637af69ae3ba996edaf49f1ed1f0</data>
+      <data key="d5">0</data>
+      <data key="d6">189</data>
+      <data key="d7">42cf05cb12704519a7d120431ebfa774</data>
+    </node>
+    <node id="GUANO">
+      <data key="d0">NONE</data>
+      <data key="d1"> Guano is a natural product formed by the excrections of seabirds, which is used as a fertilizer in agriculture and in various industries as a source of energy.</data>
+      <data key="d2">34798580ffa1eeacedf7b69c5f9ef85d,b679eb20179f669b5f28ca4e2550c77d,d385716d4fef57833f794a40e118e214</data>
+      <data key="d5">1</data>
+      <data key="d6">190</data>
+      <data key="d7">9a54675df9fe4db0a8d142ebb792e191</data>
+    </node>
+    <node id="GUANEROS">
+      <data key="d0">GUANERA EXPLOTADA</data>
+      <data key="d1"> Los guaneros son personas que se dedican a la extracci&#243;n de guano de aves marinas, espec&#237;ficamente de cormoranes magall&#225;nicos, guaneras explotadas, pinn&#237;peds, y otras aves marinas que se encuentran en las costas del hemisphere sur.</data>
+      <data key="d2">f058a062f571d1de67aa67b3be3adee4</data>
+      <data key="d5">0</data>
+      <data key="d6">191</data>
+      <data key="d7">9c7f5bab09c24ee4aa3ffa346eee8fb2</data>
+    </node>
+    <node id="GUANERA EXPLOTADA">
+      <data key="d0">GUANEROS</data>
+      <data key="d1"> The Guanera Explotada is a species of seabirds found in the southern hemisphere. These birds are primarily known for their guano, which is extracted by the Guaneros, a group of people who specialize in this activity. The Guaneros extract guano from the Guanera Explotada, which is then used for various purposes, such as fertilizer and animal feed. The Guaneros are skilled at identifying and locating the Guanera Explotada, and they use specialized equipment and techniques to extract the guano safely and efficiently. The Guanera Explotada is an important species in the marine ecosystem, and its guano plays a crucial role in supporting the growth of other marine organisms.</data>
+      <data key="d2">f058a062f571d1de67aa67b3be3adee4</data>
+      <data key="d5">0</data>
+      <data key="d6">192</data>
+      <data key="d7">684fe3c26e6146b8824a87211d246341</data>
+    </node>
+    <node id="ARGENTINA">
+      <data key="d0">NONE</data>
+      <data key="d1">La Rep&#250;blica Argentina es un pa&#237;s situado en el sur de Am&#233;rica del Sur, conocido por su diversidad de paisajes y su cultura.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">193</data>
+      <data key="d7">e1e87a37e2a84a21b79c4776bf0d6a04</data>
+    </node>
+    <node id="GUANERAS">
+      <data key="d0">NONE</data>
+      <data key="d1">Las guaneras son &#225;reas de mar en las que se encuentra guano de aves marinas, objeto de explotaci&#243;n en Argentina.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">194</data>
+      <data key="d7">b2a6c1c70c204f91baad1e01cc76846c</data>
+    </node>
+    <node id="PERMISIONARIOS">
+      <data key="d0">NONE</data>
+      <data key="d1">Los permisionarios son las personas o empresas que se encargan de la explotaci&#243;n de guano de aves marinas en las costas e islas de los territorios del Sur, en Argentina.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">195</data>
+      <data key="d7">85e4ac4509b64b13b2d1ad7b9b77956f</data>
+    </node>
+    <node id="REGULAMENTO">
+      <data key="d0">NONE</data>
+      <data key="d1">El reglamento es una norma legal que establece las condiciones y procedimientos para la explotaci&#243;n de guano de aves marinas en Argentina.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">196</data>
+      <data key="d7">a04c702f92b74486b5c300c804411ed2</data>
+    </node>
+    <node id="MINISTERIO DE AGRICULTURA">
+      <data key="d0">NONE</data>
+      <data key="d1">El Ministerio de Agricultura es una de las entidades gubernamentales de Argentina encargada de promover y desarrollar la agricultura y la ganader&#237;a en el pa&#237;s.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">197</data>
+      <data key="d7">29e7b87b1a3c4e9e9308b89c9375178b</data>
+    </node>
+    <node id="MINISTERIO DE MARINA">
+      <data key="d0">NONE</data>
+      <data key="d1">El Ministerio de Marina es una de las entidades gubernamentales de Argentina encargada de promover y desarrollar el mar&#237;timo en el pa&#237;s.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">198</data>
+      <data key="d7">21a009f277924ec5bd2bea852f3d8aef</data>
+    </node>
+    <node id="BANCO DE LA NACI&#211;N ARGENTINA">
+      <data key="d0">NONE</data>
+      <data key="d1">El Banco de la Naci&#243;n Argentina es el banco central de Argentina, encargado de promover el desarrollo econ&#243;mico del pa&#237;s y de garantizar la estabilidad monetaria.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">199</data>
+      <data key="d7">94dfa96f134949bead472bb845885af9</data>
+    </node>
+    <node id="TRABAJOS PREPARATORIOS">
+      <data key="d0">NONE</data>
+      <data key="d1">Los trabajos preparatorios son los trabajos necesarios para organizar la explotaci&#243;n de guano de aves marinas, que no siempre se pueden realizar en un lapso determinado.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">200</data>
+      <data key="d7">0648fa7ef03b4c408bb8b0592548b220</data>
+    </node>
+    <node id="PLAZOS">
+      <data key="d0">NONE</data>
+      <data key="d1">Los plazos son los t&#233;rminos establecidos para la realizaci&#243;n de las actividades de explotaci&#243;n de guano de aves marinas en Argentina.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">201</data>
+      <data key="d7">a1b65424935b446e92ea61dd367db411</data>
+    </node>
+    <node id="CADUCIDAD">
+      <data key="d0">NONE</data>
+      <data key="d1">La caducidad es el estado en el que se encuentra un permiso o una autorizaci&#243;n cuando ha vencido su plazo de vigencia.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">202</data>
+      <data key="d7">afb01d0b78194c7f936d8b4c2aad64fe</data>
+    </node>
+    <node id="RENUNCIANTE">
+      <data key="d0">NONE</data>
+      <data key="d1">Los renunciantes son las personas o empresas que, despu&#233;s de iniciada la explotaci&#243;n, no realizan operaciones en los lugares concedidos durante seis meses consecutivos sin causa justificada.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">203</data>
+      <data key="d7">d8a5fb4ab07c48f79db084378e8a82db</data>
+    </node>
+    <node id="DERECHO DE INSPECCI&#211;N">
+      <data key="d0">NONE</data>
+      <data key="d1">El derecho de inspecci&#243;n es el derecho que otorga al Ministerio de Agricultura la facultad de inspeccionar las operaciones de explotaci&#243;n de guano de aves marinas en Argentina.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">204</data>
+      <data key="d7">13585dd890e14745a199c86c8852be4d</data>
+    </node>
+    <node id="TRIMESTRE VENCIDO">
+      <data key="d0">NONE</data>
+      <data key="d1">El trimestre vencido es el periodo de tiempo de tres meses que se utiliza para calcular los plazos de pagos de los derechos correspondientes al permiso de explotaci&#243;n de guano de aves marinas en Argentina.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">205</data>
+      <data key="d7">081aac27455240068a8328748efb363a</data>
+    </node>
+    <node id="SALDO">
+      <data key="d0">NONE</data>
+      <data key="d1">El saldo es el monto de dinero que se debe pagar por los derechos correspondientes al permiso de explotaci&#243;n de guano de aves marinas en Argentina.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">206</data>
+      <data key="d7">781784ca5a404e1c94ccaba293e6283f</data>
+    </node>
+    <node id="APREMIOS">
+      <data key="d0">NONE</data>
+      <data key="d1">Los apremios son los premios que se otorgan a los permisionarios que no pagan el saldo por los derechos correspondientes al permiso de explotaci&#243;n de guano de aves marinas en Argentina.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">207</data>
+      <data key="d7">af855d475b7a4a19a4677d06f973ca0b</data>
+    </node>
+    <node id="JURISDICCION CORRESPONDIENTE">
+      <data key="d0">NONE</data>
+      <data key="d1">La jurisdicci&#243;n correspondiente es la jurisdicci&#243;n legal de la zona en la que se realiza la explotaci&#243;n de guano de aves marinas en Argentina.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">208</data>
+      <data key="d7">75a5ce9773e340459211a28f543aa74c</data>
+    </node>
+    <node id="INSPECCI&#211;N">
+      <data key="d0">NONE</data>
+      <data key="d1">La inspecci&#243;n es la acci&#243;n de verificar y controlar las operaciones de explotaci&#243;n de guano de aves marinas en Argentina, a cargo del Ministerio de Agricultura.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">209</data>
+      <data key="d7">4433104e604c4ccfa6946a40ee9909c0</data>
+    </node>
+    <node id="REGISTRO CORRESPONDIENTE">
+      <data key="d0">NONE</data>
+      <data key="d1"> The "REGISTRO CORRESPONDIENTE" is a record that must be kept for each guanera who has been granted permission to extract and export guano from marine birds in Argentina. This record must include the amount of guano extracted and exported, in accordance with the regulations for the exploitation of guano from marine birds in Argentina.</data>
+      <data key="d2">b679eb20179f669b5f28ca4e2550c77d</data>
+      <data key="d5">0</data>
+      <data key="d6">210</data>
+      <data key="d7">9aa23deeaffa472c85052b744665966a</data>
+    </node>
+    <node id="LOBERAS DE UN PALO">
+      <data key="d0">SPECIES</data>
+      <data key="d1"> Las lobas marinas de uno y dos pelos son especies de pinn&#237;pedos that are found in the Atlantic and Fueguina coasts, known for their social behavior and their habitat in colonies. The lobos marinos de un pelo are a group of pinn&#237;peds that are found in the Atlantic and Fueguina coasts of our country, known for their adaptation to life in water and on land.</data>
+      <data key="d2">144ccee104076cb699414480fca2f46b</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">211</data>
+      <data key="d7">544b69a1b50545348c460c1c877a9200</data>
+    </node>
+    <node id="GUANEROS DE AVES MARINAS">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1"> The Guaneros de Aves Marinas are a group of marine birds found along the coasts of Argentina and Chile. Their conservation status is unknown, but they are important for the marine ecosystem and agriculture due to their guano, which is used as fertilizer. These birds have specific biological characteristics related to their reproduction, feeding, and adaptation to their environment. Despite the importance of these birds, their population and distribution are not well understood.</data>
+      <data key="d2">34798580ffa1eeacedf7b69c5f9ef85d</data>
+      <data key="d5">1</data>
+      <data key="d6">212</data>
+      <data key="d7">a4b28446b5ea49b5915f8e84601f1093</data>
+    </node>
+    <node id="LAS PEDRAS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Las Pedras es una isla ubicada en el mar Argentino, en el Departamento de San Mat&#237;as, provincia de Santa Cruz, Argentina. Se encuentra en el sector de la Pen&#237;nsula Valdivia, en la regi&#243;n de la Patagonia.&lt;/entity&gt;</data>
+      <data key="d2">55cd91801b46fb522e3565c9e40ffb77</data>
+      <data key="d5">0</data>
+      <data key="d6">213</data>
+      <data key="d7">bd4ec7d2d3e645b48e90327038803795</data>
+    </node>
+    <node id="ELEFANTE MARINO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los elefantes marinos son grandes pinn&#237;pedos que se caracterizan por su tama&#241;o y su comportamiento migratorio, encontr&#225;ndose en las costas del hemisphere sur.</data>
+      <data key="d2">fee8446145e958ff9402203e372df57d</data>
+      <data key="d3">4</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">214</data>
+      <data key="d7">a644e4de10574906a258b87b62416a0c</data>
+    </node>
+    <node id="CONCESIONES EXISTENTES">
+      <data key="d0">NONE</data>
+      <data key="d1">Las concesiones existentes en Argentina incluyen explotaciones de lobos y elefantes marinos, ping&#252;inos y guano de aves marinas.</data>
+      <data key="d2">3e11752f9db0c9d6d3511bebdfdf06fa</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">215</data>
+      <data key="d7">1a532d015efc45d484f54805f97f3c19</data>
+    </node>
+    <node id="PING&#220;INOS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Ping&#252;inos son especies de pinn&#237;pedos que se encuentran en las costas atl&#225;nticas y fueguinas de Argentina, conocidos por su adaptaci&#243;n a la vida en el agua y en tierra.</data>
+      <data key="d2">3e11752f9db0c9d6d3511bebdfdf06fa</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">216</data>
+      <data key="d7">7adac87336fe42e3843a331102cb1478</data>
+    </node>
+    <node id="CONCESIONES OTORGADAS">
+      <data key="d0">NONE</data>
+      <data key="d1">Las concesiones otorgadas en Argentina incluyen explotaciones de lobos y elefantes marinos, ping&#252;inos y guano de aves marinas.</data>
+      <data key="d2">3e11752f9db0c9d6d3511bebdfdf06fa</data>
+      <data key="d5">0</data>
+      <data key="d6">217</data>
+      <data key="d7">2e92cc73716a4d709227db6fd3563e2a</data>
+    </node>
+    <edge source="LOBOS MARINOS" target="CONCESIONES EXISTENTES">
+      <data key="d8">16.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">3e11752f9db0c9d6d3511bebdfdf06fa</data>
+      <data key="d11">fe5ae958a46a4a18b4a5b91a45c25082</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS DE UNO Y DOS PELOS" target="OTARIA FLAVESCENS">
+      <data key="d8">240.0</data>
+      <data key="d9"> The Lobos Marinos de Uno y Dos Pelos and Otaria Flavescens are marine species that are included in the list of entities provided.</data>
+      <data key="d10">08e9f4bcb8bee78292601780a46936c6,4637827f6813c74937485d62b3f596b8,583f551deb29bf66f80bcf97f89e3c64,59a2e76fa5cfb51e15d733d19084f125,5a07380f5aada9c6c6ef41f242e1c536,773258f4983ae1adc2e995e6a7bd7aa6,8a0c5d2be39b9a9e02f97cbc7551030c,929b52dcc39f3e79e12fe7e15557dbaf,9d8e3504b4ee32dcb2cfe65980dddcaa,a7319504eeb762ae0cc5b15c4d6b5461,abfbf0cbd4646b7d6aff58787b3de0bd,acce0f2d52d35b868047d606555fc1e4,b58cdc05bb2d9dbcf563d7eaa562cf0f,c189d2e78df197f5464424712ff00b40,cd89fd819728e8bb01132a958eb61182,cf58f0416a8d27360f6d6e772471b831,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">2126b5fb9fd24ba589d0de00335ee549</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS DE UNO Y DOS PELOS" target="ARCTOCEPHALUS AUSTRALIS">
+      <data key="d8">240.0</data>
+      <data key="d9"> The Lobos Marinos de Uno y Dos Pelos and Arctocephalus Australis are both included in the entity.</data>
+      <data key="d10">08e9f4bcb8bee78292601780a46936c6,4637827f6813c74937485d62b3f596b8,583f551deb29bf66f80bcf97f89e3c64,59a2e76fa5cfb51e15d733d19084f125,5a07380f5aada9c6c6ef41f242e1c536,773258f4983ae1adc2e995e6a7bd7aa6,8a0c5d2be39b9a9e02f97cbc7551030c,929b52dcc39f3e79e12fe7e15557dbaf,9d8e3504b4ee32dcb2cfe65980dddcaa,a7319504eeb762ae0cc5b15c4d6b5461,abfbf0cbd4646b7d6aff58787b3de0bd,acce0f2d52d35b868047d606555fc1e4,b58cdc05bb2d9dbcf563d7eaa562cf0f,c189d2e78df197f5464424712ff00b40,cd89fd819728e8bb01132a958eb61182,cf58f0416a8d27360f6d6e772471b831,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">4994aad4bcbd425fb1c2b72a1736414d</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="OTARIA FLAVESCENS" target="LOBOS MARINOS DE UN PELO">
+      <data key="d8">16.0</data>
+      <data key="d9">incluye a la especie</data>
+      <data key="d10">03319985b4a7a0e66f98389e459009f7</data>
+      <data key="d11">579dd168aa624f76b69afcce9279c18a</data>
+      <data key="d12">3</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="OTARIA FLAVESCENS" target="LUBAZOS DE UNO Y DOS PELOS">
+      <data key="d8">16.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">bcde333e96de3a3e79ca9adcfa798014</data>
+      <data key="d11">6c66be3bdb9a480bb09a0609a3eac00b</data>
+      <data key="d12">4</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="OTARIA FLAVESCENS" target="LOBO MARINO DE UNO Y DOS PELOS">
+      <data key="d8">16.0</data>
+      <data key="d9">incluye a la especie</data>
+      <data key="d10">77e645beba0bf5256ed258f3fdd4a25e</data>
+      <data key="d11">b735e4feef8d46d28e037c246607b702</data>
+      <data key="d12">5</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="OTARIA FLAVESCENS" target="LUBOS MARINOS DE UNO Y DOS PELOS">
+      <data key="d8">16.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">103d13f2a7d5f4c20fac4a64966b8fde</data>
+      <data key="d11">1e068ae61cf0422cbd2b5e4d2d8c0cc1</data>
+      <data key="d12">6</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="OTARIA FLAVESCENS" target="LOBERAS DE UN PALO">
+      <data key="d8">8.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">144ccee104076cb699414480fca2f46b</data>
+      <data key="d11">4b49790c5d5147708a4d7d4bbb2918bc</data>
+      <data key="d12">7</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="OTARIA FLAVESCENS" target="LUBA">
+      <data key="d8">16.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">f4e06b49d30444eaa1a981bd84ea0c62</data>
+      <data key="d12">8</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ARCTOCEPHALUS AUSTRALIS" target="LOBOS MARINOS DE UN PELO">
+      <data key="d8">16.0</data>
+      <data key="d9">incluye a la especie</data>
+      <data key="d10">03319985b4a7a0e66f98389e459009f7</data>
+      <data key="d11">f1be1cb687c44258a99a787e80292068</data>
+      <data key="d12">9</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ARCTOCEPHALUS AUSTRALIS" target="LUBAZOS DE UNO Y DOS PELOS">
+      <data key="d8">16.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">bcde333e96de3a3e79ca9adcfa798014</data>
+      <data key="d11">701ba516d7144d86b76c72e16629bd0f</data>
+      <data key="d12">10</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ARCTOCEPHALUS AUSTRALIS" target="LOBO MARINO DE UNO Y DOS PELOS">
+      <data key="d8">16.0</data>
+      <data key="d9">incluye a la especie</data>
+      <data key="d10">77e645beba0bf5256ed258f3fdd4a25e</data>
+      <data key="d11">ca6c4cfa5ae2466ab336ce75d03f1547</data>
+      <data key="d12">11</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ARCTOCEPHALUS AUSTRALIS" target="LUBOS MARINOS DE UNO Y DOS PELOS">
+      <data key="d8">16.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">103d13f2a7d5f4c20fac4a64966b8fde</data>
+      <data key="d11">7bc650cf7adb479d91373252aeaba4e4</data>
+      <data key="d12">12</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ARCTOCEPHALUS AUSTRALIS" target="PINGUINOS COMUNES">
+      <data key="d8">16.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">1183825a188a4e2795280583de55804b</data>
+      <data key="d12">13</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ARCTOCEPHALUS AUSTRALIS" target="LOBERAS DE UN PALO">
+      <data key="d8">8.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">144ccee104076cb699414480fca2f46b</data>
+      <data key="d11">13f2b1594b754047a1eea66088f4b1bc</data>
+      <data key="d12">14</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ARCTOCEPHALUS AUSTRALIS" target="LUBA">
+      <data key="d8">16.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">525e4e1484c34d458d2ca78794bb2608</data>
+      <data key="d12">15</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ELEFANTES MARINOS" target="MIROUNGA LEONINAS">
+      <data key="d8">45.0</data>
+      <data key="d9">representados por</data>
+      <data key="d10">03319985b4a7a0e66f98389e459009f7,08e9f4bcb8bee78292601780a46936c6,103d13f2a7d5f4c20fac4a64966b8fde,144ccee104076cb699414480fca2f46b,2d041f866c2a7f149216961d43696c82,4637827f6813c74937485d62b3f596b8,583f551deb29bf66f80bcf97f89e3c64,59a2e76fa5cfb51e15d733d19084f125,5a07380f5aada9c6c6ef41f242e1c536,773258f4983ae1adc2e995e6a7bd7aa6,77e645beba0bf5256ed258f3fdd4a25e,8a0c5d2be39b9a9e02f97cbc7551030c,929b52dcc39f3e79e12fe7e15557dbaf,9d8e3504b4ee32dcb2cfe65980dddcaa,a7319504eeb762ae0cc5b15c4d6b5461,abfbf0cbd4646b7d6aff58787b3de0bd,acce0f2d52d35b868047d606555fc1e4,b58cdc05bb2d9dbcf563d7eaa562cf0f,bcde333e96de3a3e79ca9adcfa798014,c0e82041e872b7b6fe0dc4899137a71d,c189d2e78df197f5464424712ff00b40,cd89fd819728e8bb01132a958eb61182,cf58f0416a8d27360f6d6e772471b831,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">b0d66ccaaac34d5e9a218ae0acf50f90</data>
+      <data key="d12">16</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ELEFANTES MARINOS" target="LOBERIAS">
+      <data key="d8">8.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">c5aabd834197cee0008cbbe12580007f</data>
+      <data key="d11">6eec85af7b1c429f907057b8e8204806</data>
+      <data key="d12">17</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ELEFANTES MARINOS" target="CONCESIONES EXISTENTES">
+      <data key="d8">16.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">3e11752f9db0c9d6d3511bebdfdf06fa</data>
+      <data key="d11">d9aad6b997bc4aabb02e7015d19db7ab</data>
+      <data key="d12">18</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="MIROUNGA LEONINAS" target="LOBERIAS">
+      <data key="d8">1.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">c5aabd834197cee0008cbbe12580007f</data>
+      <data key="d11">e56f2abd11be4c27bf3d92f127908f57</data>
+      <data key="d12">19</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LUZON" target="PHILIPPINES">
+      <data key="d8">18.0</data>
+      <data key="d9">is located in</data>
+      <data key="d10">18c940956aa73d7d33f5f00e41e092ec</data>
+      <data key="d11">d8c05797cae348cabf60ce6d936bdd09</data>
+      <data key="d12">20</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LUZON" target="PACIFIC OCEAN">
+      <data key="d8">16.0</data>
+      <data key="d9">is surrounded by</data>
+      <data key="d10">18c940956aa73d7d33f5f00e41e092ec</data>
+      <data key="d11">4475560228c94929bf23b80124a0ea72</data>
+      <data key="d12">21</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LUZON" target="RAIN FORESTS">
+      <data key="d8">14.0</data>
+      <data key="d9">are found in</data>
+      <data key="d10">18c940956aa73d7d33f5f00e41e092ec</data>
+      <data key="d11">be140b20d7e14a829d990d2ae5b72a69</data>
+      <data key="d12">22</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LUZON" target="MANGROVES">
+      <data key="d8">12.0</data>
+      <data key="d9">are found in</data>
+      <data key="d10">18c940956aa73d7d33f5f00e41e092ec</data>
+      <data key="d11">6932c5367010481b97b2dc94c389ff40</data>
+      <data key="d12">23</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LUZON" target="CORAL REEFS">
+      <data key="d8">0.0</data>
+      <data key="d9">are found in</data>
+      <data key="d10">18c940956aa73d7d33f5f00e41e092ec</data>
+      <data key="d11">b80f1d913d4a497082511d7820953e39</data>
+      <data key="d12">24</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CR&#205;A" target="MADRE">
+      <data key="d8">30.0</data>
+      <data key="d9">cuida de</data>
+      <data key="d10">5a07380f5aada9c6c6ef41f242e1c536,a7319504eeb762ae0cc5b15c4d6b5461,acce0f2d52d35b868047d606555fc1e4</data>
+      <data key="d11">e038a51bb18e45ddaa4688d9cf2f2176</data>
+      <data key="d12">25</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CR&#205;A" target="NACIMIENTO">
+      <data key="d8">18.0</data>
+      <data key="d9">comienzo vida de</data>
+      <data key="d10">5a07380f5aada9c6c6ef41f242e1c536,a7319504eeb762ae0cc5b15c4d6b5461</data>
+      <data key="d11">64db56fb339a47dcbfcebc3057ee3772</data>
+      <data key="d12">26</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CR&#205;A" target="ADOLESCENCIA">
+      <data key="d8">3.0</data>
+      <data key="d9">etapa que sigue de</data>
+      <data key="d10">5a07380f5aada9c6c6ef41f242e1c536,a7319504eeb762ae0cc5b15c4d6b5461,acce0f2d52d35b868047d606555fc1e4</data>
+      <data key="d11">bf62b4fbbd1447c7b764929544dddc86</data>
+      <data key="d12">27</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CR&#205;A" target="NACIMENTO">
+      <data key="d8">9.0</data>
+      <data key="d9">comienzo vida de</data>
+      <data key="d10">acce0f2d52d35b868047d606555fc1e4</data>
+      <data key="d11">f7602de805f3498fa1bdb1a5421af51b</data>
+      <data key="d12">28</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="MADRE" target="NACIMIENTO">
+      <data key="d8">16.0</data>
+      <data key="d9">marca el inicio de</data>
+      <data key="d10">5a07380f5aada9c6c6ef41f242e1c536,a7319504eeb762ae0cc5b15c4d6b5461</data>
+      <data key="d11">c5633605817643bf8876ee12e72f774a</data>
+      <data key="d12">29</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="MADRE" target="ADOLESCENCIA">
+      <data key="d8">21.0</data>
+      <data key="d9">contin&#250;a cuidando de</data>
+      <data key="d10">5a07380f5aada9c6c6ef41f242e1c536,a7319504eeb762ae0cc5b15c4d6b5461,acce0f2d52d35b868047d606555fc1e4</data>
+      <data key="d11">8bff83d6afb44cb6aa046fc282b953d4</data>
+      <data key="d12">30</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="MADRE" target="NACIMENTO">
+      <data key="d8">8.0</data>
+      <data key="d9">marca el inicio de</data>
+      <data key="d10">acce0f2d52d35b868047d606555fc1e4</data>
+      <data key="d11">d509ff9e105d4213a07acfbcda792ed4</data>
+      <data key="d12">31</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LUBA" target="LUBA">
+      <data key="d8">110.0</data>
+      <data key="d9"> LUBA is a marine species that exhibits social behavior and inhabits colonies. They engage in reproduction and are the subject of research in marine science communities.</data>
+      <data key="d10">dae5099df9a7523100cc1cec0e5d43fa</data>
+      <data key="d11">2c6d29cde1224e80b0d04ceaba2d0552</data>
+      <data key="d12">32</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBERIAS" target="PINNIPED">
+      <data key="d8">8.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">c5aabd834197cee0008cbbe12580007f</data>
+      <data key="d11">df84c8eb25a9462ead82db4c4f50fb67</data>
+      <data key="d12">33</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBERIA" target="LOBERIA">
+      <data key="d8">81.0</data>
+      <data key="d9"> Loberia is a group of marine mammals that are important for the study of pinnipeds, the marine ecosystem, and the conservation of marine species. They are found in concentrations and colonies, and are considered important areas for the reproduction of these animals.</data>
+      <data key="d10">e2e07c1a5bead0187dec5149902c9499</data>
+      <data key="d11">bc60511a21174a53b78fcde2541c8b15</data>
+      <data key="d12">34</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LUBERIA" target="LUBERIA">
+      <data key="d8">81.0</data>
+      <data key="d9"> LUBERIA refers to areas that are important for the study of pinnipeds, concentrations of marine mammals, and areas important for the reproduction of marine mammals. These areas are also important for the study of the marine system, conservation, and the study of marine mammals. LUBERIA is also known as colonies and apostaderos.</data>
+      <data key="d10">e2e07c1a5bead0187dec5149902c9499</data>
+      <data key="d11">647912cd8c7c4560a9cc1d7e676b6663</data>
+      <data key="d12">35</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PINNIPED" target="PINGUINOS COMUNES">
+      <data key="d8">16.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">826d5f5be3514d0baaadd2d11193b945</data>
+      <data key="d12">36</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACTER&#205;STICAS" target="POBLACI&#211;N">
+      <data key="d8">10.0</data>
+      <data key="d9">describen</data>
+      <data key="d10">d12aea8b41f8654da913712b1182332f</data>
+      <data key="d11">fc8d45ffd940444395a7a8fc502a4590</data>
+      <data key="d12">37</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="POBLACI&#211;N" target="COSTA S. DEL GOLFO DE SAN JORGE">
+      <data key="d8">2.0</data>
+      <data key="d9">desplazado</data>
+      <data key="d10">b936698b8bf77875919870e3152faf6d</data>
+      <data key="d11">b604d6e72f044534a500b6b3e0ee42d7</data>
+      <data key="d12">38</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="POBLACI&#211;N" target="S.W. DE LA BAHIA THUCTOF">
+      <data key="d8">2.0</data>
+      <data key="d9">describe la poblaci&#243;n de la isla</data>
+      <data key="d10">542231ad71887d5ea52f251bd5ce2e3e</data>
+      <data key="d11">0c163ea440d247438785a9dfe3afea92</data>
+      <data key="d12">39</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ISLOTE SUR DE PUNTA LOBER&#205;A" target="LOBER&#205;A &#8220;ISLA CUMBRE&#8221;">
+      <data key="d8">760.0</data>
+      <data key="d9"> The Islote Sur de Punta Lobera and Isla Cumbre are two islands located in the Caribbean Sea. The Islote Sur de Punta Lobera is a small island located off the coast of Punta Lobera, while Isla Cumbre is a larger island located nearby. Both islands have unique topography, with the Islote Sur de Punta Lobera featuring rocky shores and steep slopes, while Isla Cumbre has a more gentle slope and is covered in lush vegetation.
+
+In terms of population, the Islote Sur de Punta Lobera is uninhabited, while Isla Cumbre has a small population of around 100 people. The islands are home to a variety of marine species, including fish, sea turtles, and coral reefs. The Islote Sur de Punta Lobera is particularly known for its diverse marine life, with a variety of fish species and coral reefs located in its waters.
+
+Overall, the Islote Sur de Punta Lobera and Isla Cumbre are two unique islands located in the Caribbean Sea, with distinct topography and a variety of marine species.</data>
+      <data key="d10">d12aea8b41f8654da913712b1182332f</data>
+      <data key="d11">fd3fcf03ed824156872b85bd52b537ce</data>
+      <data key="d12">40</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ISLOTE SUR DE PUNTA LOBER&#205;A" target="ISLOTE SUR DE PUNTA LO (&quot;ENTITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">None</data>
+      <data key="d10">d12aea8b41f8654da913712b1182332f</data>
+      <data key="d11">7accce6f0324499e8cee0465fbb7a617</data>
+      <data key="d12">41</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="COSTA S. DEL GOLFO DE SAN JORGE" target="TOPOGRAF&#205;A REGIONAL">
+      <data key="d8">20.0</data>
+      <data key="d9">proyecta</data>
+      <data key="d10">b936698b8bf77875919870e3152faf6d</data>
+      <data key="d11">fb4bebead16140cc8a50a4a8bf93f361</data>
+      <data key="d12">42</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="COSTA S. DEL GOLFO DE SAN JORGE" target="CARACTER&#205;STICAS">
+      <data key="d8">16.0</data>
+      <data key="d9">permanente</data>
+      <data key="d10">b936698b8bf77875919870e3152faf6d</data>
+      <data key="d11">bf38b09abd7640b0b49a2371077e7530</data>
+      <data key="d12">43</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="TOPOGRAF&#205;A REGIONAL" target="CARACTER&#205;STICAS">
+      <data key="d8">18.0</data>
+      <data key="d9">relacionan a la costa</data>
+      <data key="d10">e411653fa84230bcd9ca8f9b38657cca</data>
+      <data key="d11">e09bf01523a84d40811e738b558fb505</data>
+      <data key="d12">44</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="TOPOGRAF&#205;A REGIONAL" target="S.W. DE LA BAHIA THUCTOF">
+      <data key="d8">20.0</data>
+      <data key="d9">describe la isla</data>
+      <data key="d10">542231ad71887d5ea52f251bd5ce2e3e</data>
+      <data key="d11">b4a7cf573ffb442ea7b79f77b09d9cdc</data>
+      <data key="d12">45</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CARACTER&#205;STICAS" target="S.W. DE LA BAHIA THUCTOF">
+      <data key="d8">20.0</data>
+      <data key="d9">describe las caracter&#237;sticas de la isla</data>
+      <data key="d10">542231ad71887d5ea52f251bd5ce2e3e</data>
+      <data key="d11">ac6b149ce4004bae8ae549051ebcd199</data>
+      <data key="d12">46</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACI&#211;N DE TIERRA DEL FUEGO" target="LOBER&#205;A &quot;CALETA SAN MAURICIO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">gestiona</data>
+      <data key="d10">2f4d4de1f51823e41ae13d66576539cb</data>
+      <data key="d11">f3fdd09b799c4fb3b733e28acad67aee</data>
+      <data key="d12">47</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACI&#211;N DE TIERRA DEL FUEGO" target="LOBER&#205;A &quot;BAH&#205;A BUEN SUCESO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">gestiona</data>
+      <data key="d10">2f4d4de1f51823e41ae13d66576539cb</data>
+      <data key="d11">6b827cd1a93541e28eea8900f0003fca</data>
+      <data key="d12">48</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACI&#211;N DE TIERRA DEL FUEGO" target="LOBER&#205;A &quot;ENSENADA PATAGONES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">gestiona</data>
+      <data key="d10">2f4d4de1f51823e41ae13d66576539cb</data>
+      <data key="d11">6f40c7f51f294f7f8d9fd53d3aa07e63</data>
+      <data key="d12">49</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACI&#211;N DE TIERRA DEL FUEGO" target="LOBER&#205;A &quot;CABO BUEN SUCESO&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">gestiona</data>
+      <data key="d10">2f4d4de1f51823e41ae13d66576539cb</data>
+      <data key="d11">fe2e3d4a4e1f4381bec70216a1bb594d</data>
+      <data key="d12">50</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="CONSEJOS MARITIMOS DE TIERRA DEL FUEGO">
+      <data key="d8">19.0</data>
+      <data key="d9"> The LOBERAS and CONSEJOS MARITIMOS DE TIERRA DEL FUEGO conducted temporary tasks and experiments as part of their observations.</data>
+      <data key="d10">da6bf576b51c96c74aee885ecd44a5d3</data>
+      <data key="d11">b329713ea29a4c278507d07506672f4c</data>
+      <data key="d12">51</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE LOBO MARINO" target="ACEITE REFINADO">
+      <data key="d8">20.0</data>
+      <data key="d9">es el resultado de un proceso de refinado</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">79b283aba1bc445e9bc9b8a203d525af</data>
+      <data key="d12">52</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE LOBO MARINO" target="ACEITE SULFONADO">
+      <data key="d8">16.0</data>
+      <data key="d9">es el resultado de un proceso especial</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">0a626ce84ef44ff2864ebc775d744fba</data>
+      <data key="d12">53</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE LOBO MARINO" target="ACEITE OXIDADO">
+      <data key="d8">9.0</data>
+      <data key="d9">es el resultado de un proceso especial</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">8c114b2a3d8f47fabf07d73b6f168995</data>
+      <data key="d12">54</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBO MARINO" target="GUANO DE AVES MARINAS">
+      <data key="d8">16.0</data>
+      <data key="d9">es un producto de la industria del guano de aves marinas</data>
+      <data key="d10">fee8446145e958ff9402203e372df57d</data>
+      <data key="d11">b993ce9ec8c947528c64fb46f749dc40</data>
+      <data key="d12">55</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INO MAGALL&#193;NICO" target="NIDIFICACION">
+      <data key="d8">20.0</data>
+      <data key="d9">nidifica</data>
+      <data key="d10">53e3cb3a2e7aaa1f7ea056e37de6187e</data>
+      <data key="d11">e4a44bd3164f4173b1b822d5f700cb91</data>
+      <data key="d12">56</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INO MAGALL&#193;NICO" target="REPRODUCTION">
+      <data key="d8">30.0</data>
+      <data key="d9">reproduce</data>
+      <data key="d10">53e3cb3a2e7aaa1f7ea056e37de6187e</data>
+      <data key="d11">873b376ae9654f3b9492949d9b0b85a5</data>
+      <data key="d12">57</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INO MAGALL&#193;NICO" target="RESEARCH">
+      <data key="d8">30.0</data>
+      <data key="d9">studied</data>
+      <data key="d10">53e3cb3a2e7aaa1f7ea056e37de6187e</data>
+      <data key="d11">2c40a98253a441f79944e3f959854a8e</data>
+      <data key="d12">58</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INO MAGALL&#193;NICO" target="MARINE ECOSYSTEM">
+      <data key="d8">30.0</data>
+      <data key="d9">belongs to</data>
+      <data key="d10">53e3cb3a2e7aaa1f7ea056e37de6187e</data>
+      <data key="d11">43fa3e63a5be496aaf760d992d15570b</data>
+      <data key="d12">59</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INO MAGALL&#193;NICO" target="BEHAVIOR">
+      <data key="d8">10.0</data>
+      <data key="d9">is</data>
+      <data key="d10">53e3cb3a2e7aaa1f7ea056e37de6187e</data>
+      <data key="d11">a15e63eb5e2b40f993fee50d9589c59d</data>
+      <data key="d12">60</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INO MAGALL&#193;NICO" target="HABITAT">
+      <data key="d8">10.0</data>
+      <data key="d9">habita</data>
+      <data key="d10">53e3cb3a2e7aaa1f7ea056e37de6187e</data>
+      <data key="d11">601374e5d26f4c35a3f29ebe8e5c6ac7</data>
+      <data key="d12">61</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="RESEARCH" target="GUANO DE AVES MARINAS">
+      <data key="d8">9.0</data>
+      <data key="d9">es un producto de la industria del guano de aves marinas</data>
+      <data key="d10">fee8446145e958ff9402203e372df57d</data>
+      <data key="d11">973bed27ecb04e498ee27b45fec1c5dc</data>
+      <data key="d12">62</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="GUANO DE AVES MARINAS" target="ELEFANTE MARINO">
+      <data key="d8">16.0</data>
+      <data key="d9">es un producto de la industria del guano de aves marinas</data>
+      <data key="d10">fee8446145e958ff9402203e372df57d</data>
+      <data key="d11">df882b67742d477595662916fa72bd55</data>
+      <data key="d12">63</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="GUANO DE AVES MARINAS" target="GUANO DE AVES MARINAS">
+      <data key="d8">496.0</data>
+      <data key="d9">es un producto de la industria del guano de aves marinas</data>
+      <data key="d10">fee8446145e958ff9402203e372df57d</data>
+      <data key="d11">85ba0d5ddb65495a9a20aab5b8c0cd3c</data>
+      <data key="d12">64</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="GUANO DE AVES MARINAS" target="CONCESIONES EXISTENTES">
+      <data key="d8">2.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">3e11752f9db0c9d6d3511bebdfdf06fa</data>
+      <data key="d11">0dab31ba2b1541d08afe0319d3795bc6</data>
+      <data key="d12">65</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="GUANO" target="GUANEROS DE AVES MARINAS">
+      <data key="d8">110.0</data>
+      <data key="d9"> GUANO is a nutrient-rich substance that is produced by marine birds, such as seabirds and seagulls. It is enriched with essential nutrients such as nitrogen, phosphorus, and potassium, which are used by marine organisms to support their growth and survival. GUANEROS DE AVES MARINAS are the people who collect GUANO from marine birds. They use the GUANO as a fertilizer for their crops and as a source of income. GUANO is also used in the production of fertilizers and animal feed.</data>
+      <data key="d10">34798580ffa1eeacedf7b69c5f9ef85d</data>
+      <data key="d11">38228c1fc7004b5b8bcb51d38fda2f03</data>
+      <data key="d12">66</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CONCESIONES EXISTENTES" target="PING&#220;INOS">
+      <data key="d8">16.0</data>
+      <data key="d9">incluyen a la especie</data>
+      <data key="d10">3e11752f9db0c9d6d3511bebdfdf06fa</data>
+      <data key="d11">9015737921f54f68805390f145b8144a</data>
+      <data key="d12">67</data>
+      <data key="d13">1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,2340 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="LOBOS MARINOS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los lobos marinos son mam&#237;feros marinos que pertenecen a la familia Otariidae, conocidos por su adaptaci&#243;n a la vida en el agua y en tierra. Se encuentran en las costas y islas de la regi&#243;n, y son pinn&#237;pedos que se utilizan para obtener aceite. Sus caracter&#237;sticas, como el peso, el sexo y las reservas grasas, influyen en el rendimiento individual. En general, los lobos marinos son una especie fascinante que ha adaptado su biolog&#237;a y comportamiento para prosperar en ambientes acu&#225;ticos y terrestres, lo que los hace una parte importante de los ecosistemas marinos y costeros.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309,047fbbc658a3372904c9003df8fac928,2d041f866c2a7f149216961d43696c82,c0e82041e872b7b6fe0dc4899137a71d,db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">20</data>
+      <data key="d6">0</data>
+      <data key="d7">139acee16faa4edcb29250073f46cbbb</data>
+    </node>
+    <node id="MADRES">
+      <data key="d0">MAMMAL</data>
+      <data key="d1">Las madres son hembras adultas que cuidan de sus cr&#237;as, proporcion&#225;ndoles alimento y protecci&#243;n.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">19</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">1</data>
+      <data key="d7">c2ba4c3f8f104064b5f813b4212f6670</data>
+    </node>
+    <node id="CR&#205;AS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Las cr&#237;as son los lobatos reci&#233;n nacidos que dependen de su madre para su supervivencia y crecimiento.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">19</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+      <data key="d7">aea5d638f48b422798a0dbd210bdb280</data>
+    </node>
+    <node id="PARASITOSIS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">La parasitosis es una condici&#243;n en la que los lobos marinos est&#225;n infectados con par&#225;sitos, como nematodos, cestodos y piojos.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">4</data>
+      <data key="d6">3</data>
+      <data key="d7">52a04f9003844f7d94f72134c040c367</data>
+    </node>
+    <node id="CONTRA-COECUM OSCULATUM RUD">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Contra-coecum osculatum rud es un tipo de nematodo que infecta a los lobos marinos, encontrado en su est&#243;mago.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">4</data>
+      <data key="d7">9b32e7269e5743b78ea5a662a1f546a6</data>
+    </node>
+    <node id="TETRAFILIDIO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Tetrafildio es un tipo de cestodo que infecta a los lobos marinos, encontrado en su tejido adiposo subcut&#225;neo.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+      <data key="d7">23256f0ff6a04d31b2b62796db583f0c</data>
+    </node>
+    <node id="ANTARCTOPHTHIRIUS MICROCHIR">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Antarctophthirius microchir es un tipo de piojo que infecta a los lobos marinos, encontrado en su pelaje.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">6</data>
+      <data key="d7">f8ce090513314d2cbd5ea9839e79900f</data>
+    </node>
+    <node id="INVESTIGACIONES PARASITARIAS">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">Las investigaciones parasitarias son estudios que se realizan para determinar la presencia de par&#225;sitos en los lobos marinos y su impacto en su salud.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+      <data key="d7">6554ebb28a7447f5991e60d87ec4705f</data>
+    </node>
+    <node id="MATERIALES FECALES">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Los materiales fecales son los desechos eliminados por los lobos marinos, que pueden ser utilizados para detectar la presencia de par&#225;sitos.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d5">1</data>
+      <data key="d6">8</data>
+      <data key="d7">c3807fac104840a0ac0fb58931bcc17c</data>
+    </node>
+    <node id="OTARIA FLAVESCENS">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Otaria flavescens es una especie de lobo marino que habita en las costas de Am&#233;rica del Sur, caracterizada por su pelaje y su comportamiento social.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">9</data>
+      <data key="d7">293840dc3c3e49789b85dbfb20d8136a</data>
+    </node>
+    <node id="NEMATODOS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Los nematodos son un tipo de par&#225;sito que infecta a los lobos marinos, encontrado en su est&#243;mago.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">16</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">10</data>
+      <data key="d7">021008bcd4a848b1b33680956afeec50</data>
+    </node>
+    <node id="CESTODOS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Los cestodos son un tipo de par&#225;sito que infecta a los lobos marinos, encontrado en su tejido adiposo subcut&#225;neo.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">11</data>
+      <data key="d7">4cfe35ce227648ecb0c4aa97434d883e</data>
+    </node>
+    <node id="PIOJOS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Los piojos son un tipo de par&#225;sito que infecta a los lobos marinos, encontrado en su pelaje.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">12</data>
+      <data key="d7">887bb568db15425cb12fad0f56e020ca</data>
+    </node>
+    <node id="ANOPLOURO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Anopluro es un tipo de piojo que infecta a los lobos marinos, encontrado en su pelaje.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">18</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">13</data>
+      <data key="d7">28770ed57cf448a59306ea984afaa6c1</data>
+    </node>
+    <node id="ANTARCTOPHTHIRIUS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Antarctophthirius es un g&#233;nero de piojos que infectan a los lobos marinos, encontrado en su pelaje.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d5">0</data>
+      <data key="d6">14</data>
+      <data key="d7">90f40074f3694812b860d51ae6af372b</data>
+    </node>
+    <node id="PHYLLOBOTHRIMUM">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Phyllobothrium es un g&#233;nero de cestodos que infectan a los lobos marinos, encontrado en su tejido adiposo subcut&#225;neo.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">17</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">15</data>
+      <data key="d7">86a7a00b8e124f5691f3fb05d3e34f04</data>
+    </node>
+    <node id="CONSERVACI&#211;N">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1">CONSERVACI&#211;N se refiere a la protecci&#243;n y regulaci&#243;n de la explotaci&#243;n de recursos naturales, lo que incluye la conservaci&#243;n de especies como los lobos marinos, mediante decretos y regulaciones gubernamentales, con el fin de mantener la salud y la poblaci&#243;n de estas especies. Esto implica una gesti&#243;n cuidadosa de los ecosistemas marinos para asegurar la sostenibilidad y el bienestar de las especies que los habitan, como los lobos marinos, y para preservar la biodiversidad en general. La conservaci&#243;n es crucial para prevenir la sobreexplotaci&#243;n y el da&#241;o a los ecosistemas, y para garantizar que las generaciones futuras puedan disfrutar de los beneficios que proporcionan los recursos naturales. En el contexto de la conservaci&#243;n de los lobos marinos, CONSERVACI&#211;N abarca esfuerzos para reducir las amenazas que enfrentan estas especies, como la pesca incidental, la contaminaci&#243;n y la destrucci&#243;n de h&#225;bitat, y para promover pr&#225;cticas de pesca y turismo sostenibles que respeten la integridad de los ecosistemas marinos.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928,2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">16</data>
+      <data key="d7">659bb6b3e46647c0ad1a45e941090b50</data>
+    </node>
+    <node id="ECOSISTEMA MARINO">
+      <data key="d0">MARINE ECOSYSTEM</data>
+      <data key="d1">El ecosistema marino es el h&#225;bitat de los lobos marinos, donde interact&#250;an con otros organismos y su entorno.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">17</data>
+      <data key="d7">d3d3663e6add42e6bfcdefbed1d105d7</data>
+    </node>
+    <node id="H&#193;BITAT">
+      <data key="d0">HABITAT</data>
+      <data key="d1">El h&#225;bitat de los lobos marinos es el lugar donde viven y se desarrollan, que incluye la costa y el mar.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">15e32dbc19fd4300965e2bd759e5d8a7</data>
+    </node>
+    <node id="COMPORTAMIENTO">
+      <data key="d0">BEHAVIOR</data>
+      <data key="d1">El comportamiento de los lobos marinos es el conjunto de acciones y reacciones que tienen en su entorno, que incluye la alimentaci&#243;n, la reproducci&#243;n y la interacci&#243;n social.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">19</data>
+      <data key="d7">980637c80c9948fe9e599850ad7b0672</data>
+    </node>
+    <node id="REPRODUCCI&#211;N">
+      <data key="d0">REPRODUCTION</data>
+      <data key="d1">La reproducci&#243;n de los lobos marinos es el proceso por el cual se producen nuevas cr&#237;as, que incluye la gestaci&#243;n, el parto y la lactancia.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">20</data>
+      <data key="d7">e6cfd8e130d648b1a98d73f56c4ecfbc</data>
+    </node>
+    <node id="INVESTIGACI&#211;N">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">La investigaci&#243;n sobre los lobos marinos es importante para entender su biolog&#237;a, comportamiento y ecolog&#237;a, y para desarrollar estrategias de conservaci&#243;n.</data>
+      <data key="d2">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">21</data>
+      <data key="d7">5795f5c5e7794283b9579c8c8b53ad8d</data>
+    </node>
+    <node id="LOBER&#205;AS">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Las lober&#237;as son &#225;reas donde se encuentran las colonias de lobos marinos, caracterizadas por su ubicaci&#243;n geogr&#225;fica y tipo de costa.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">20</data>
+      <data key="d6">22</data>
+      <data key="d7">4df7b85a4ab24631bb65221249d2059e</data>
+    </node>
+    <node id="COSTAS CONTINENTALES">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Las costas continentales son &#225;reas donde se encuentran las lober&#237;as, caracterizadas por su ubicaci&#243;n en el litoral mar&#237;timo.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">23</data>
+      <data key="d7">7e34d73a6ca34183826843102fadc0ef</data>
+    </node>
+    <node id="COSTAS EXTRA-CONTINENTALES">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Las costas extra-continentales son &#225;reas donde se encuentran las lober&#237;as, caracterizadas por su ubicaci&#243;n en islas, islotes o rocas pr&#243;ximas al continente.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">24</data>
+      <data key="d7">cfdab990839b45359fc48aee07404802</data>
+    </node>
+    <node id="SEXO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El sexo de las poblaciones de lobos marinos, referido como "SEXO", es un factor crucial en la clasificaci&#243;n de las lober&#237;as, donde se encuentran poblaciones mixtas e &#237;ntegras. Adem&#225;s, el sexo es una caracter&#237;stica que influye en el rendimiento individual de aceite de los lobos marinos, lo que sugiere que el sexo puede tener un impacto significativo en la fisiolog&#237;a y el comportamiento de estos animales. En este contexto, el sexo de los lobos marinos es una variable importante que debe ser considerada en el estudio y la gesti&#243;n de las poblaciones de lobos marinos, ya que puede afectar la din&#225;mica de las lober&#237;as y la producci&#243;n de aceite, un recurso valioso en estas especies. Por lo tanto, el sexo es una caracter&#237;stica fundamental en la biolog&#237;a y la ecolog&#237;a de los lobos marinos, y su estudio puede proporcionar informaci&#243;n valiosa para la conservaci&#243;n y el manejo de estas poblaciones.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309,db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">25</data>
+      <data key="d7">f33bfedcbde14ac2b93847b8bfbed350</data>
+    </node>
+    <node id="TOPOGRAF&#205;A">
+      <data key="d0">HABITAT</data>
+      <data key="d1">La topograf&#237;a de las lober&#237;as es uniforme, con costas altas y accidentes que permiten a los lobos marinos encontrar abrigo de los meteoros y vientos.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">26</data>
+      <data key="d7">1d3422ee0a114b2fa064e01d4bffd148</data>
+    </node>
+    <node id="PROTECCI&#211;N NATURAL">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1">La protecci&#243;n natural de las costas es importante para las lober&#237;as, con costas altas y accidentes que permiten a los lobos marinos encontrar abrigo.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">27</data>
+      <data key="d7">3c1d9238ca454049a84bc96a0b567987</data>
+    </node>
+    <node id="AVE MARINA">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Las aves marinas, como las gaviotas y cormoranes, se encuentran en las &#225;reas comunes de las colonias de lobos marinos.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">28</data>
+      <data key="d7">70213f656a714eb3bdae3e588239395a</data>
+    </node>
+    <node id="PING&#220;INOS COMUNES">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Los ping&#252;inos comunes, tambi&#233;n conocidos como ping&#252;inos de Magallanes, son una especie de ave marina que se encuentra en las costas del sur de Am&#233;rica del Sur, espec&#237;ficamente en &#225;reas comunes de las colonias de lobos marinos, y se caracterizan por su plumaje y comportamiento social. Estos ping&#252;inos comparten su h&#225;bitat con otras especies marinas, lo que sugiere una interconexi&#243;n en el ecosistema marino de la regi&#243;n. La presencia de los ping&#252;inos comunes en estas &#225;reas puede estar influenciada por factores como la disponibilidad de alimento, la protecci&#243;n contra depredadores y el clima, lo que a su vez puede afectar la din&#225;mica de las colonias de lobos marinos y otros organismos marinos con los que cohabitan. La investigaci&#243;n sobre los ping&#252;inos comunes y su relaci&#243;n con el medio ambiente marino es crucial para entender mejor los complejos mecanismos de los ecosistemas marinos y para desarrollar estrategias efectivas de conservaci&#243;n de estas especies y sus h&#225;bitats.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">6</data>
+      <data key="d4">0</data>
+      <data key="d5">5</data>
+      <data key="d6">29</data>
+      <data key="d7">2f994f1b2b304a1fa63cbdd9049f669d</data>
+    </node>
+    <node id="GAVIOTAS">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Las gaviotas son una especie de ave marina que se encuentra en las &#225;reas comunes de las colonias de lobos marinos.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">30</data>
+      <data key="d7">db1fb286eca244f58bd7e02f8301c6bc</data>
+    </node>
+    <node id="CORMORANES">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Los cormoranes son una especie de ave marina que se encuentra en las &#225;reas comunes de las colonias de lobos marinos.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">31</data>
+      <data key="d7">71f1663ce7e347f68b863665a0155d73</data>
+    </node>
+    <node id="BIGUAES">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Los biguaes son una especie de ave marina que se encuentra en las &#225;reas comunes de las colonias de lobos marinos.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">32</data>
+      <data key="d7">1a79740f4ed349c381399cfd8ccf18b7</data>
+    </node>
+    <node id="P&#193;JAROS GUANEROS">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Los p&#225;jaros guaneros son una especie de ave marina que se encuentra en las &#225;reas comunes de las colonias de lobos marinos.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">33</data>
+      <data key="d7">4891f9ac2c2b4b33a2055a40dc86a781</data>
+    </node>
+    <node id="COLONIAS">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Las colonias son &#225;reas donde se encuentran las lober&#237;as, caracterizadas por su ubicaci&#243;n geogr&#225;fica y tipo de costa.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">34</data>
+      <data key="d7">448316e4435040bcaee5ee67858629c2</data>
+    </node>
+    <node id="&#193;REAS COMUNES">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Las &#225;reas comunes son &#225;reas donde se encuentran las colonias de lobos marinos y otras especies, caracterizadas por su ubicaci&#243;n geogr&#225;fica y tipo de costa.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">35</data>
+      <data key="d7">5949de1ee6c74faa8cad8cb5c9f58594</data>
+    </node>
+    <node id="ISLAS">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Las islas son &#225;reas donde se encuentran las lober&#237;as, caracterizadas por su ubicaci&#243;n geogr&#225;fica y tipo de costa.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">36</data>
+      <data key="d7">94d9ecb8f86e4ae6abd99753626c7822</data>
+    </node>
+    <node id="ISLOTES">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Los islotes son &#225;reas donde se encuentran las lober&#237;as, caracterizadas por su ubicaci&#243;n geogr&#225;fica y tipo de costa.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">37</data>
+      <data key="d7">654a87376bee4b94b2cc0dcaf6a12b32</data>
+    </node>
+    <node id="ROCAS">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Las rocas son &#225;reas donde se encuentran las lober&#237;as, caracterizadas por su ubicaci&#243;n geogr&#225;fica y tipo de costa.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">38</data>
+      <data key="d7">77a551e151014ae096ce83906f17c250</data>
+    </node>
+    <node id="COSTAS ALTAS">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Las costas altas son &#225;reas donde se encuentran las lober&#237;as, caracterizadas por su ubicaci&#243;n geogr&#225;fica y tipo de costa.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">39</data>
+      <data key="d7">b14a62465b6642ab9ff8f067bdc1cdc2</data>
+    </node>
+    <node id="ACCIDENTES">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Los accidentes son &#225;reas donde se encuentran las lober&#237;as, caracterizadas por su ubicaci&#243;n geogr&#225;fica y tipo de costa.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">40</data>
+      <data key="d7">d03358c044d349e7bf6f7580862fe93b</data>
+    </node>
+    <node id="METEOROS">
+      <data key="d0">NONE</data>
+      <data key="d1">Los meteoros son factores que afectan a las lober&#237;as, caracterizadas por su impacto en la protecci&#243;n natural de las costas.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">41</data>
+      <data key="d7">b4cb88ac0f1948f88016caa7ee7fd8fc</data>
+    </node>
+    <node id="VIENTOS PATAG&#211;NICOS">
+      <data key="d0">NONE</data>
+      <data key="d1">Los vientos patag&#243;nicos son factores que afectan a las lober&#237;as, caracterizadas por su impacto en la protecci&#243;n natural de las costas.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">42</data>
+      <data key="d7">2922911134a041969bfcf31df480a529</data>
+    </node>
+    <node id="VEGETACI&#211;N">
+      <data key="d0">HABITAT</data>
+      <data key="d1">La vegetaci&#243;n es un factor que caracteriza a las lober&#237;as, con diferentes tipos de plantas que se encuentran en las &#225;reas comunes de las colonias de lobos marinos.</data>
+      <data key="d2">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">43</data>
+      <data key="d7">fb3d032138194610a1af7c9a29ff2e4a</data>
+    </node>
+    <node id="ACEITE DE LOBO MARINO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El aceite de lobo marino es un l&#237;quido obtenido de los pinn&#237;pedos, con caracter&#237;sticas f&#237;sico-qu&#237;micas espec&#237;ficas, como color amarillento, olor caracter&#237;stico y densidad variable.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">10</data>
+      <data key="d6">44</data>
+      <data key="d7">70fc089fb5cf4da2b7f3d03db54ec4d7</data>
+    </node>
+    <node id="ACEITE TIPO 1">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El aceite tipo 1 es de la mejor calidad, con caracter&#237;sticas como aspecto turbio, color amarillo &#225;mbar, olor caracter&#237;stico y baja acidez y densidad.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">45</data>
+      <data key="d7">f4e9a42410a04f4eaba3bd507b6b6964</data>
+    </node>
+    <node id="ACEITE TIPO 2">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El aceite tipo 2 es de calidad intermedia, con caracter&#237;sticas como aspecto turbio, color amarillo rojizo, olor m&#225;s pronunciado y mayor acidez y densidad que el tipo 1.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">46</data>
+      <data key="d7">e565d99680c247669fe883d0f06d5679</data>
+    </node>
+    <node id="ACEITE TIPO 3">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El aceite tipo 3 es de la peor calidad, con caracter&#237;sticas como aspecto turbio, color rojizo, olor fuerte y alta acidez y densidad.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">47</data>
+      <data key="d7">c6c23fcba58b454ea0dd99315cffae7f</data>
+    </node>
+    <node id="CARACTER&#205;STICAS F&#205;SICO-QU&#205;MICAS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Las caracter&#237;sticas f&#237;sico-qu&#237;micas del aceite de lobo marino incluyen su densidad, &#237;ndice de saponificaci&#243;n, &#237;ndice de iodo y acidez, que var&#237;an seg&#250;n el tipo de aceite.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d5">0</data>
+      <data key="d6">48</data>
+      <data key="d7">498ce643f7754e86acf742f6cda66ca5</data>
+    </node>
+    <node id="ACEITE REFINADO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El aceite refinado es un proceso que se aplica al aceite com&#250;n natural para extraer la mayor cantidad posible de estearina, utilizando substancias qu&#237;micas como leg&#237;as alcalinas y permanganato de potasio.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">6</data>
+      <data key="d6">49</data>
+      <data key="d7">6e37c776250b448f8cfeb7e8af00a6b7</data>
+    </node>
+    <node id="ACEITE SULFONADO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El aceite sulfonado es un l&#237;quido de color rojizo, m&#225;s denso que el aceite refinado, con aspecto algo m&#225;s turbio y olor no muy pronunciado.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">50</data>
+      <data key="d7">09422fb1a92944e3918bc23cec1d3e83</data>
+    </node>
+    <node id="ACEITE OXIDADO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El aceite oxidado es un l&#237;quido viscoso, espeso, de color amarillo canela, marr&#243;n amostazado, con olor fuerte caracter&#237;stico y densidad variable.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">51</data>
+      <data key="d7">41c8b93330474b9d9ab054b5b2083fd2</data>
+    </node>
+    <node id="RESERVAS GRASAS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Las reservas grasas son una caracter&#237;stica de los lobos marinos que influye en el rendimiento individual de aceite.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">10</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">52</data>
+      <data key="d7">5c7c1763fc834a4b9cc34f8acd8b240e</data>
+    </node>
+    <node id="PESO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El peso es una caracter&#237;stica de los lobos marinos que se utiliza para determinar el rendimiento individual de aceite.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">10</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">53</data>
+      <data key="d7">77aefaa7b11946d3af056ae4593b5567</data>
+    </node>
+    <node id="ACEITE COM&#218;N NATURAL">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El aceite com&#250;n natural es un tipo de aceite de lobo marino que se utiliza como base para obtener aceite refinado.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">54</data>
+      <data key="d7">0718f10d31b94fada1eeee5d1e7e94bd</data>
+    </node>
+    <node id="ESTEARINA">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">La estearina es una sustancia que se extrae del aceite de lobo marino durante el proceso de refinado.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">55</data>
+      <data key="d7">19bcaa31c0fd433a9a1cda748ca34b7c</data>
+    </node>
+    <node id="LEG&#205;AS ALCALINAS">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">Las leg&#237;as alcalinas son substancias qu&#237;micas utilizadas en el proceso de refinado del aceite de lobo marino.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">56</data>
+      <data key="d7">ccf2e79183ca45708f60a4b7f782ee19</data>
+    </node>
+    <node id="PERMANGANATO DE POTASIO">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">El permanganato de potasio es una substancia qu&#237;mica utilizada en el proceso de refinado del aceite de lobo marino.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">57</data>
+      <data key="d7">edee348c43e64eeb818bdffddda97532</data>
+    </node>
+    <node id="DENSIDAD">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">La densidad es una caracter&#237;stica f&#237;sico-qu&#237;mica del aceite de lobo marino que var&#237;a seg&#250;n el tipo de aceite.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">58</data>
+      <data key="d7">a032ea8fa0f54379b2cad02dc60995d9</data>
+    </node>
+    <node id="&#205;NDICE DE SAPONIFICACI&#211;N">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El &#237;ndice de saponificaci&#243;n es una caracter&#237;stica f&#237;sico-qu&#237;mica del aceite de lobo marino que var&#237;a seg&#250;n el tipo de aceite.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">59</data>
+      <data key="d7">f3a97d191f934058a43e9b58b1b9f1b2</data>
+    </node>
+    <node id="&#205;NDICE DE YODO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El &#237;ndice de yodo es una caracter&#237;stica f&#237;sico-qu&#237;mica del aceite de lobo marino que var&#237;a seg&#250;n el tipo de aceite.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">60</data>
+      <data key="d7">ed2278aecab842d5856704564e745c8e</data>
+    </node>
+    <node id="ACIDEZ">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">La acidez es una caracter&#237;stica f&#237;sico-qu&#237;mica del aceite de lobo marino que var&#237;a seg&#250;n el tipo de aceite.</data>
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">61</data>
+      <data key="d7">a6d5cfcba44644bb9db19ec74bd402e0</data>
+    </node>
+    <node id="MACHOS ADULTOS">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d3">10</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">62</data>
+      <data key="d7">8568ebdde925485980aec412f1873d51</data>
+    </node>
+    <node id="PING&#220;INOS">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Los ping&#252;inos son aves anf&#237;bias y marinas que se encuentran en determinados sectores de la costa del litoral atl&#225;ntico y en islas adyacentes, particularmente en la costa de Argentina. Se caracterizan por su adaptaci&#243;n a la vida en el agua y en tierra, lo que les permite habitar en colonias y desarrollar un comportamiento social notable. Su r&#233;gimen alimenticio est&#225; compuesto principalmente de peque&#241;os peces y mariscos, lo que refleja su estrecha relaci&#243;n con el medio marino. Con una poblaci&#243;n censada de 320000 a 350000 individuos, los ping&#252;inos son una especie fascinante que atrae el inter&#233;s de cient&#237;ficos y observadores debido a su capacidad para prosperar en ambientes tanto acu&#225;ticos como terrestres.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82,c0e82041e872b7b6fe0dc4899137a71d,efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">19</data>
+      <data key="d6">63</data>
+      <data key="d7">aba6dc60d28f49879de59d0189a45e14</data>
+    </node>
+    <node id="HUEVOS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Los huevos de los ping&#252;inos tienen una c&#225;scara de color blanco-celeste, con un tama&#241;o variable y un peso promedio de 128 gramos, y son comestibles aunque tienen un olor y sabor fuertes.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">21</data>
+      <data key="d4">1</data>
+      <data key="d5">4</data>
+      <data key="d6">64</data>
+      <data key="d7">ff16b022c2cd42fe98cc204987856e2d</data>
+    </node>
+    <node id="INCUBACI&#211;N">
+      <data key="d0">REPRODUCTION</data>
+      <data key="d1">La incubaci&#243;n de los huevos es realizada por la hembra, quien es reemplazada por el macho cuando abandona el nido para alimentarse, y el per&#237;odo de incubaci&#243;n oscila alrededor de los 30 d&#237;as.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">21</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">65</data>
+      <data key="d7">7617c7630b954fea829f2fa60fdb41d4</data>
+    </node>
+    <node id="CRIANZA">
+      <data key="d0">BEHAVIOR</data>
+      <data key="d1">La crianza de los pichones es realizada por ambos progenitores, quienes los alimentan desde su nacimiento hasta los 45 d&#237;as aproximadamente, y los pichones aprenden a moverse en el agua desde sus primeros intentos.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">21</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">66</data>
+      <data key="d7">be928f546de54427873db39c4d5957b1</data>
+    </node>
+    <node id="R&#201;GIMEN ALIMENTICIO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El r&#233;gimen alimenticio de los ping&#252;inos magall&#225;nicos se compone principalmente de peque&#241;os peces y mariscos.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">22</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">67</data>
+      <data key="d7">a53c96a820f54e21b8fa0770986b9e5b</data>
+    </node>
+    <node id="MORTALIDAD">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1">La mortalidad de los pichones es alta, especialmente en la etapa de aproximadamente un mes de edad, y se presume que la falta de una adecuada nutrici&#243;n podr&#237;a ser un factor determinante.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">21</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">68</data>
+      <data key="d7">06f7c47ba5a340839cc638632afe62f9</data>
+    </node>
+    <node id="PAR&#193;SITOS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Los ping&#252;inos albergan par&#225;sitos como el "piojillo" y la tenia, que se encuentran en casi el 95% de los animales observados y en el 65% de los sujetos adultos, respectivamente.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">69</data>
+      <data key="d7">11668b06642845a29f13df355558d816</data>
+    </node>
+    <node id="PIOJILLO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El piojillo es un par&#225;sito que se encuentra en casi el 95% de los ping&#252;inos observados, y se caracteriza por su color rojizo.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">70</data>
+      <data key="d7">46f1ca8ee16349009e460419e11789fd</data>
+    </node>
+    <node id="TENIA">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">La tenia es un par&#225;sito que se encuentra en el 65% de los ping&#252;inos adultos, y se caracteriza por su largo aproximado de 40 cent&#237;metros y ancho de 5 mil&#237;metros.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">71</data>
+      <data key="d7">5e78d515dafd44fba6f2991a19efa272</data>
+    </node>
+    <node id="NIDOS">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Los nidos de los ping&#252;inos son lugares donde las hembras ponen sus huevos y los incuban, y se caracterizan por ser ocupados por parejas de ping&#252;inos.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d5">1</data>
+      <data key="d6">72</data>
+      <data key="d7">7d773473ffb54b47abd8a80d1489005d</data>
+    </node>
+    <node id="COPLACI&#211;N">
+      <data key="d0">REPRODUCTION</data>
+      <data key="d1">La copulaci&#243;n es el acto de reproducci&#243;n de los ping&#252;inos, que ocurre antes de que las hembras lleguen a los sitios de nidificaci&#243;n.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">73</data>
+      <data key="d7">1b880bcfd30e43ae8b2abd66f534e399</data>
+    </node>
+    <node id="FECUNDACI&#211;N">
+      <data key="d0">REPRODUCTION</data>
+      <data key="d1">La fecundaci&#243;n es el proceso por el cual los huevos de los ping&#252;inos son fertilizados, y se caracteriza por un elevado porcentaje de no f&#233;rtiles.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">74</data>
+      <data key="d7">323a877708654162a60f6a53ac0e9133</data>
+    </node>
+    <node id="ECLOSI&#211;N">
+      <data key="d0">REPRODUCTION</data>
+      <data key="d1">La eclosi&#243;n es el proceso por el cual los huevos de los ping&#252;inos se abren y nacen los pichones, y ocurre entre el 15 y el 25 de octubre.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">20</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">75</data>
+      <data key="d7">45641cee5836499b8dd7581c9783625d</data>
+    </node>
+    <node id="PICHONES">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Los pichones son los j&#243;venes ping&#252;inos que nacen despu&#233;s de la eclosi&#243;n, y se caracterizan por ser alimentados por sus progenitores durante aproximadamente 45 d&#237;as.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">22</data>
+      <data key="d4">1</data>
+      <data key="d5">4</data>
+      <data key="d6">76</data>
+      <data key="d7">170fb56c998541f7b624eb1a3f75eee0</data>
+    </node>
+    <node id="PROGENITORES">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Los progenitores son los ping&#252;inos adultos que se encargan de alimentar y cuidar a los pichones, y se caracterizan por su comportamiento de crianza.</data>
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">22</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">77</data>
+      <data key="d7">148c1021c30b45a9859a5e240638f535</data>
+    </node>
+    <node id="PING&#220;INOS MAGALL&#193;NICOS">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d5">1</data>
+      <data key="d6">78</data>
+      <data key="d7">58c380ed40384cddab747e47c6eb46f2</data>
+    </node>
+    <node id="HEMBRAS">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">21</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">79</data>
+      <data key="d7">0bada825f6664eae9075dcdff907b74f</data>
+    </node>
+    <node id="MACHOS">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d3">21</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">80</data>
+      <data key="d7">1394b4a6715b4fe7b82c8e75ccc7ba20</data>
+    </node>
+    <node id="POBLACI&#211;N DE PING&#220;INOS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">La poblaci&#243;n de ping&#252;inos se refiere al n&#250;mero de individuos que componen una colonia, y su estudio es importante para entender su din&#225;mica y conservaci&#243;n.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">81</data>
+      <data key="d7">a9d873674ae0491fba051e88cd1080a2</data>
+    </node>
+    <node id="CONCESIONES">
+      <data key="d0">NONE</data>
+      <data key="d1">Las concesiones son permisos otorgados para la explotaci&#243;n industrial de los ping&#252;inos, y se encuentran en la zona comprendida desde la ribera Sud del R&#237;o Deseado hasta 10 kil&#243;metros al norte del Cabo Guardi&#225;n.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">13</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">82</data>
+      <data key="d7">9d76e485aa934fa8bc7e0f63b916a2cc</data>
+    </node>
+    <node id="CAZA DE PING&#220;INOS">
+      <data key="d0">BEHAVIOR</data>
+      <data key="d1">La caza de ping&#252;inos se refiere a la actividad de captura y extracci&#243;n de sus cueros y aceite, y se realiza mediante un procedimiento similar al empleado para la caza de lobos marinos.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">13</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">83</data>
+      <data key="d7">d9dd3f1035124768856fe7f04bf22a85</data>
+    </node>
+    <node id="CUEROS DE PING&#220;INO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">Los cueros de ping&#252;ino son un subproducto obtenido de la explotaci&#243;n de estas aves marinas, que se obtienen despu&#233;s de la muerte del animal. Posteriormente, se tratan con sal para su posterior curtido, lo que permite su comercializaci&#243;n y utilizaci&#243;n para fines industriales y comerciales. Este proceso de curtido y comercializaci&#243;n es fundamental para dar valor agregado a los cueros de ping&#252;ino, convirti&#233;ndolos en un producto &#250;til y rentable. En este contexto, los cueros de ping&#252;ino juegan un papel importante en la econom&#237;a y la industria, destacando la importancia de la gesti&#243;n sostenible y responsable de los recursos marinos, incluyendo la explotaci&#243;n de aves marinas como los ping&#252;inos.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">8</data>
+      <data key="d6">84</data>
+      <data key="d7">3c0b8bf26a6f4fdaa425af3048ee3e52</data>
+    </node>
+    <node id="ACEITE DE PING&#220;INO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El aceite de ping&#252;ino es un subproducto obtenido de la explotaci&#243;n de estas aves marinas, utilizado para fines industriales y comerciales, y se obtiene mediante un procedimiento similar al empleado para la obtenci&#243;n de aceite de lobo marino. Este aceite se utiliza en el curtido de cueros, destacando su importancia en procesos industriales relacionados con la transformaci&#243;n de materiales. La explotaci&#243;n de ping&#252;inos para la obtenci&#243;n de este aceite subraya la interconexi&#243;n entre las actividades humanas y los ecosistemas marinos, resaltando la necesidad de considerar el impacto ambiental y las pr&#225;cticas sustentables en la industria. El aceite de ping&#252;ino, como producto derivado de la explotaci&#243;n de aves marinas, pone de relieve la complejidad de las relaciones entre las especies marinas y las actividades econ&#243;micas humanas, as&#237; como la importancia de la gesti&#243;n responsable de los recursos marinos para asegurar la conservaci&#243;n de los ecosistemas y la biodiversidad.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">13</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">85</data>
+      <data key="d7">8a723428344d4478b68be5c32fec2f3d</data>
+    </node>
+    <node id="INDUSTRIALIZACI&#211;N DE PING&#220;INOS">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">La industrializaci&#243;n de ping&#252;inos se refiere al proceso de extracci&#243;n y procesamiento de sus productos, como cueros y aceite, para su comercializaci&#243;n.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">4</data>
+      <data key="d6">86</data>
+      <data key="d7">0e5697e1cc3e41109872aac8fb62f9e0</data>
+    </node>
+    <node id="CONSERVACI&#211;N DE PING&#220;INOS">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1">La conservaci&#243;n de ping&#252;inos es importante para mantener la salud de las colonias y prevenir la disminuci&#243;n de la poblaci&#243;n.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">87</data>
+      <data key="d7">3850a03f0bf443fa9cc4f37cf878c9ad</data>
+    </node>
+    <node id="R&#205;O DESEADO">
+      <data key="d0">HABITAT</data>
+      <data key="d1">El R&#237;o Deseado es un lugar geogr&#225;fico que se encuentra en la costa de Argentina, y es parte del h&#225;bitat de los ping&#252;inos y lobos marinos.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">88</data>
+      <data key="d7">e892455ee14a4140951f4e1e0981cadd</data>
+    </node>
+    <node id="CABO GUARDI&#193;N">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Cabo Guardi&#225;n es un lugar geogr&#225;fico ubicado en la costa de Argentina, caracterizado como un h&#225;bitat vital para una variedad de especies marinas, incluyendo ping&#252;inos y lobos marinos, as&#237; como otros animales marinos. Este cabo no solo ofrece un entorno &#250;nico para la vida silvestre, sino que tambi&#233;n representa un punto de inter&#233;s geogr&#225;fico significativo en la costa argentina. La presencia de ping&#252;inos y lobos marinos en Cabo Guardi&#225;n subraya la importancia de este lugar como un ecosistema marino diverso y pr&#243;spero, destacando la necesidad de conservaci&#243;n y protecci&#243;n de estos h&#225;bitats para asegurar la salud y la biodiversidad de las especies que lo habitan.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82,c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">89</data>
+      <data key="d7">d1ebff621da940c3b4cfb44aa263cd5d</data>
+    </node>
+    <node id="BANCOS CORMOR&#193;N Y JUSTICIA">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Los bancos Cormor&#225;n y Justicia son lugares geogr&#225;ficos que se encuentran en la costa de Argentina, y son parte del h&#225;bitat de los ping&#252;inos y lobos marinos.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">90</data>
+      <data key="d7">9c20377863434930950ba30385f5df3f</data>
+    </node>
+    <node id="PUERTO S. JULI&#193;N">
+      <data key="d0">HABITAT</data>
+      <data key="d1">El puerto S. Juli&#225;n es un lugar geogr&#225;fico que se encuentra en la costa de Argentina, y es parte del h&#225;bitat de los ping&#252;inos y lobos marinos.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">91</data>
+      <data key="d7">b259e4f4deee49b2b69bfc2da5e7692e</data>
+    </node>
+    <node id="FRANCIA">
+      <data key="d0">NONE</data>
+      <data key="d1">Francia es un pa&#237;s que se menciona como un posible mercado para la comercializaci&#243;n de los cueros de ping&#252;ino.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">92</data>
+      <data key="d7">d91ecc0442cf437d8f5b727225920fcd</data>
+    </node>
+    <node id="ESTADOS UNIDOS">
+      <data key="d0">NONE</data>
+      <data key="d1">Estados Unidos es un pa&#237;s que se menciona como un posible mercado para la comercializaci&#243;n de los cueros de ping&#252;ino.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">93</data>
+      <data key="d7">90d391db74c242e5b9b4e903141dde31</data>
+    </node>
+    <node id="MARROQUINER&#205;A">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">La marroquiner&#237;a es una industria que se menciona como un posible uso para los cueros de ping&#252;ino.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">94</data>
+      <data key="d7">53deaae7ee7d43ff91540bf23f0e1403</data>
+    </node>
+    <node id="ZAPATER&#205;A">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">La zapater&#237;a es una industria que se menciona como un posible uso para los cueros de ping&#252;ino.</data>
+      <data key="d2">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d3">14</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">95</data>
+      <data key="d7">03bcd1aace374d24b8acabb1468f1504</data>
+    </node>
+    <node id="SPHENISCUS MAGELLANICUS">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Spheniscus magellanicus es una especie de ping&#252;ino que se encuentra en la costa del litoral atl&#225;ntico y en islas adyacentes, espec&#237;ficamente en las costas del sur de Am&#233;rica del Sur. Esta especie es conocida por su tama&#241;o y comportamiento migratorio, lo que sugiere que realiza movimientos seasonales o anuales en busca de alimentos o lugares de reproducci&#243;n. La distribuci&#243;n geogr&#225;fica de Spheniscus magellanicus abarca un rango costero y marino, donde se puede encontrar en &#225;reas con acceso a recursos alimenticios y condiciones ambientales favorables. En resumen, Spheniscus magellanicus es una especie de ping&#252;ino que habita en el litoral atl&#225;ntico y sur de Am&#233;rica del Sur, caracterizada por su tama&#241;o y patrones migratorios.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">6</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">96</data>
+      <data key="d7">5df99a528d4349caa2853cfc90639d5d</data>
+    </node>
+    <node id="INDUSTRIALIZACI&#211;N">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">La industrializaci&#243;n de los ping&#252;inos comunes se refiere a la explotaci&#243;n de sus cueros y aceite para fines comerciales, regulada por disposiciones nacionales.</data>
+      <data key="d2">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">13</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">97</data>
+      <data key="d7">7136e8d0e9a64b46b814030f47d7194c</data>
+    </node>
+    <node id="DECRETO N.&#186; 12344">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1">El decreto N.&#186; 12344 es una disposici&#243;n nacional que regula la caza y explotaci&#243;n de los ping&#252;inos comunes, con el fin de crear una industria viable para la conservaci&#243;n de las especies.</data>
+      <data key="d2">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">7</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">98</data>
+      <data key="d7">9bf54f5c1acd4db4a6fcf796cbcc3b3e</data>
+    </node>
+    <node id="MINISTERIO DE AGRICULTURA">
+      <data key="d0">NONE</data>
+      <data key="d1">El Ministerio de Agricultura es el organismo responsable de regular y conceder permisos de caza de ping&#252;inos con fines de industrializaci&#243;n.</data>
+      <data key="d2">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">7</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">99</data>
+      <data key="d7">c1b5be69d01d45bab8ebbbc728b82f6b</data>
+    </node>
+    <node id="RESERVAS NATURALES">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Las reservas naturales son &#225;reas protegidas donde se encuentran los ping&#252;inos comunes, declaradas para la conservaci&#243;n de esta especie animal.</data>
+      <data key="d2">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">7</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">100</data>
+      <data key="d7">bb393c073f004fc49456e3d2f3cff4b1</data>
+    </node>
+    <node id="COLONIA DE PING&#220;INOS">
+      <data key="d0">HABITAT</data>
+      <data key="d1">La colonia de ping&#252;inos es un grupo de aves marinas que se encuentran juntas en un &#225;rea espec&#237;fica, caracterizada por su comportamiento social y reproducci&#243;n.</data>
+      <data key="d2">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">6</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">101</data>
+      <data key="d7">d6436e35a71a4064afcf5e8007d48a07</data>
+    </node>
+    <node id="NIDOS DE PING&#220;INOS">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Los nidos de ping&#252;inos son estructuras construidas por las aves marinas para incubar sus huevos y criar a sus cr&#237;as, caracterizados por su ubicaci&#243;n y dise&#241;o.</data>
+      <data key="d2">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">6</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">102</data>
+      <data key="d7">63e27be012f544419d6a04c150b5b568</data>
+    </node>
+    <node id="GUANO DE AVES MARINAS">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El guano de aves marinas es un subproducto obtenido de la explotaci&#243;n de estas aves marinas, utilizado para fines industriales y comerciales.</data>
+      <data key="d2">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">6</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">103</data>
+      <data key="d7">547ae05596914d8bb34f239272562cd8</data>
+    </node>
+    <node id="YACIMIENTOS GUANEROS">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Los yacimientos guaneros son &#225;reas donde se encuentran dep&#243;sitos de guano de aves marinas, caracterizados por su ubicaci&#243;n y tama&#241;o.</data>
+      <data key="d2">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">6</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">104</data>
+      <data key="d7">daa3ef22801b41b090a7c40638d677f4</data>
+    </node>
+    <node id="APROVECHAMIENTO INDUSTRIAL">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">El APROVECHAMIENTO INDUSTRIAL se refiere a la explotaci&#243;n de recursos naturales, espec&#237;ficamente de los ping&#252;inos comunes, para fines comerciales, donde se aprovechan sus cueros, aceite y guano. Este aprovechamiento industrial est&#225; regulado por disposiciones nacionales y se centra en la producci&#243;n de productos como la talabarter&#237;a y la peleter&#237;a, utilizando los recursos obtenidos de estos animales. En este contexto, el APROVECHAMIENTO INDUSTRIAL implica la transformaci&#243;n de los recursos naturales en productos de valor comercial, resaltando la importancia de la regulaci&#243;n para garantizar su sostenibilidad y minimizar el impacto ambiental.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82,ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">23</data>
+      <data key="d4">1</data>
+      <data key="d5">8</data>
+      <data key="d6">105</data>
+      <data key="d7">570905b27a7b4dc69dad4af4bf4ff5b1</data>
+    </node>
+    <node id="PRODUCCI&#211;N GUANERA">
+      <data key="d0">RESEARCH</data>
+      <data key="d1">La producci&#243;n guanera se refiere a la cantidad de guano de aves marinas producida en un &#225;rea espec&#237;fica, caracterizada por su tama&#241;o y calidad.</data>
+      <data key="d2">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">23</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">106</data>
+      <data key="d7">ccc72ba072e5417089ef07a44ac0ddf4</data>
+    </node>
+    <node id="LEGISLACI&#211;N SOBRE EXPLOTACI&#211;N INDUSTRIAL">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1">La legislaci&#243;n sobre explotaci&#243;n industrial de los ping&#252;inos comunes se refiere a las disposiciones nacionales que regulan la caza y explotaci&#243;n de estas aves marinas, con el fin de crear una industria viable para la conservaci&#243;n de las especies.</data>
+      <data key="d2">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">23</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">107</data>
+      <data key="d7">1c9dc43b22154c8eaeb30d77ac872e5b</data>
+    </node>
+    <node id="PING&#220;INOS DE MAGALLANES">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d3">6</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">108</data>
+      <data key="d7">3ca07828e49c413aa618a5c20a06fed8</data>
+    </node>
+    <node id="LOBOS MARINOS DE UN PELO">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los lobos marinos de un pelo son una especie de pinn&#237;pedos que se encuentran en el continente y en Tierra del Fuego, con una poblaci&#243;n censada de 137595 individuos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">23</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">109</data>
+      <data key="d7">72136bdaa92046b78ce0d8d6e2d347e5</data>
+    </node>
+    <node id="LOBOS MARINOS DE DOS PELOS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los lobos marinos de dos pelos son una especie de pinn&#237;pedos que se encuentran en Isla Escondida y de los Estados, con una poblaci&#243;n censada de 1850 individuos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">26</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">110</data>
+      <data key="d7">d5960ca124894a30b8f80f93cd76c2c0</data>
+    </node>
+    <node id="ELEFANTES MARINOS">
+      <data key="d0">PINNIPED</data>
+      <data key="d1">Los elefantes marinos son una especie de pinn&#237;pedos que se encuentran en la Pen&#237;nsula Vald&#233;s, con una poblaci&#243;n censada de 80 individuos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">25</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">111</data>
+      <data key="d7">ec80f5260f0d4171ad29610373f94cb9</data>
+    </node>
+    <node id="GUANO">
+      <data key="d0">NONE</data>
+      <data key="d1">El guano es un producto producido por varias especies de aves marinas, utilizado para el enriquecimiento de tierras empobrecidas.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">24</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">112</data>
+      <data key="d7">571143797dd844a4b10ed1557ec7e621</data>
+    </node>
+    <node id="MINISTERIO DE AGRICULTURA Y GANADER&#205;A">
+      <data key="d0">NONE</data>
+      <data key="d1">El Ministerio de Agricultura y Ganader&#237;a es una instituci&#243;n gubernamental que regula y supervisa la explotaci&#243;n de recursos naturales.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">113</data>
+      <data key="d7">b686b177a4534f43b2898fd4e78b0945</data>
+    </node>
+    <node id="CUERO">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El cuero es un producto obtenido de la piel de los lobos marinos y ping&#252;inos, utilizado para la talabarter&#237;a y la peleter&#237;a.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d5">0</data>
+      <data key="d6">114</data>
+      <data key="d7">dce2588cda5946f99dc2697686e94bac</data>
+    </node>
+    <node id="ACEITE">
+      <data key="d0">BIOLOGICAL CHARACTERISTICS</data>
+      <data key="d1">El aceite es un producto obtenido de la grasa de los lobos marinos y ping&#252;inos, utilizado para la curtir&#237;a.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d5">0</data>
+      <data key="d6">115</data>
+      <data key="d7">5e04561381de447db130af027580da58</data>
+    </node>
+    <node id="PEN&#205;NSULA VALD&#201;S">
+      <data key="d0">HABITAT</data>
+      <data key="d1">La Pen&#237;nsula Vald&#233;s es un h&#225;bitat de los elefantes marinos y otros animales marinos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">25</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">116</data>
+      <data key="d7">6d0bb4efea084109b5037fb7c27bd0f0</data>
+    </node>
+    <node id="ISLA ESCONDIDA">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Isla Escondida es un h&#225;bitat de los lobos marinos de dos pelos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">26</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">117</data>
+      <data key="d7">1e32105758114e2193cebd818f8bd3c2</data>
+    </node>
+    <node id="TIERRA DEL FUEGO">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Tierra del Fuego es un h&#225;bitat de los lobos marinos de un pelo.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">118</data>
+      <data key="d7">b04b48277a7a418a83c60207000ea8ee</data>
+    </node>
+    <node id="BAH&#205;A JANSSEN">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Bah&#237;a Janssen es un h&#225;bitat de los ping&#252;inos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">119</data>
+      <data key="d7">a742b367cecb4dd1a235de17fab27b4e</data>
+    </node>
+    <node id="BAH&#205;A CAMARONES">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Bah&#237;a Camarones es un h&#225;bitat de los ping&#252;inos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">120</data>
+      <data key="d7">0cb5920357a34830af9d49a039194066</data>
+    </node>
+    <node id="ISLA BLANCA">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Isla Blanca es un h&#225;bitat de los ping&#252;inos y otros animales marinos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">121</data>
+      <data key="d7">92e3982bd10e485492a67c2c1f63401d</data>
+    </node>
+    <node id="ISLA PING&#220;INO">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Isla Ping&#252;ino es un h&#225;bitat de los ping&#252;inos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">122</data>
+      <data key="d7">7af031598330424dade2da3c8aad1bd1</data>
+    </node>
+    <node id="BANCOS CORMOR&#193;N">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Bancos Cormor&#225;n es un h&#225;bitat de los ping&#252;inos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">123</data>
+      <data key="d7">7c9244ee72ef4e0499974b369ad98797</data>
+    </node>
+    <node id="BANCOS JUSTICIA">
+      <data key="d0">HABITAT</data>
+      <data key="d1">Bancos Justicia es un h&#225;bitat de los ping&#252;inos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">124</data>
+      <data key="d7">bf109722b18a403e922e03c02fa1a9a8</data>
+    </node>
+    <node id="DECRETO N&#176; 56844">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1">El Decreto N&#176; 56844 regula la explotaci&#243;n de los lobos marinos y ping&#252;inos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">15</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">125</data>
+      <data key="d7">018781d3ac194bbd9cc5a138e1fd7bff</data>
+    </node>
+    <node id="DECRETO N&#176; 12344">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1">El Decreto N&#176; 12344 regula la explotaci&#243;n de los ping&#252;inos.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">126</data>
+      <data key="d7">70f74d9d8e644d359fcdb602c373f1c6</data>
+    </node>
+    <node id="DECRETO N&#176; 128730">
+      <data key="d0">CONSERVATION STATUS</data>
+      <data key="d1">El Decreto N&#176; 128730 regula la explotaci&#243;n del guano.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">24</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">127</data>
+      <data key="d7">7e99627c77ba4acca13a8b268098ea0f</data>
+    </node>
+    <node id="MIROUNGA LEONINA">
+      <data key="d0">SPECIES</data>
+      <data key="d1">Mirounga leonina es una especie de elefante marino que se encuentra en la Pen&#237;nsula Vald&#233;s.</data>
+      <data key="d2">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d3">25</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">128</data>
+      <data key="d7">940235597ca046bfb7932ec7a0525c30</data>
+    </node>
+    <edge source="LOBOS MARINOS" target="MADRES">
+      <data key="d8">9.0</data>
+      <data key="d9">cuidados por</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">5630ae5b329d42a7a5bcd3d368c6adfb</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="PARASITOSIS">
+      <data key="d8">8.0</data>
+      <data key="d9">afectados por</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">616bab0019bf407780d8b7cbd9f24c7b</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="OTARIA FLAVESCENS">
+      <data key="d8">9.0</data>
+      <data key="d9">es una especie de</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">8f26a27d04fe4178a6c227f9ae7ef78d</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="NEMATODOS">
+      <data key="d8">7.0</data>
+      <data key="d9">infectados por</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">aa52bf7d252648489fa8644b0922e02e</data>
+      <data key="d12">3</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="CESTODOS">
+      <data key="d8">6.0</data>
+      <data key="d9">infectados por</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">33a32d5aed95442a97e9a6e1464dbf84</data>
+      <data key="d12">4</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="PIOJOS">
+      <data key="d8">7.0</data>
+      <data key="d9">infectados por</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">8be8ee39c784464e9715a4b5277bc744</data>
+      <data key="d12">5</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="H&#193;BITAT">
+      <data key="d8">9.0</data>
+      <data key="d9">viven en</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">ac598c1b6e184cf7a4a8bfd4df92a244</data>
+      <data key="d12">6</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="ECOSISTEMA MARINO">
+      <data key="d8">9.0</data>
+      <data key="d9">parte de</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">7f79e96c1a2f44c78aa6d47d7043b8e4</data>
+      <data key="d12">7</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="COMPORTAMIENTO">
+      <data key="d8">8.0</data>
+      <data key="d9">presentan</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">51af72d7e2674f47b3d020074f8c12ec</data>
+      <data key="d12">8</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="REPRODUCCI&#211;N">
+      <data key="d8">8.0</data>
+      <data key="d9">se reproducen</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">853552a2f39e41c5a6e4030486a46327</data>
+      <data key="d12">9</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="INVESTIGACI&#211;N">
+      <data key="d8">1.0</data>
+      <data key="d9">sobre</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">a3b1ea67115d46f08af28127b8753845</data>
+      <data key="d12">10</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="LOBER&#205;AS">
+      <data key="d8">18.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">a186675e93f74675b4d93d27b1806546</data>
+      <data key="d12">11</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="SEXO">
+      <data key="d8">12.0</data>
+      <data key="d9">se clasifican por</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">40a2ac69def54eeeae0df6bbc4004b09</data>
+      <data key="d12">12</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="PROTECCI&#211;N NATURAL">
+      <data key="d8">16.0</data>
+      <data key="d9">necesitan</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">f37c8a6852584545bac275c538a34e36</data>
+      <data key="d12">13</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="ACEITE DE LOBO MARINO">
+      <data key="d8">9.0</data>
+      <data key="d9">produce</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">77198ce479514cfe9e2b5cf8541e43df</data>
+      <data key="d12">14</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="PING&#220;INOS">
+      <data key="d8">6.0</data>
+      <data key="d9">se asemejan</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">59bb2a966c2142d38bb0e24d4ba62edc</data>
+      <data key="d12">15</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="ACEITE DE PING&#220;INO">
+      <data key="d8">6.0</data>
+      <data key="d9">se asemejan</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">598db8a16b28403d90b01c689912cbfb</data>
+      <data key="d12">16</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="PEN&#205;NSULA VALD&#201;S">
+      <data key="d8">6.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">e7af2e4be0174e31874d6f1da9e28277</data>
+      <data key="d12">17</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="TIERRA DEL FUEGO">
+      <data key="d8">7.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">5d94b7678ffe420d8fda6f9f5b228a32</data>
+      <data key="d12">18</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS" target="DECRETO N&#176; 56844">
+      <data key="d8">10.0</data>
+      <data key="d9">regula la explotaci&#243;n de</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">66f8f9a622bf4159bb4fd0261143efb5</data>
+      <data key="d12">19</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="MADRES" target="CR&#205;AS">
+      <data key="d8">10.0</data>
+      <data key="d9">cuidan a</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">9d541cb86751460cad4998391c837ade</data>
+      <data key="d12">20</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PARASITOSIS" target="CONTRA-COECUM OSCULATUM RUD">
+      <data key="d8">7.0</data>
+      <data key="d9">causada por</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">d269db8b53d7413a80c477618e029c2a</data>
+      <data key="d12">21</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PARASITOSIS" target="TETRAFILIDIO">
+      <data key="d8">6.0</data>
+      <data key="d9">causada por</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">5d989638162c4831b2ce62fd2f439ba4</data>
+      <data key="d12">22</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PARASITOSIS" target="ANTARCTOPHTHIRIUS MICROCHIR">
+      <data key="d8">7.0</data>
+      <data key="d9">causada por</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">d45b0f57674846f8992f1bb0a30e62e9</data>
+      <data key="d12">23</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CONTRA-COECUM OSCULATUM RUD" target="NEMATODOS">
+      <data key="d8">8.0</data>
+      <data key="d9">incluye a</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">f85722562d744bf182915d46e5117e65</data>
+      <data key="d12">24</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="INVESTIGACIONES PARASITARIAS" target="MATERIALES FECALES">
+      <data key="d8">1.0</data>
+      <data key="d9">utilizan</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">d60761c84da64e3ea8a5dacace400049</data>
+      <data key="d12">25</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CESTODOS" target="PHYLLOBOTHRIMUM">
+      <data key="d8">8.0</data>
+      <data key="d9">incluye a</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">03748a64edeb4ec1a2a9c86a0c7c520e</data>
+      <data key="d12">26</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PIOJOS" target="ANOPLOURO">
+      <data key="d8">8.0</data>
+      <data key="d9">incluye a</data>
+      <data key="d10">047fbbc658a3372904c9003df8fac928</data>
+      <data key="d11">bc967cba1f934d238d2d7ded12cf4296</data>
+      <data key="d12">27</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CONSERVACI&#211;N" target="APROVECHAMIENTO INDUSTRIAL">
+      <data key="d8">1.0</data>
+      <data key="d9">est&#225; regulado por</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">55cb4c17ab454759a21f3c1af44f0178</data>
+      <data key="d12">28</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CONSERVACI&#211;N" target="MINISTERIO DE AGRICULTURA Y GANADER&#205;A">
+      <data key="d8">10.0</data>
+      <data key="d9">regula la</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">d2f0918213904080b6c492d145d1667a</data>
+      <data key="d12">29</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="COSTAS CONTINENTALES">
+      <data key="d8">16.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">f5daae9642334741a8283838e581a0bf</data>
+      <data key="d12">30</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="COSTAS EXTRA-CONTINENTALES">
+      <data key="d8">14.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">0793dd01c8b44a5abac57146625dbdf3</data>
+      <data key="d12">31</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="TOPOGRAF&#205;A">
+      <data key="d8">10.0</data>
+      <data key="d9">se caracterizan por</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">20e0989b90c74a91b2779127e822a37a</data>
+      <data key="d12">32</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="AVE MARINA">
+      <data key="d8">12.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">3c5e5b6d2834492f8cd11c9c86971a50</data>
+      <data key="d12">33</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="PING&#220;INOS COMUNES">
+      <data key="d8">6.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">443f163cd5a34803b968846e4d9d1037</data>
+      <data key="d12">34</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="GAVIOTAS">
+      <data key="d8">5.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">a06d8cec7bd94e05a64d3b412d6ee245</data>
+      <data key="d12">35</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="CORMORANES">
+      <data key="d8">5.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">3beac6556d524d9d99d1fddb8a3be98e</data>
+      <data key="d12">36</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="BIGUAES">
+      <data key="d8">5.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">a7db0d5d4d82496b979dd65c6842469b</data>
+      <data key="d12">37</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="P&#193;JAROS GUANEROS">
+      <data key="d8">5.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">9052e7234eda4003bc1ed06d89cb610c</data>
+      <data key="d12">38</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="COLONIAS">
+      <data key="d8">9.0</data>
+      <data key="d9">son</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">0a4f9cfcaacf47c7b2a3b016da17ed6e</data>
+      <data key="d12">39</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="&#193;REAS COMUNES">
+      <data key="d8">8.0</data>
+      <data key="d9">son</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">066e967c4f92473da3b63cf36f2bb5b0</data>
+      <data key="d12">40</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="ISLAS">
+      <data key="d8">7.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">e328476b6ee4450b96d71186ebc3ac87</data>
+      <data key="d12">41</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="ISLOTES">
+      <data key="d8">7.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">88d5f94d52fe46138cae19ad8d021bf3</data>
+      <data key="d12">42</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="ROCAS">
+      <data key="d8">7.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">386ceb2d23d14e85a0731f3af7d14d64</data>
+      <data key="d12">43</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="COSTAS ALTAS">
+      <data key="d8">6.0</data>
+      <data key="d9">se caracterizan por</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">42a1e72e5f024188afdfbd5de4ccaaa2</data>
+      <data key="d12">44</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="ACCIDENTES">
+      <data key="d8">6.0</data>
+      <data key="d9">se caracterizan por</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">ee304cf7efe74c09a69a3efcca6b9cc8</data>
+      <data key="d12">45</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="METEOROS">
+      <data key="d8">5.0</data>
+      <data key="d9">afectan a</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">a4d3da0806e84d2b88004cf81b2e7f17</data>
+      <data key="d12">46</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="VIENTOS PATAG&#211;NICOS">
+      <data key="d8">5.0</data>
+      <data key="d9">afectan a</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">789136a10f4648068f29aeebf6942a74</data>
+      <data key="d12">47</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBER&#205;AS" target="VEGETACI&#211;N">
+      <data key="d8">1.0</data>
+      <data key="d9">se caracterizan por</data>
+      <data key="d10">00eb1b006d384f05258b2f105e84f309</data>
+      <data key="d11">1272302cbc4f462da2bfe0d04d2d4969</data>
+      <data key="d12">48</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="SEXO" target="MACHOS ADULTOS">
+      <data key="d8">6.0</data>
+      <data key="d9">se caracterizan por</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">55d75dc4307c4996b1eaef634676efbd</data>
+      <data key="d12">49</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS COMUNES" target="SPHENISCUS MAGELLANICUS">
+      <data key="d8">9.0</data>
+      <data key="d9">es una especie de</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">9c880323ff2a4cfd951cbf1a79beb66e</data>
+      <data key="d12">50</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS COMUNES" target="RESERVAS NATURALES">
+      <data key="d8">1.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">873e2559c29447dc95f6c9eb139dafb2</data>
+      <data key="d12">51</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS COMUNES" target="COLONIA DE PING&#220;INOS">
+      <data key="d8">8.0</data>
+      <data key="d9">viven en</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">8d401982967948f19a3ec48e0fd565c5</data>
+      <data key="d12">52</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS COMUNES" target="GUANO DE AVES MARINAS">
+      <data key="d8">1.0</data>
+      <data key="d9">producen</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">a60681b2f07547beb9dcb790e6cce2b8</data>
+      <data key="d12">53</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE LOBO MARINO" target="ACEITE TIPO 1">
+      <data key="d8">8.0</data>
+      <data key="d9">incluye</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">febb0c6d4f86411ea75a1a16f4cbdc36</data>
+      <data key="d12">54</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE LOBO MARINO" target="ACEITE TIPO 2">
+      <data key="d8">7.0</data>
+      <data key="d9">incluye</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">726662a95b0f46a697f3e109a8ae2853</data>
+      <data key="d12">55</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE LOBO MARINO" target="ACEITE TIPO 3">
+      <data key="d8">6.0</data>
+      <data key="d9">incluye</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">fc7b66ea0cfb4c59ab4497efc5e055f0</data>
+      <data key="d12">56</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE LOBO MARINO" target="ACEITE REFINADO">
+      <data key="d8">8.0</data>
+      <data key="d9">se obtiene de</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">baadb3974e984f5890ec3ddcf69312f5</data>
+      <data key="d12">57</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE LOBO MARINO" target="ACEITE OXIDADO">
+      <data key="d8">1.0</data>
+      <data key="d9">se obtiene de</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">7e35ea141e8149daacb5a3b20235717b</data>
+      <data key="d12">58</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE LOBO MARINO" target="DENSIDAD">
+      <data key="d8">8.0</data>
+      <data key="d9">es caracter&#237;stica de</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">4c664466a6b140598ed7364027873878</data>
+      <data key="d12">59</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE LOBO MARINO" target="&#205;NDICE DE SAPONIFICACI&#211;N">
+      <data key="d8">7.0</data>
+      <data key="d9">es caracter&#237;stica de</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">28f37df3e61049a996006d942b9af867</data>
+      <data key="d12">60</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE LOBO MARINO" target="&#205;NDICE DE YODO">
+      <data key="d8">6.0</data>
+      <data key="d9">es caracter&#237;stica de</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">191e9e2053cc42eaa38ae2d0b6de09c3</data>
+      <data key="d12">61</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE LOBO MARINO" target="ACIDEZ">
+      <data key="d8">1.0</data>
+      <data key="d9">es caracter&#237;stica de</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">ca074e74697743b8b20bcce0c61c1ab8</data>
+      <data key="d12">62</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE REFINADO" target="ACEITE SULFONADO">
+      <data key="d8">7.0</data>
+      <data key="d9">se obtiene de</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">a4f0f74ceae14dbbb60540879e4f16ff</data>
+      <data key="d12">63</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE REFINADO" target="ACEITE COM&#218;N NATURAL">
+      <data key="d8">9.0</data>
+      <data key="d9">se convierte en</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">6607644d68f04fb583192bfd65dc835f</data>
+      <data key="d12">64</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE REFINADO" target="ESTEARINA">
+      <data key="d8">8.0</data>
+      <data key="d9">se extrae de</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">c408ae5581f0458d81e5f8f7cf476cf3</data>
+      <data key="d12">65</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE REFINADO" target="LEG&#205;AS ALCALINAS">
+      <data key="d8">7.0</data>
+      <data key="d9">se utilizan en</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">bde4f179180f47e6ab66140b6093c85c</data>
+      <data key="d12">66</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE REFINADO" target="PERMANGANATO DE POTASIO">
+      <data key="d8">6.0</data>
+      <data key="d9">se utiliza en</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">e357f8824b03472db0da6e388e14e4ba</data>
+      <data key="d12">67</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="RESERVAS GRASAS" target="MACHOS ADULTOS">
+      <data key="d8">8.0</data>
+      <data key="d9">poseen</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">f87a2853523e4cff96b32272101051c4</data>
+      <data key="d12">68</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PESO" target="MACHOS ADULTOS">
+      <data key="d8">7.0</data>
+      <data key="d9">se caracterizan por</data>
+      <data key="d10">db8b432a978f4e34703f337510f8573d</data>
+      <data key="d11">b7c9d2b6bc854a8c82c28a3c54bbea67</data>
+      <data key="d12">69</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="HUEVOS">
+      <data key="d8">9.0</data>
+      <data key="d9">ponen</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">8aa5b4fa39994fa6bb8c73f285a1d425</data>
+      <data key="d12">70</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="PAR&#193;SITOS">
+      <data key="d8">5.0</data>
+      <data key="d9">albergan</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">0ff6e997c85741678cbd30e47648c840</data>
+      <data key="d12">71</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="PIOJILLO">
+      <data key="d8">5.0</data>
+      <data key="d9">albergan</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">a57e695195a0409fad9dabc6b962946c</data>
+      <data key="d12">72</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="TENIA">
+      <data key="d8">5.0</data>
+      <data key="d9">albergan</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">7737396245f14b50ab13935134b3aab4</data>
+      <data key="d12">73</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="POBLACI&#211;N DE PING&#220;INOS">
+      <data key="d8">9.0</data>
+      <data key="d9">componen</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">9652e788e68f40b788e66e52d4d527b1</data>
+      <data key="d12">74</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="R&#205;O DESEADO">
+      <data key="d8">8.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">ebb4ea73e2624a8a88389e91ca5ba2da</data>
+      <data key="d12">75</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="CABO GUARDI&#193;N">
+      <data key="d8">15.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82,c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">a32363bd60a24fc4aa1eb99e2a62568f</data>
+      <data key="d12">76</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="BANCOS CORMOR&#193;N Y JUSTICIA">
+      <data key="d8">8.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">3d02ed42be5f4aca814895d7d279595a</data>
+      <data key="d12">77</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="PUERTO S. JULI&#193;N">
+      <data key="d8">8.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">a20f6a413b284072b35d5bde6a07a5d4</data>
+      <data key="d12">78</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="APROVECHAMIENTO INDUSTRIAL">
+      <data key="d8">7.0</data>
+      <data key="d9">se aprovechan para</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">c08c669453344de4a51a2bc016de366d</data>
+      <data key="d12">79</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="BAH&#205;A JANSSEN">
+      <data key="d8">6.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">23599baf993d4ea8866c03f2073b20ae</data>
+      <data key="d12">80</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="BAH&#205;A CAMARONES">
+      <data key="d8">6.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">21114ffe3a834a4687c0607d0f08f9fa</data>
+      <data key="d12">81</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="ISLA BLANCA">
+      <data key="d8">7.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">182962a725214be784d134a1356a4249</data>
+      <data key="d12">82</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="ISLA PING&#220;INO">
+      <data key="d8">7.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">2107fb480e0b4f6486d6664f3468cfad</data>
+      <data key="d12">83</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="BANCOS CORMOR&#193;N">
+      <data key="d8">6.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">2ca804e564864085b8bec761fba01708</data>
+      <data key="d12">84</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="BANCOS JUSTICIA">
+      <data key="d8">6.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">7302f020c10a48a68d3c326525ad4679</data>
+      <data key="d12">85</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="DECRETO N&#176; 12344">
+      <data key="d8">9.0</data>
+      <data key="d9">regula la explotaci&#243;n de</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">5e6a184545504853957b32adf7b1032e</data>
+      <data key="d12">86</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PING&#220;INOS" target="SPHENISCUS MAGELLANICUS">
+      <data key="d8">10.0</data>
+      <data key="d9">es una especie de</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">12aa8c84533d4a1580b416545e42f6e5</data>
+      <data key="d12">87</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="HUEVOS" target="INCUBACI&#211;N">
+      <data key="d8">8.0</data>
+      <data key="d9">requieren</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">356558b32e134c979de2ac1372c81219</data>
+      <data key="d12">88</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="HUEVOS" target="HEMBRAS">
+      <data key="d8">9.0</data>
+      <data key="d9">ponen</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">91421cdbb1074861bb6115709e1b3129</data>
+      <data key="d12">89</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="HUEVOS" target="MACHOS">
+      <data key="d8">7.0</data>
+      <data key="d9">incuban</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">a374fd6ba31547bb936fbd22b305da55</data>
+      <data key="d12">90</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="INCUBACI&#211;N" target="CRIANZA">
+      <data key="d8">7.0</data>
+      <data key="d9">precede a</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">d4cca0f5bfe843b3b4ec483691d544b5</data>
+      <data key="d12">91</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CRIANZA" target="R&#201;GIMEN ALIMENTICIO">
+      <data key="d8">6.0</data>
+      <data key="d9">involucra</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">0a79a76413ad44ef9548aae64990f776</data>
+      <data key="d12">92</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CRIANZA" target="MORTALIDAD">
+      <data key="d8">1.0</data>
+      <data key="d9">afecta a</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">4f527676cea84234ace7afdf85a4da66</data>
+      <data key="d12">93</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="R&#201;GIMEN ALIMENTICIO" target="PICHONES">
+      <data key="d8">7.0</data>
+      <data key="d9">requieren</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">1e6f6146399149b5b16ad516f92b88d6</data>
+      <data key="d12">94</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="MORTALIDAD" target="PICHONES">
+      <data key="d8">1.0</data>
+      <data key="d9">afecta a</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">1b89eba9eee04bec9856acdc2cb3876f</data>
+      <data key="d12">95</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="NIDOS" target="PING&#220;INOS MAGALL&#193;NICOS">
+      <data key="d8">8.0</data>
+      <data key="d9">ocupan</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">5fabd805479c48ae9ef98c9ee22bb945</data>
+      <data key="d12">96</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="COPLACI&#211;N" target="FECUNDACI&#211;N">
+      <data key="d8">8.0</data>
+      <data key="d9">precede a</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">b9844a52c2604666bc38e232a2254553</data>
+      <data key="d12">97</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="FECUNDACI&#211;N" target="ECLOSI&#211;N">
+      <data key="d8">9.0</data>
+      <data key="d9">precede a</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">528c0626a5db421bae249050457744bd</data>
+      <data key="d12">98</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ECLOSI&#211;N" target="PICHONES">
+      <data key="d8">9.0</data>
+      <data key="d9">produce</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">81440aab89a545068dcb5e422c998954</data>
+      <data key="d12">99</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="PICHONES" target="PROGENITORES">
+      <data key="d8">8.0</data>
+      <data key="d9">alimentan</data>
+      <data key="d10">efb532e66a85fbbd396d1e0031bc38c6</data>
+      <data key="d11">84fa36fed5b34f8c8248a15cd77d342f</data>
+      <data key="d12">100</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="POBLACI&#211;N DE PING&#220;INOS" target="CONSERVACI&#211;N DE PING&#220;INOS">
+      <data key="d8">1.0</data>
+      <data key="d9">protege</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">a41f69cb9bad4d98b35cb7e201e39e73</data>
+      <data key="d12">101</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CONCESIONES" target="CAZA DE PING&#220;INOS">
+      <data key="d8">8.0</data>
+      <data key="d9">permiten</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">6cb1ff2eaced475ba733747711643bbe</data>
+      <data key="d12">102</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CAZA DE PING&#220;INOS" target="CUEROS DE PING&#220;INO">
+      <data key="d8">9.0</data>
+      <data key="d9">produce</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">f8d45f7935954fce9fd00867184e2f62</data>
+      <data key="d12">103</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CAZA DE PING&#220;INOS" target="ACEITE DE PING&#220;INO">
+      <data key="d8">9.0</data>
+      <data key="d9">produce</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">7157789ad3974661b1a488828ea934e3</data>
+      <data key="d12">104</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CUEROS DE PING&#220;INO" target="INDUSTRIALIZACI&#211;N DE PING&#220;INOS">
+      <data key="d8">8.0</data>
+      <data key="d9">procesa</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">e189960c09014d97a592ffbaab61fc6a</data>
+      <data key="d12">105</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CUEROS DE PING&#220;INO" target="FRANCIA">
+      <data key="d8">5.0</data>
+      <data key="d9">se comercializan en</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">57f4c87d035a4c80a4a2e8fa5105cef0</data>
+      <data key="d12">106</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CUEROS DE PING&#220;INO" target="ESTADOS UNIDOS">
+      <data key="d8">5.0</data>
+      <data key="d9">se comercializan en</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">3bd3509beca5428097bcae090b6fc539</data>
+      <data key="d12">107</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CUEROS DE PING&#220;INO" target="MARROQUINER&#205;A">
+      <data key="d8">8.0</data>
+      <data key="d9">se utilizan en</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">f843cb6d4e434a87969f46cdf07bbd85</data>
+      <data key="d12">108</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CUEROS DE PING&#220;INO" target="ZAPATER&#205;A">
+      <data key="d8">8.0</data>
+      <data key="d9">se utilizan en</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">2b3c24f1397f4161aeb1a545ac1b3170</data>
+      <data key="d12">109</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CUEROS DE PING&#220;INO" target="INDUSTRIALIZACI&#211;N">
+      <data key="d8">8.0</data>
+      <data key="d9">produce</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">3fb915d7882c420294c05fcc7724a2f2</data>
+      <data key="d12">110</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="CUEROS DE PING&#220;INO" target="ACEITE DE PING&#220;INO">
+      <data key="d8">5.0</data>
+      <data key="d9">se obtienen de</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">3c212e9340bd48dd9111445b03eb292f</data>
+      <data key="d12">111</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE PING&#220;INO" target="INDUSTRIALIZACI&#211;N DE PING&#220;INOS">
+      <data key="d8">8.0</data>
+      <data key="d9">procesa</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">a372b68135e245128ccc026ad91c3ec2</data>
+      <data key="d12">112</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ACEITE DE PING&#220;INO" target="INDUSTRIALIZACI&#211;N">
+      <data key="d8">8.0</data>
+      <data key="d9">produce</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">8864ef181a624d1f92ae724ad6752e80</data>
+      <data key="d12">113</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="INDUSTRIALIZACI&#211;N DE PING&#220;INOS" target="MARROQUINER&#205;A">
+      <data key="d8">8.0</data>
+      <data key="d9">procesa para</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">7c7552bcc2604738ae0b963f58af74aa</data>
+      <data key="d12">114</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="INDUSTRIALIZACI&#211;N DE PING&#220;INOS" target="ZAPATER&#205;A">
+      <data key="d8">1.0</data>
+      <data key="d9">procesa para</data>
+      <data key="d10">c0e82041e872b7b6fe0dc4899137a71d</data>
+      <data key="d11">fcb0785ec235436085fa570db5b44c1e</data>
+      <data key="d12">115</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="DECRETO N.&#186; 12344" target="MINISTERIO DE AGRICULTURA">
+      <data key="d8">7.0</data>
+      <data key="d9">es regulado por</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">af1236e4c42547fa8175423c7d994726</data>
+      <data key="d12">116</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="DECRETO N.&#186; 12344" target="RESERVAS NATURALES">
+      <data key="d8">6.0</data>
+      <data key="d9">declara</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">afe89a6568e749cea139b093ecaa6517</data>
+      <data key="d12">117</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="COLONIA DE PING&#220;INOS" target="NIDOS DE PING&#220;INOS">
+      <data key="d8">6.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">c77d11f4894846849796b9f195175772</data>
+      <data key="d12">118</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="NIDOS DE PING&#220;INOS" target="PING&#220;INOS DE MAGALLANES">
+      <data key="d8">7.0</data>
+      <data key="d9">construyen</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">9aa9629476624c8cb2d18536ed0732f1</data>
+      <data key="d12">119</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="GUANO DE AVES MARINAS" target="YACIMIENTOS GUANEROS">
+      <data key="d8">4.0</data>
+      <data key="d9">se encuentran en</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">46e1f670f3cf44fda7378c6450a66318</data>
+      <data key="d12">120</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="APROVECHAMIENTO INDUSTRIAL" target="PRODUCCI&#211;N GUANERA">
+      <data key="d8">3.0</data>
+      <data key="d9">produce</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">f9e1eac9d14e429799f497c483d06ddc</data>
+      <data key="d12">121</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="APROVECHAMIENTO INDUSTRIAL" target="LEGISLACI&#211;N SOBRE EXPLOTACI&#211;N INDUSTRIAL">
+      <data key="d8">2.0</data>
+      <data key="d9">regula</data>
+      <data key="d10">ff2c7455e99e69b4239b601fef6b447e</data>
+      <data key="d11">e58e91b00260436499e611d513700f56</data>
+      <data key="d12">122</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="APROVECHAMIENTO INDUSTRIAL" target="LOBOS MARINOS DE UN PELO">
+      <data key="d8">8.0</data>
+      <data key="d9">se aprovechan para</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">a8596535a73b4858b6f748dcc4ae65de</data>
+      <data key="d12">123</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="APROVECHAMIENTO INDUSTRIAL" target="LOBOS MARINOS DE DOS PELOS">
+      <data key="d8">6.0</data>
+      <data key="d9">se aprovechan para</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">5ed517d357594a8fb986ff92d90def01</data>
+      <data key="d12">124</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="APROVECHAMIENTO INDUSTRIAL" target="ELEFANTES MARINOS">
+      <data key="d8">4.0</data>
+      <data key="d9">se aprovechan para</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">dc697ef84bba483395b4b417b8709bdf</data>
+      <data key="d12">125</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="APROVECHAMIENTO INDUSTRIAL" target="GUANO">
+      <data key="d8">9.0</data>
+      <data key="d9">se utiliza para</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">b2bc2d4369a74666b0be6c1ce7adc990</data>
+      <data key="d12">126</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="LOBOS MARINOS DE DOS PELOS" target="ISLA ESCONDIDA">
+      <data key="d8">8.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">2763303a4e194cf1be202f4a16e1cf43</data>
+      <data key="d12">127</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ELEFANTES MARINOS" target="PEN&#205;NSULA VALD&#201;S">
+      <data key="d8">9.0</data>
+      <data key="d9">habitan en</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">ca9efc3891644aa1b238d3adbe96ca17</data>
+      <data key="d12">128</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="ELEFANTES MARINOS" target="MIROUNGA LEONINA">
+      <data key="d8">1.0</data>
+      <data key="d9">es una especie de</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">db09b83c458c41a89ae7263056533d71</data>
+      <data key="d12">129</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="GUANO" target="DECRETO N&#176; 128730">
+      <data key="d8">10.0</data>
+      <data key="d9">regula la explotaci&#243;n del</data>
+      <data key="d10">2d041f866c2a7f149216961d43696c82</data>
+      <data key="d11">3a0470a53ce241f29cf210c77eb9a492</data>
+      <data key="d12">130</data>
+      <data key="d13">1</data>
+    </edge>
+  </graph>
+</graphml>
