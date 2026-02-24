@@ -3,8 +3,7 @@ import os
 
 def load_graph(graph_name: str):
     """
-    Carga uno de los 4 grafos desde /data y devuelve un grafo NetworkX.
-    graph_name debe ser: 'gpt4o', 'mixtral', 'mistral', 'llama3'
+    Carga uno de los 6 grafos desde /data y devuelve un grafo NetworkX.
     """
     filename = f"data/{graph_name}.graphml"
 

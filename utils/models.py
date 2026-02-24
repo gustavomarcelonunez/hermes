@@ -17,17 +17,44 @@ MODEL_CONFIG = {
             "provider": "mistral",
             "model": "ministral-8b-2512"
     },
+    "ministral-14b-2512": {
+        "provider": "mistral",
+        "model": "ministral-14b-2512"
+    },
     "mistral-small-2506": {
         "provider": "mistral",
         "model": "mistral-small-2506"
     },
+    "mistral-large-2512": {
+        "provider": "mistral",
+        "model": "mistral-large-2512"
+    },
+    "llama-3.3-70b-versatile": {
+        "provider": "groq",
+        "model": "llama-3.3-70b-versatile"
+    },
+    "llama-3.1-8b-instant": {
+        "provider": "groq",
+        "model": "llama-3.1-8b-instant"
+    },
+    "groq/compound": {
+        "provider": "groq",
+        "model": "groq/compound"
+    },
+    "gemini-2.5-flash": {
+        "provider": "gemini",
+        "model": "gemini-2.5-flash"
+    },
+
 }
 
 # -----------------------------
 # API Keys
 # -----------------------------
-MISTRAL_KEY = os.getenv("MISTRAL_API_KEY")
 OPENAI_KEY = os.getenv("OPENAI_API_KEY")
+MISTRAL_KEY = os.getenv("MISTRAL_API_KEY")
+GROQ_KEY = os.getenv("GROQ_API_KEY")
+GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 
 # -----------------------------
 # Utility: Run chat for any provider
@@ -45,6 +72,12 @@ def run_llm(model_key, system_prompt, user_prompt):
 
     elif provider == "mistral":
         return _run_mistral(model, system_prompt, user_prompt)
+    
+    elif provider == "groq":
+        return _run_groq(model, system_prompt, user_prompt)
+
+    elif provider == "gemini":
+        return _run_gemini(model, system_prompt, user_prompt)
 
     else:
         raise ValueError(f"Provider {provider} not implemented.")
@@ -94,3 +127,62 @@ def _run_mistral(model, system_prompt, user_prompt):
         return data["choices"][0]["message"]["content"]
     except:
         return f"[MISTRAL JSON ERROR] Raw: {r.text}"
+    
+# -----------------------------
+# GROQ backend
+# -----------------------------
+def _run_groq(model, system_prompt, user_prompt):
+    url = "https://api.groq.com/openai/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {GROQ_KEY}",
+        "Content-Type": "application/json",
+    }
+
+    payload = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ]
+    }
+
+    r = requests.post(url, json=payload, headers=headers)
+
+    if r.status_code != 200:
+        return f"[GROQ ERROR {r.status_code}] {r.text}"
+
+    try:
+        data = r.json()
+        return data["choices"][0]["message"]["content"]
+    except:
+        return f"[GROQ JSON ERROR] Raw: {r.text}"
+
+
+# -----------------------------
+# GEMINI backend (v1beta OpenAI-compatible)
+# -----------------------------
+def _run_gemini(model, system_prompt, user_prompt):
+    url = "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {GEMINI_KEY}",
+        "Content-Type": "application/json",
+    }
+
+    payload = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ]
+    }
+
+    r = requests.post(url, json=payload, headers=headers)
+
+    if r.status_code != 200:
+        return f"[GEMINI ERROR {r.status_code}] {r.text}"
+
+    try:
+        data = r.json()
+        return data["choices"][0]["message"]["content"]
+    except:
+        return f"[GEMINI JSON ERROR] Raw: {r.text}"

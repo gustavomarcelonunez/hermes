@@ -3,9 +3,10 @@ from utils.load_graph import load_graph
 from utils.visualize_graph import visualize_graph
 from utils.compute_metrics import compute_metrics
 from utils.embeddings import load_graph_embeddings, build_graph_embeddings
-from utils.retrieve import get_top_k_nodes, extract_subgraph
-from utils.qa import run_qa
+from utils.retrieve import get_top_k_nodes, extract_subgraph, choose_hops
+from utils.qa import run_qa, graph_to_triplets_text
 import streamlit.components.v1 as components
+import pandas as pd
 
 st.set_page_config(page_title="HERMES – Graph Explorer", page_icon="🧭", layout="wide")
 
@@ -16,11 +17,13 @@ st.markdown("### **Step 1: Visualization and Interaction with Graphs**")
 st.sidebar.header("Select KG")
 graph_choice = st.sidebar.selectbox(
     "Available Knowledge Graphs",
-    ["gpt-4o-mini", "mixtral8x7b", "mistral7b", "llama3-8b-instruct"],
+    ["gpt-4o-mini", "mixtral8x7b", "mistral7b", "ministral-14b-2512", "mistral-large3", "llama3-8b-instruct"],
     format_func=lambda x: {
         "gpt-4o-mini": "GPT-4o-mini",
         "mixtral8x7b": "Mixtral 8x7B",
         "mistral7b": "Mistral 7B",
+        "ministral-14b-2512": "Ministral 14B",
+        "mistral-large3": "Mistral Large 3",
         "llama3-8b-instruct": "LLaMA3 8B",
     }[x],
 )
@@ -31,8 +34,14 @@ if st.sidebar.button("Load Graph"):
 
 model_names = {
     "openai_gpt4omini": "OpenAI – GPT-4o-mini",
-    "ministral-8b-2512": "Ministral 3 8B",
-    "mistral-small-2506": "Mistral Small 3.2"
+#    "ministral-8b-2512": "Ministral 3 8B",
+#    "ministral-14b-2512": "Ministral 14B",
+#    "mistral-small-2506": "Mistral Small 3.2",
+#    "mistral-large-2512": "Mistral Large",
+    "llama-3.3-70b-versatile": "Groq - Llama 3.3 70B",
+    "llama-3.1-8b-instant": "Groq - Llama 3.1 8B",
+    "groq/compound": "Groq - Compound",
+    "gemini-2.5-flash": "Gemini 2.5 Flash",
 }
 
 selected_pretty = st.sidebar.selectbox(
@@ -89,11 +98,12 @@ if "graph" in st.session_state:
             embeddings, node_list = build_graph_embeddings(G, graph_name)
 
         # 2. Recuperación top-K
-        top_nodes = get_top_k_nodes(question, embeddings, node_list, k=8)
+        top_nodes = get_top_k_nodes(question, embeddings, node_list)
         nodes_only = [n for n, _ in top_nodes]
 
         # 3. Subgrafo
-        subg = extract_subgraph(G, nodes_only, hops=1)
+        hops = choose_hops(question)
+        subg = extract_subgraph(G, nodes_only, hops=hops)
 
         # 4. LLM
         answer = run_qa(question, subg, selected_model)
@@ -101,10 +111,19 @@ if "graph" in st.session_state:
         st.markdown("### 🧠 Answer")
         st.write(answer)
 
-        # 5. Mostrar nodos relevantes
-        st.markdown("### 🔍 Recovered relevant nodes")
-        for node, score in top_nodes:
-            st.write(f"- {node} (sim={score:.3f})")
+        # 5. Mostrar tripletas como tabla RDF
+        st.markdown("### 📊 Knowledge Graph Triplets (RDF-style)")
+
+        triplets = []
+        for u, v, data in subg.edges(data=True):
+            triplets.append({
+                "Subject": u,
+                "Predicate": data.get("description", "related_to"),
+                "Object": v
+            })
+
+        df = pd.DataFrame(triplets)
+        st.dataframe(df, width='stretch')
 
 else:
     st.info("Select a graph in the side panel and press 'Load Graph'.")
