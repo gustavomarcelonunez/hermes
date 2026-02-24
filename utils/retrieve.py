@@ -24,11 +24,11 @@ def embed_query(query: str):
 
 def choose_hops(question: str):
     if len(question) < 80:
-        return 2
+        return 1
     elif len(question) < 200:
-        return 3
+        return 2
     else:
-        return 4
+        return 3
 
 def get_top_k_nodes(query, embeddings, node_list, min_k=10, sim_threshold=0.55):
     query_emb = embed_query(query)
