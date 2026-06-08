@@ -4,7 +4,8 @@ from utils.visualize_graph import visualize_graph
 from utils.compute_metrics import compute_metrics
 from utils.embeddings import load_graph_embeddings, build_graph_embeddings
 from utils.retrieve import get_top_k_nodes, extract_subgraph, choose_hops
-from utils.qa import run_qa, graph_to_triplets_text
+from utils.qa import run_qa, verify_answer
+from utils.video_popup import show_video
 import streamlit.components.v1 as components
 import pandas as pd
 
@@ -52,6 +53,9 @@ selected_pretty = st.sidebar.selectbox(
 # reverse lookup from pretty to internal key
 selected_model = {v: k for k, v in model_names.items()}[selected_pretty]
 
+if st.sidebar.button("Watch demo"):
+    show_video()
+
 
 # --- Main content ---
 if "graph" in st.session_state:
@@ -89,41 +93,97 @@ if "graph" in st.session_state:
 
     question = st.text_input("Your question:")
 
-    if st.button("Ask"):
-        # 1. Cargar o construir embeddings
-        embeddings, node_list = load_graph_embeddings(graph_name)
+    # -----------------------------------------------------------------------
+# CHANGES IN app.py — replace only the "if st.button('Ask'):" block
+# Everything else in app.py remains unchanged.
+# -----------------------------------------------------------------------
+# Add this import at the top of app.py (alongside the existing qa import):
+#   from utils.qa import run_qa, graph_to_triplets_text, verify_answer
+# -----------------------------------------------------------------------
 
+    if st.button("Ask"):
+        # 1. Load or build embeddings
+        embeddings, node_list = load_graph_embeddings(graph_name)
         if embeddings is None:
             st.warning("Generating embeddings for the first time… this may take a few minutes.")
             embeddings, node_list = build_graph_embeddings(G, graph_name)
 
-        # 2. Recuperación top-K
+        # 2. Top-K retrieval
         top_nodes = get_top_k_nodes(question, embeddings, node_list)
         nodes_only = [n for n, _ in top_nodes]
 
-        # 3. Subgrafo
+        # 3. Subgraph extraction
         hops = choose_hops(question)
         subg = extract_subgraph(G, nodes_only, hops=hops)
 
-        # 4. LLM
+        # 4. Answer generation
         answer = run_qa(question, subg, selected_model)
 
         st.markdown("### 🧠 Answer")
         st.write(answer)
 
-        # 5. Mostrar tripletas como tabla RDF
+        # 5. RDF triplets table
         st.markdown("### 📊 Knowledge Graph Triplets (RDF-style)")
-
         triplets = []
         for u, v, data in subg.edges(data=True):
             triplets.append({
-                "Subject": u,
+                "Subject":   u,
                 "Predicate": data.get("description", "related_to"),
-                "Object": v
+                "Object":    v
             })
+        df_triplets = pd.DataFrame(triplets)
+        st.dataframe(df_triplets, width='stretch')
 
-        df = pd.DataFrame(triplets)
-        st.dataframe(df, width='stretch')
+        # 6. Neuro-symbolic grounding verification
+        st.markdown("### 🔍 Neuro-Symbolic Grounding Verification")
+
+        with st.spinner("Verifying answer against knowledge graph…"):
+            verification = verify_answer(answer, subg, selected_model)
+
+        if verification["parse_error"]:
+            st.warning(f"Could not parse verification output: {verification['parse_error']}")
+            with st.expander("Raw verifier output"):
+                st.code(verification["raw_json"])
+        else:
+            # --- Metrics summary ---
+            total       = verification["total"]
+            supported   = verification["supported"]
+            partial     = verification["partial"]
+            unsupported = verification["unsupported"]
+            gf_strict   = verification["gf_strict"]
+            gf_weighted = verification["gf_weighted"]
+
+            col1, col2, col3, col4, col5 = st.columns(5)
+            col1.metric("Total claims",  total)
+            col2.metric("✅ Supported",  supported)
+            col3.metric("⚠️ Partial",    partial)
+            col4.metric("❌ Unsupported", unsupported)
+            col5.metric("GF (weighted)", f"{gf_weighted:.2%}")
+
+            # Secondary metric in smaller text
+            st.caption(f"Grounding Fidelity — Strict: **{gf_strict:.2%}** · Weighted (partial = 0.5): **{gf_weighted:.2%}**")
+
+            # --- Claims detail table ---
+            st.markdown("#### Claim-level verification")
+
+            STATUS_ICON = {
+                "SUPPORTED":   "✅",
+                "PARTIAL":     "⚠️",
+                "UNSUPPORTED": "❌",
+            }
+
+            claims_rows = []
+            for c in verification["claims"]:
+                status = c.get("status", "UNSUPPORTED")
+                evidence = c.get("evidence", [])
+                claims_rows.append({
+                    "Status":   f"{STATUS_ICON.get(status, '')} {status}",
+                    "Claim":    c.get("claim", ""),
+                    "Evidence": " | ".join(evidence) if evidence else "—",
+                })
+
+            df_claims = pd.DataFrame(claims_rows)
+            st.dataframe(df_claims, width='stretch')
 
 else:
     st.info("Select a graph in the side panel and press 'Load Graph'.")
