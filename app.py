@@ -41,7 +41,7 @@ model_names = {
 #    "mistral-large-2512": "Mistral Large",
     "llama-3.3-70b-versatile": "Groq - Llama 3.3 70B",
     "llama-3.1-8b-instant": "Groq - Llama 3.1 8B",
-    "groq/compound": "Groq - Compound",
+#    "groq/compound": "Groq - Compound",
     "gemini-2.5-flash": "Gemini 2.5 Flash",
 }
 
@@ -94,12 +94,12 @@ if "graph" in st.session_state:
     question = st.text_input("Your question:")
 
     # -----------------------------------------------------------------------
-# CHANGES IN app.py — replace only the "if st.button('Ask'):" block
-# Everything else in app.py remains unchanged.
-# -----------------------------------------------------------------------
-# Add this import at the top of app.py (alongside the existing qa import):
-#   from utils.qa import run_qa, graph_to_triplets_text, verify_answer
-# -----------------------------------------------------------------------
+    # CHANGES IN app.py — replace only the "if st.button('Ask'):" block
+    # Everything else in app.py remains unchanged.
+    # -----------------------------------------------------------------------
+    # Add this import at the top of app.py (alongside the existing qa import):
+    #   from utils.qa import run_qa, graph_to_triplets_text, verify_answer
+    # -----------------------------------------------------------------------
 
     if st.button("Ask"):
         # 1. Load or build embeddings
