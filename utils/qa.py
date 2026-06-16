@@ -55,19 +55,6 @@ Now produce your final answer.
 
 
 def verify_answer(answer: str, subgraph: nx.Graph, model_key: str) -> dict:
-    """
-    Verifies whether the claims in `answer` are supported by the subgraph triplets.
-
-    Returns a dict with:
-      - claims: list of {claim, status, evidence}
-      - supported: int
-      - partial: int
-      - unsupported: int
-      - total: int
-      - gf_strict: float   (supported / total)
-      - gf_weighted: float ((supported + 0.5 * partial) / total)
-      - raw_json: str      (raw LLM output, for debugging)
-    """
     triplets_str = graph_to_triplets_text(subgraph)
 
     system_prompt = """
@@ -84,7 +71,18 @@ Rules:
    - SUPPORTED:   directly traceable to one or more triplets (cite them).
    - PARTIAL:     indirectly suggested by the triplets but not explicit.
    - UNSUPPORTED: no triplet evidence exists for this claim.
-5. Respond ONLY with valid JSON — no preamble, no explanation outside the JSON.
+5. When a claim is a negative statement (e.g. "the graph does not contain
+   information about X"):
+   - Check whether the triplets contain ANY evidence about X.
+   - If NO triplets relate to X: classify as SUPPORTED (the negative
+     statement is correct and verifiable).
+   - If triplets partially relate to X: classify as PARTIAL.
+   - If triplets clearly contradict the negative statement: classify
+     as UNSUPPORTED.
+6. After classifying all claims, write a brief natural-language explanation summarizing the overall grounding of the response.
+   Base it strictly on the claim classifications and the triplets.
+   Do NOT introduce external knowledge.
+7. Respond ONLY with valid JSON — no preamble, no explanation outside the JSON.
 """
 
     user_prompt = f"""
@@ -98,7 +96,8 @@ And this answer to verify:
 {answer}
 </ANSWER>
 
-Decompose the answer into individual factual claims and classify each one.
+Decompose the answer into individual factual claims, classify each one,
+and write a brief grounding explanation.
 
 Respond ONLY in this exact JSON format:
 {{
@@ -118,23 +117,18 @@ Respond ONLY in this exact JSON format:
       "status": "UNSUPPORTED",
       "evidence": []
     }}
-  ]
+  ],
+  "explanation": "Brief natural-language summary of the overall grounding quality of the response."
 }}
 
 Important: grounding_fidelity will be computed externally — do NOT include it in your response.
 """
 
     raw = run_llm(model_key, system_prompt, user_prompt)
-
     return _parse_verification(raw)
 
 
 def _parse_verification(raw: str) -> dict:
-    """
-    Parses the LLM JSON output and computes grounding fidelity metrics.
-    Returns a safe dict even if parsing fails.
-    """
-    # Strip markdown code fences if present (some models wrap JSON in ```json ... ```)
     cleaned = raw.strip()
     if cleaned.startswith("```"):
         lines = cleaned.splitlines()
@@ -144,8 +138,15 @@ def _parse_verification(raw: str) -> dict:
         ).strip()
 
     try:
-        data = json.loads(cleaned)
+        #data = json.loads(cleaned)
+
+        decoder = json.JSONDecoder()
+        data, _ = decoder.raw_decode(cleaned)
+
+
+
         claims = data.get("claims", [])
+        explanation = data.get("explanation", "")
 
         supported   = sum(1 for c in claims if c.get("status") == "SUPPORTED")
         partial     = sum(1 for c in claims if c.get("status") == "PARTIAL")
@@ -157,6 +158,7 @@ def _parse_verification(raw: str) -> dict:
 
         return {
             "claims":      claims,
+            "explanation": explanation,
             "supported":   supported,
             "partial":     partial,
             "unsupported": unsupported,
@@ -170,6 +172,7 @@ def _parse_verification(raw: str) -> dict:
     except (json.JSONDecodeError, KeyError) as e:
         return {
             "claims":      [],
+            "explanation": "",
             "supported":   0,
             "partial":     0,
             "unsupported": 0,

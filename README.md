@@ -39,15 +39,19 @@ It provides:
     HERMES/
     │
     ├── app.py
-    ├── data/ # 4 GraphRAG-generated knowledge graphs
-    ├── embeddings/ # Node embeddings (saved for reproducibility)
+    ├── data/ 			    # 6 GraphRAG-generated knowledge graphs, graphml format
+    ├── embeddings/ 		# Node embeddings (saved for reproducibility)
+    ├── hermes_env/ 		# Python virtual environment
+    ├── media/			    # Explanatory video
     ├── utils/
     │ ├── load_graph.py
+    │ ├── models.py
     │ ├── visualize_graph.py
     │ ├── compute_metrics.py
     │ ├── embeddings.py
     │ ├── retrieve.py
     │ └── qa.py
+    │ ├── video_popup.py
     └── README.md
 
 ---

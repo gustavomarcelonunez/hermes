@@ -185,5 +185,10 @@ if "graph" in st.session_state:
             df_claims = pd.DataFrame(claims_rows)
             st.dataframe(df_claims, width='stretch')
 
+
+            if verification.get("explanation"):
+                st.markdown("#### 🗒️ Grounding Summary")
+                st.write(verification["explanation"])
+
 else:
     st.info("Select a graph in the side panel and press 'Load Graph'.")
