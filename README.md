@@ -11,9 +11,6 @@ HERMES is a web-based platform for natural-language querying and comparative eva
 
 HERMES was developed as part of a doctoral research project on neuro-symbolic AI for marine science data. The system is built around six knowledge graphs derived from a digitized 19th-century marine biology corpus (*Lobos marinos, pingüinos y guaneras de las costas del litoral marítimo e islas adyacentes de la República Argentina*, Carrara, 1952), each constructed using a different LLM under a shared GraphRAG prompt configuration.
 
-The platform is described in detail in the following paper (under review):
-
-> Nuñez, G., Zárate, M., Fillottrani, P. *HERMES: Grounding Fidelity Evaluation in GraphRAG-Based Marine Knowledge Graphs Across LLM Configurations*. RAGE-KG 2026, co-located with ISWC 2026.
 
 ---
 
