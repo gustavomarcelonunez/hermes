@@ -1,8 +1,8 @@
 ## 2026-06-30
-**New:** Added "Changelog" button & implementation. The HERMES demo video is now available and can be played using the "View demo" button on the side panel.
+**New:** Added "Changelog" button & implementation. The HERMES demo video is now available and can be played using the "Watch demo" button on the side panel.
 
 ## 2026-06-28
-**New:** A "View demo" button with a placeholder video has been added. The final video will be available soon.
+**New:** A "Watch demo" button with a placeholder video has been added. The final video will be available soon.
 
 ## 2026-06-25
 **Info:** Groq has deprecated Llama 3.1 8B Instant, with full decommissioning scheduled for August 16, 2026. HERMES experiments using this model were conducted prior to deprecation. GPT OSS 20B is the recommended replacement and will be evaluated as a future Q&A model option.
