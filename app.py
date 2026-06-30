@@ -6,6 +6,7 @@ from utils.embeddings import load_graph_embeddings, build_graph_embeddings
 from utils.retrieve import get_top_k_nodes, extract_subgraph, choose_hops
 from utils.qa import run_qa, verify_answer
 from utils.video_popup import show_video
+from utils.changelog import show_changelog
 import streamlit.components.v1 as components
 import pandas as pd
 
@@ -53,8 +54,15 @@ selected_pretty = st.sidebar.selectbox(
 # reverse lookup from pretty to internal key
 selected_model = {v: k for k, v in model_names.items()}[selected_pretty]
 
-if st.sidebar.button("Watch demo"):
-    show_video()
+col1, col2 = st.sidebar.columns(2)
+ 
+with col1:
+    if st.button("Watch demo"):
+        show_video()  # your existing function
+ 
+with col2:
+    if st.button("Changelog"):
+        show_changelog()
 
 
 # --- Main content ---
