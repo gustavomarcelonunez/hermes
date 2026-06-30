@@ -1,5 +1,5 @@
 ## 2026-06-30
-**New:** Added "Changelog" button & implementation.
+**New:** Added "Changelog" button & implementation. The HERMES demo video is now available and can be played using the "View demo" button on the side panel.
 
 ## 2026-06-28
 **New:** A "View demo" button with a placeholder video has been added. The final video will be available soon.
