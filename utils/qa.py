@@ -46,8 +46,7 @@ Instructions:
 - If multiple triplets are relevant, synthesize them coherently.
 - If there is conflicting or ambiguous information, state it explicitly.
 - If the answer cannot be inferred from the graph, say:
-  "No information available in the knowledge graph."
-
+  "No information available in the knowledge graph about [topic of the question]."
 Now produce your final answer.
 """
 
@@ -67,6 +66,9 @@ Rules:
 2. Be conservative: classify as SUPPORTED only when there is clear,
    direct evidence in the triplets.
 3. Decompose the answer into individual, atomic factual claims.
+   Only include claims that are EXPLICITLY stated in the answer.
+   Do NOT infer, generalize, or extrapolate claims beyond what is
+   literally written.
 4. For each claim, assign exactly one status:
    - SUPPORTED:   directly traceable to one or more triplets (cite them).
    - PARTIAL:     indirectly suggested by the triplets but not explicit.
