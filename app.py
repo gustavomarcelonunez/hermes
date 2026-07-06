@@ -7,8 +7,12 @@ from utils.retrieve import get_top_k_nodes, extract_subgraph, choose_hops
 from utils.qa import run_qa, verify_answer
 from utils.video_popup import show_video
 from utils.changelog import show_changelog
+from utils.welcome_popup import show_welcome_popup
 import streamlit.components.v1 as components
 import pandas as pd
+
+
+show_welcome_popup()
 
 st.set_page_config(page_title="HERMES – Graph Explorer", page_icon="🧭", layout="wide")
 
