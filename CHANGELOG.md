@@ -1,3 +1,6 @@
+## 2026-07-06
+**Info:** Groq has deprecated Llama 3.3 70B Versatile, with full decommissioning scheduled for August 16, 2026. HERMES experiments using this model were conducted prior to deprecation. GPT OSS 120B and Qwen3.6 27B are recommended replacements and will be evaluated as future Q&A model options.
+
 ## 2026-06-30
 **New:** Added "Changelog" button & implementation. The HERMES demo video is now available and can be played using the "Watch demo" button on the side panel.
 
