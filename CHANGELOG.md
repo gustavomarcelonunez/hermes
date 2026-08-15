@@ -1,3 +1,10 @@
+## 2026-08-15
+**Update:** Replaced deprecated Groq models with recommended alternatives.
+Llama 3.1 8B Instant has been replaced by GPT OSS 20B (openai/gpt-oss-20b)
+and Llama 3.3 70B Versatile has been replaced by GPT OSS 120B (openai/gpt-oss-120b).
+Both models are available via Groq and offer lower pricing than their predecessors.
+HERMES now supports the following Q&A models: GPT-4o-mini, GPT OSS 20B, GPT OSS 120B, and Gemini 2.5 Flash.
+
 ## 2026-07-06
 **Info:** Groq has deprecated Llama 3.3 70B Versatile, with full decommissioning scheduled for August 16, 2026. HERMES experiments using this model were conducted prior to deprecation. GPT OSS 120B and Qwen3.6 27B are recommended replacements and will be evaluated as future Q&A model options.
 

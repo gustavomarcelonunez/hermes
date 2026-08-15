@@ -40,13 +40,8 @@ if st.sidebar.button("Load Graph"):
 
 model_names = {
     "openai_gpt4omini": "OpenAI – GPT-4o-mini",
-#    "ministral-8b-2512": "Ministral 3 8B",
-#    "ministral-14b-2512": "Ministral 14B",
-#    "mistral-small-2506": "Mistral Small 3.2",
-#    "mistral-large-2512": "Mistral Large",
-    "llama-3.3-70b-versatile": "Groq - Llama 3.3 70B",
-    "llama-3.1-8b-instant": "Groq - Llama 3.1 8B",
-#    "groq/compound": "Groq - Compound",
+    "openai/gpt-oss-120b": "Groq - GPT OSS 120B",
+    "openai/gpt-oss-20b": "Groq - GPT OSS 20B",
     "gemini-2.5-flash": "Gemini 2.5 Flash",
 }
 

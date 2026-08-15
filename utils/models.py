@@ -29,13 +29,13 @@ MODEL_CONFIG = {
         "provider": "mistral",
         "model": "mistral-large-2512"
     },
-    "llama-3.3-70b-versatile": {
+    "openai/gpt-oss-120b": {
         "provider": "groq",
-        "model": "llama-3.3-70b-versatile"
+        "model": "openai/gpt-oss-120b"
     },
-    "llama-3.1-8b-instant": {
+    "openai/gpt-oss-20b": {
         "provider": "groq",
-        "model": "llama-3.1-8b-instant"
+        "model": "openai/gpt-oss-20b"
     },
     "groq/compound": {
         "provider": "groq",
